@@ -1,0 +1,13 @@
+podatki/html_strani/
+podatki/html_knjig/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Urejevalniki / OS
+.vscode/
+.DS_Store

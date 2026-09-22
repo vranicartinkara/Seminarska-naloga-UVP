@@ -1,0 +1,992 @@
+avtor,ocena,stevilo_ocen,stevilo_strani,cas_branja,nagrajena,id,naslov,url
+Maja B. Kranjc,4.3,4,245,8-9 ur,True,kjer-tece-kosuta,Kjer teče košuta,https://www.dobreknjige.si/knjige/kjer-tece-kosuta/
+Stephen King,0.0,0,267,8-9 ur,False,revolveras,Revolveraš,https://www.dobreknjige.si/knjige/revolveras/
+Avgust Demšar,4.5,2,279,9-10 ur,False,zadnja-vecerja-likovne-krimi-kratke-zgodbe,Zadnja večerja : likovne krimi kratke zgodbe,https://www.dobreknjige.si/knjige/zadnja-vecerja-likovne-krimi-kratke-zgodbe/
+Claire Keegan,5.0,4,78,2-3 ur,False,v-zadnjem-trenutku-zgodbe-o-zenskah-in-moskih,V zadnjem trenutku : zgodbe o ženskah in moških,https://www.dobreknjige.si/knjige/v-zadnjem-trenutku-zgodbe-o-zenskah-in-moskih/
+Vid Simoniti,0.0,0,477,15-16 ur,False,optimisti-roman,Optimisti: roman,https://www.dobreknjige.si/knjige/optimisti-roman/
+Tea Tulić,0.0,0,117,3-4 ur,True,mrhovinarji-starega-sveta,Mrhovinarji starega sveta,https://www.dobreknjige.si/knjige/mrhovinarji-starega-sveta/
+Amity Gaige,4.4,5,348,11-12 ur,False,srcevina-roman,Srčevina : roman,https://www.dobreknjige.si/knjige/srcevina-roman/
+Dan Simmons,4.3,3,497,16-17 ur,True,hiperion-2,Hiperion,https://www.dobreknjige.si/knjige/hiperion-2/
+Samo Rugelj,3.0,2,185,6-7 ur,False,parenzana-ekspres-trije-mozje-se-klatijo-po-stari-istrski-progi,Parenzana ekspres : trije možje se klatijo po stari istrski [...],https://www.dobreknjige.si/knjige/parenzana-ekspres-trije-mozje-se-klatijo-po-stari-istrski-progi/
+Veronika Simoniti,5.0,2,203,6-7 ur,False,kako-umirajo-ladje,Kako umirajo ladje,https://www.dobreknjige.si/knjige/kako-umirajo-ladje/
+Suad Amiry,0.0,0,119,3-4 ur,False,kapucino-v-ramali-vojni-dnevnik,Kapučino v Ramali : vojni dnevnik,https://www.dobreknjige.si/knjige/kapucino-v-ramali-vojni-dnevnik/
+Nika Nikolič,3.5,2,180,6-6 ur,False,zataknjeni-v-vezju,Zataknjeni v vezju,https://www.dobreknjige.si/knjige/zataknjeni-v-vezju/
+Tom Sharpe,0.0,0,283,9-10 ur,False,hrupna-druscina,Hrupna druščina,https://www.dobreknjige.si/knjige/hrupna-druscina/
+Najib Mahfuz,0.0,0,294,9-10 ur,True,pravi-cudez,Pravi čudež,https://www.dobreknjige.si/knjige/pravi-cudez/
+Lea Ypi,0.0,0,365,12-13 ur,False,pokoncna-zivljenje-na-prelomu-zgodovine,Pokončna : življenje na prelomu zgodovine,https://www.dobreknjige.si/knjige/pokoncna-zivljenje-na-prelomu-zgodovine/
+Jim Thompson,5.0,4,240,8-8 ur,False,morilec-v-meni,Morilec v meni,https://www.dobreknjige.si/knjige/morilec-v-meni/
+Pia Prezelj,4.7,6,147,4-5 ur,False,bili-smo-trije,Bili smo trije,https://www.dobreknjige.si/knjige/bili-smo-trije/
+Irena Štaudohar,4.5,2,291,9-10 ur,False,globoko-v-gozdu-o-intimnem-in-divjem,Globoko v gozdu : o intimnem in divjem,https://www.dobreknjige.si/knjige/globoko-v-gozdu-o-intimnem-in-divjem/
+Giuseppe D&#8217;Agata,4.8,4,,,False,znak-ukaza-misticni-triler,Znak ukaza : mistični triler,https://www.dobreknjige.si/knjige/znak-ukaza-misticni-triler/
+Helena Pielichaty,0.0,0,175,5-6 ur,False,nikoli-in-nikdar,Nikoli in nikdar,https://www.dobreknjige.si/knjige/nikoli-in-nikdar/
+Clare Azzopardi,5.0,2,257,8-9 ur,False,inspektor-castillo-2,Inšpektor Castillo,https://www.dobreknjige.si/knjige/inspektor-castillo-2/
+Fredrik Backman,4.8,8,454,15-16 ur,False,moji-prijatelji,Moji prijatelji,https://www.dobreknjige.si/knjige/moji-prijatelji/
+Mirana Likar,4.5,2,161,5-6 ur,False,zenska-hisa,Ženska hiša,https://www.dobreknjige.si/knjige/zenska-hisa/
+Helena Šuklje,5.0,3,208,6-7 ur,False,blizina-na-recept,Bližina na recept,https://www.dobreknjige.si/knjige/blizina-na-recept/
+Nina Majer,5.0,2,411,13-14 ur,False,sampon-v-trezorju-roman,Šampon v trezorju : roman,https://www.dobreknjige.si/knjige/sampon-v-trezorju-roman/
+Nikola Huppertz,0.0,0,205,6-7 ur,False,lepa-kot-osmica,Lepa kot osmica,https://www.dobreknjige.si/knjige/lepa-kot-osmica/
+Mikel Santiago,4.5,4,460,15-16 ur,False,zadnja-noc-v-tremore-beachu,Zadnja noč v Tremore Beachu,https://www.dobreknjige.si/knjige/zadnja-noc-v-tremore-beachu/
+Brina Švigelj-Mérat,3.5,2,132,4-5 ur,False,adios-buenos-aires,Adiós Buenos Aires,https://www.dobreknjige.si/knjige/adios-buenos-aires/
+Dina Delić,0.0,0,174,5-6 ur,False,levje-srce-pot-matere-skozi-bolecino-pogum-in-preobrazbo,"Levje srce : pot matere skozi bolečino, pogum in preobrazbo",https://www.dobreknjige.si/knjige/levje-srce-pot-matere-skozi-bolecino-pogum-in-preobrazbo/
+Solvej Balle,4.0,2,204,6-7 ur,True,o-prostornini-casa-3,O prostornini časa 3,https://www.dobreknjige.si/knjige/o-prostornini-casa-3/
+Alida Bremer,0.0,0,295,9-10 ur,False,sanje-in-kulise,Sanje in kulise,https://www.dobreknjige.si/knjige/sanje-in-kulise/
+Goran Marković,0.0,0,129,4-5 ur,False,doktor-d-2,Doktor D.,https://www.dobreknjige.si/knjige/doktor-d-2/
+Ag Apolloni,0.0,0,118,3-4 ur,False,iskra-upanja-iskra-vzigalice-dokumentarni-roman,"Iskra upanja, iskra vžigalice : dokumentarni roman",https://www.dobreknjige.si/knjige/iskra-upanja-iskra-vzigalice-dokumentarni-roman/
+Karin Erlandsson,0.0,0,167,5-6 ur,False,modra-preja-nordijska-hvalnica-pletenju,Modra preja : nordijska hvalnica pletenju,https://www.dobreknjige.si/knjige/modra-preja-nordijska-hvalnica-pletenju/
+Matej Kocjančič,3.6,7,246,8-9 ur,False,najin-odpeti-slucaj-2,Najin odpeti slučaj,https://www.dobreknjige.si/knjige/najin-odpeti-slucaj-2/
+J. K. Rowling,4.8,6,934,31-32 ur,False,skriti-grob,Skriti grob,https://www.dobreknjige.si/knjige/skriti-grob/
+Didier Eribon,0.0,0,241,8-9 ur,False,zivljenje-starost-in-smrt-navadne-delavke,"Življenje, starost in smrt navadne delavke",https://www.dobreknjige.si/knjige/zivljenje-starost-in-smrt-navadne-delavke/
+Samantha Harvey,4.4,5,142,4-5 ur,True,v-orbiti,V orbiti,https://www.dobreknjige.si/knjige/v-orbiti/
+Agri Ismaïl,5.0,1,412,13-14 ur,False,hiper,Hiper,https://www.dobreknjige.si/knjige/hiper/
+Jacqueline Harpman,4.9,8,229,7-8 ur,False,jaz-ki-nisem-nikoli-poznala-moskih,"Jaz, ki nisem nikoli poznala moških",https://www.dobreknjige.si/knjige/jaz-ki-nisem-nikoli-poznala-moskih/
+Delphine de Vigan,3.4,8,269,8-9 ur,False,otroci-so-zakon,Otroci so zakon,https://www.dobreknjige.si/knjige/otroci-so-zakon/
+James Hollis,5.0,1,200,6-7 ur,False,kriza-srednjih-let-od-stiske-do-smisla,Kriza srednjih let : od stiske do smisla,https://www.dobreknjige.si/knjige/kriza-srednjih-let-od-stiske-do-smisla/
+Elif Shafak,4.8,23,446,14-15 ur,False,po-nebu-tecejo-reke,Po nebu tečejo reke,https://www.dobreknjige.si/knjige/po-nebu-tecejo-reke/
+Valentijn Hoogenkamp,0.0,0,,,False,antiboy-2,Antiboy,https://www.dobreknjige.si/knjige/antiboy-2/
+Solvej Balle,4.5,2,202,6-7 ur,True,o-prostornini-casa-2,O prostornini časa 2,https://www.dobreknjige.si/knjige/o-prostornini-casa-2/
+Mario Vargas Llosa,5.0,1,401,13-14 ur,False,zabava-pri-kozlu-3,Zabava pri Kozlu,https://www.dobreknjige.si/knjige/zabava-pri-kozlu-3/
+Jenny Erpenbeck,4.3,3,368,12-13 ur,True,kairos,Kairos,https://www.dobreknjige.si/knjige/kairos/
+Mateja Gomboc,5.0,5,244,8-9 ur,False,prevec-zvezd,Preveč zvezd,https://www.dobreknjige.si/knjige/prevec-zvezd/
+Olivier Bourdeaut,5.0,3,135,4-5 ur,True,cakajoc-na-bojanglesa,Čakajoč na Bojanglesa,https://www.dobreknjige.si/knjige/cakajoc-na-bojanglesa/
+Mateja Perpar,5.0,2,178,5-6 ur,False,psiha-mi-niha-zgodbe-iz-psihoterapevtske-ordinacije-slovitega-doktorja-olafa-dunkelkopfa,Psiha mi niha : [zgodbe iz psihoterapevtske ordinacije slovi [...],https://www.dobreknjige.si/knjige/psiha-mi-niha-zgodbe-iz-psihoterapevtske-ordinacije-slovitega-doktorja-olafa-dunkelkopfa/
+Jón Kalman Stefánsson,4.0,5,255,8-9 ur,True,poletna-svetloba-in-nato-noc,"Poletna svetloba, in nato noč",https://www.dobreknjige.si/knjige/poletna-svetloba-in-nato-noc/
+Simona Hamer,3.9,14,260,8-9 ur,False,cimra,Cimra,https://www.dobreknjige.si/knjige/cimra/
+Manca Košir,4.0,1,508,16-17 ur,False,manj-je-mene-bolj-sem-jaz,"Manj je mene, bolj sem Jaz",https://www.dobreknjige.si/knjige/manj-je-mene-bolj-sem-jaz/
+Arttu Tuominen,4.3,3,324,10-11 ur,False,na-cistem,Na čistem,https://www.dobreknjige.si/knjige/na-cistem/
+Janko Valjavec,0.0,0,334,11-12 ur,False,v-imenu-sina,V imenu sina,https://www.dobreknjige.si/knjige/v-imenu-sina/
+Lucija Lenarčič Bošnjak,5.0,3,410,13-14 ur,False,nikdar-enaka,Nikdar enaka,https://www.dobreknjige.si/knjige/nikdar-enaka/
+Ragnar Jonasson,4.5,2,266,8-9 ur,False,smrt-v-sanatoriju,Smrt v sanatoriju,https://www.dobreknjige.si/knjige/smrt-v-sanatoriju/
+Thomas Hardy,5.0,1,248,8-9 ur,False,v-senci-bukev-in-hoj,V senci bukev in hoj,https://www.dobreknjige.si/knjige/v-senci-bukev-in-hoj/
+Sigrid Nunez,0.0,0,236,7-8 ur,False,ranljivi,Ranljivi,https://www.dobreknjige.si/knjige/ranljivi/
+Michel Houellebecq,5.0,1,560,18-19 ur,False,uniciti-2,Uničiti,https://www.dobreknjige.si/knjige/uniciti-2/
+Pavao Pavličić,0.0,0,229,7-8 ur,False,lepopis,Lepopis,https://www.dobreknjige.si/knjige/lepopis/
+Sayaka Murata,4.0,2,240,8-8 ur,False,zemljani,Zemljani,https://www.dobreknjige.si/knjige/zemljani/
+Henning Mankell,4.7,3,262,8-9 ur,False,psi-iz-rige-inspektor-wallander-v-primezu-tranzicije,Psi iz Rige : inšpektor Wallander v primežu tranzicije,https://www.dobreknjige.si/knjige/psi-iz-rige-inspektor-wallander-v-primezu-tranzicije/
+Alessandra Mattanza,0.0,0,239,7-8 ur,False,banksy-neuradno-2,Banksy neuradno,https://www.dobreknjige.si/knjige/banksy-neuradno-2/
+Alenka Vesenjak,4.3,4,169,5-6 ur,False,kamp,Kamp,https://www.dobreknjige.si/knjige/kamp/
+Asta Olivia Nordenhof,5.0,1,154,5-6 ur,True,scandinavian-star-del-1-polni-zepi,"Scandinavian Star. Del 1, Polni žepi",https://www.dobreknjige.si/knjige/scandinavian-star-del-1-polni-zepi/
+Yoko Ogawa,4.0,4,277,9-10 ur,True,tiha-kristalizacija,Tiha kristalizacija,https://www.dobreknjige.si/knjige/tiha-kristalizacija/
+Percival Everett,4.1,8,365,12-13 ur,True,drevesa-2,Drevesa,https://www.dobreknjige.si/knjige/drevesa-2/
+Solvej Balle,4.5,6,184,6-7 ur,True,o-prostornini-casa-i,O prostornini časa I,https://www.dobreknjige.si/knjige/o-prostornini-casa-i/
+Vincenzo Latronico,4.0,1,111,3-4 ur,False,popolnosti,Popolnosti,https://www.dobreknjige.si/knjige/popolnosti/
+Karmen Petric,4.1,14,277,9-10 ur,False,smrt-v-rezidenci,Smrt v rezidenci,https://www.dobreknjige.si/knjige/smrt-v-rezidenci/
+Filipa Melo,0.0,0,139,4-5 ur,False,to-je-moje-telo,To je moje telo,https://www.dobreknjige.si/knjige/to-je-moje-telo/
+Maša Jelušič,4.4,18,365,12-13 ur,False,profesor-je-koncno-mrtev,Profesor je končno mrtev,https://www.dobreknjige.si/knjige/profesor-je-koncno-mrtev/
+Colleen Hoover,3.0,1,394,13-14 ur,False,nikoli-nikoli,"Nikoli, nikoli",https://www.dobreknjige.si/knjige/nikoli-nikoli/
+Ulf Kvensler,4.0,1,445,14-15 ur,False,gasilec,Gasilec,https://www.dobreknjige.si/knjige/gasilec/
+Lara Paukovič,3.8,16,207,6-7 ur,False,miza-za-stiri,Miza za štiri,https://www.dobreknjige.si/knjige/miza-za-stiri/
+Ursula K. Le Guin,4.3,4,205,6-7 ur,True,nebeski-mlin,Nebeški mlin,https://www.dobreknjige.si/knjige/nebeski-mlin/
+Andrej Blatnik,0.0,0,247,8-9 ur,True,besedi-na-sledi-lovljenje-knjig-v-juzni-aziji,Besedi na sledi : lovljenje knjig v Južni Aziji,https://www.dobreknjige.si/knjige/besedi-na-sledi-lovljenje-knjig-v-juzni-aziji/
+Miloš Kosec,4.0,1,129,4-5 ur,False,enfilade-zivljenje-stanovanja-2,Enfilade : življenje stanovanja,https://www.dobreknjige.si/knjige/enfilade-zivljenje-stanovanja-2/
+Colombe Schneck,4.1,7,138,4-5 ur,False,diptih,Diptih,https://www.dobreknjige.si/knjige/diptih/
+Stanisław Lem,0.0,0,182,6-7 ur,False,futuroloski-kongres-iz-spominov-ijona-tihega,Futurološki kongres : iz spominov Ijona Tihega,https://www.dobreknjige.si/knjige/futuroloski-kongres-iz-spominov-ijona-tihega/
+Guadalupe Nettel,3.5,2,,,False,gostiteljica,Gostiteljica,https://www.dobreknjige.si/knjige/gostiteljica/
+Dolly Alderton,5.0,3,396,13-14 ur,False,v-ljubezni-je-pac-tako,V ljubezni je pač tako,https://www.dobreknjige.si/knjige/v-ljubezni-je-pac-tako/
+Paolo Giordano,4.5,11,287,9-10 ur,False,tasmanija,Tasmanija,https://www.dobreknjige.si/knjige/tasmanija/
+Aleš Šteger,5.0,3,213,7-8 ur,False,ogenj-roman-po-motivih-iz-zivljenja-stefke-cobelj,Ogenj : roman po motivih iz življenja Štefke Cobelj,https://www.dobreknjige.si/knjige/ogenj-roman-po-motivih-iz-zivljenja-stefke-cobelj/
+Mark Russell,3.5,2,105,3-4 ur,True,ne-vsi-roboti,Ne vsi roboti,https://www.dobreknjige.si/knjige/ne-vsi-roboti/
+Samanta Hadžić Žavski,3.5,4,208,6-7 ur,False,se-en-vdih,Še en vdih,https://www.dobreknjige.si/knjige/se-en-vdih/
+Yanis Varoufakis,0.0,0,262,8-9 ur,False,tehnofevdalizem-kaj-je-pokoncalo-kapitalizem,Tehnofevdalizem : kaj je pokončalo kapitalizem,https://www.dobreknjige.si/knjige/tehnofevdalizem-kaj-je-pokoncalo-kapitalizem/
+Irma Marinčič Ožbalt,0.0,0,220,7-8 ur,False,zuzemberk-iz-tolmunov-ljubezni-in-bolecine,Žužemberk : iz tolmunov ljubezni in bolečine,https://www.dobreknjige.si/knjige/zuzemberk-iz-tolmunov-ljubezni-in-bolecine/
+Ottessa Moshfegh,4.5,2,249,8-9 ur,False,domotozje-po-drugem-svetu,Domotožje po drugem svetu,https://www.dobreknjige.si/knjige/domotozje-po-drugem-svetu/
+Henning Mankell,5.0,1,251,8-9 ur,False,morilec-brez-obraza,Morilec brez obraza,https://www.dobreknjige.si/knjige/morilec-brez-obraza/
+Francesco Romagnoli,5.0,1,235,7-8 ur,False,babaje-klic-nevidnih-otrok-3,Babajé : klic nevidnih otrok,https://www.dobreknjige.si/knjige/babaje-klic-nevidnih-otrok-3/
+Zanzim,5.0,3,161,5-6 ur,False,moska-koza,Moška koža,https://www.dobreknjige.si/knjige/moska-koza/
+Annie Ernaux,4.8,5,155,5-6 ur,False,tri-besedila,Tri besedila,https://www.dobreknjige.si/knjige/tri-besedila/
+Isaac Bashevis Singer,0.0,0,550,18-19 ur,False,rodovina-muskat,Rodovina Muškat,https://www.dobreknjige.si/knjige/rodovina-muskat/
+Babas,4.0,4,145,4-5 ur,False,kako-udomacis-cloveka-prirocnik-za-macke,Kako udomačiš človeka: priročnik za mačke,https://www.dobreknjige.si/knjige/kako-udomacis-cloveka-prirocnik-za-macke/
+Sara Volčič,4.1,12,311,10-11 ur,False,leglo-zla-iz-oci-v-oci-z-najhujsimi-zlocinci-na-slovenskem,Leglo zla : iz oči v oči z najhujšimi zločinci na Slovenskem,https://www.dobreknjige.si/knjige/leglo-zla-iz-oci-v-oci-z-najhujsimi-zlocinci-na-slovenskem/
+Manca G. Renko,4.4,16,138,4-5 ur,False,zivalsko-mesto-eseji-o-popularni-kulturi-zgodovini-in-custvih,"Živalsko mesto : eseji o popularni kulturi, zgodovini in čus [...]",https://www.dobreknjige.si/knjige/zivalsko-mesto-eseji-o-popularni-kulturi-zgodovini-in-custvih/
+Frank Herbert,5.0,1,426,14-15 ur,False,heretiki-pescenega-planeta,Heretiki peščenega planeta,https://www.dobreknjige.si/knjige/heretiki-pescenega-planeta/
+Helen Oyeyemi,5.0,1,256,8-9 ur,True,bela-je-za-copranje,Bela je za copranje,https://www.dobreknjige.si/knjige/bela-je-za-copranje/
+Anne Mette Hancock,4.3,7,331,11-12 ur,False,pitbul,Pitbul,https://www.dobreknjige.si/knjige/pitbul/
+Malin Stehn,4.4,5,394,13-14 ur,False,srecno-novo-leto,Srečno novo leto,https://www.dobreknjige.si/knjige/srecno-novo-leto/
+Matthew Perry,4.0,2,200,6-7 ur,False,prijatelji-ljubezen-in-velika-grozna-stvar-avtobiografija-2,"Prijatelji, ljubezen in velika grozna stvar : avtobiografija",https://www.dobreknjige.si/knjige/prijatelji-ljubezen-in-velika-grozna-stvar-avtobiografija-2/
+Hiro Arikawa,4.8,18,230,7-8 ur,False,macek-gre-na-pot,Maček gre na pot,https://www.dobreknjige.si/knjige/macek-gre-na-pot/
+Selma Skenderović,3.6,8,224,7-8 ur,False,in-ce-vsi-pozabijo,In če vsi pozabijo,https://www.dobreknjige.si/knjige/in-ce-vsi-pozabijo/
+David Foenkinos,5.0,2,215,7-8 ur,False,charlotte,Charlotte,https://www.dobreknjige.si/knjige/charlotte/
+César Aira,5.0,1,115,3-4 ur,False,kako-sem-postal-nuna-roman-2,Kako sem postal nuna : (roman),https://www.dobreknjige.si/knjige/kako-sem-postal-nuna-roman-2/
+David Lagercrantz,4.0,2,386,12-13 ur,False,obscuritas,Obscuritas,https://www.dobreknjige.si/knjige/obscuritas/
+David Lagercrantz,4.5,2,330,11-11 ur,False,memoria,Memoria,https://www.dobreknjige.si/knjige/memoria/
+Sofi Oksanen,4.7,7,461,15-16 ur,False,pasji-park,Pasji park,https://www.dobreknjige.si/knjige/pasji-park/
+J. Bernlef,4.7,3,140,4-5 ur,False,tvarina-uma,Tvarina uma,https://www.dobreknjige.si/knjige/tvarina-uma/
+Peter Handke,4.5,2,57,1-2 ur,False,moj-dan-v-drugi-dezeli-zgodba-o-demonih,Moj dan v drugi deželi : zgodba o demonih,https://www.dobreknjige.si/knjige/moj-dan-v-drugi-dezeli-zgodba-o-demonih/
+Harriet Constable,4.5,2,359,11-12 ur,False,violinistka-2,Violinistka,https://www.dobreknjige.si/knjige/violinistka-2/
+Irena Cerar,3.9,21,313,10-11 ur,False,svetisca-narave-sedem-tednov-vsezivosti,Svetišča narave : sedem tednov vseživosti,https://www.dobreknjige.si/knjige/svetisca-narave-sedem-tednov-vsezivosti/
+Miha Mazzini,5.0,1,192,6-7 ur,False,menjava-glasbe,Menjava glasbe,https://www.dobreknjige.si/knjige/menjava-glasbe/
+Sally Rooney,4.4,15,461,15-16 ur,False,intermezzo,Intermezzo,https://www.dobreknjige.si/knjige/intermezzo/
+Andrej Belyj,0.0,0,301,10-11 ur,False,srebrni-golob-povest-v-sedmih-poglavjih-2,Srebrni golob : povest v sedmih poglavjih,https://www.dobreknjige.si/knjige/srebrni-golob-povest-v-sedmih-poglavjih-2/
+César Aira,5.0,2,99,3-4 ur,False,lipa,Lipa,https://www.dobreknjige.si/knjige/lipa/
+Douglas Stuart,4.6,11,412,13-14 ur,False,mladi-mungo,Mladi Mungo,https://www.dobreknjige.si/knjige/mladi-mungo/
+Pirkko Saisio,0.0,0,283,9-10 ur,True,rdeca-knjiga-locitve,Rdeča knjiga ločitve,https://www.dobreknjige.si/knjige/rdeca-knjiga-locitve/
+Michael Scharang,0.0,0,211,7-8 ur,False,komedija-staranja-roman,Komedija staranja : roman,https://www.dobreknjige.si/knjige/komedija-staranja-roman/
+Tana French,4.5,2,537,17-18 ur,False,podobnost,Podobnost,https://www.dobreknjige.si/knjige/podobnost/
+Matej Kocjančič,4.7,7,199,6-7 ur,False,veselicka-2,Veselička,https://www.dobreknjige.si/knjige/veselicka-2/
+Denis Škofič,5.0,2,93,3-4 ur,True,tuskulum,Tuskulum,https://www.dobreknjige.si/knjige/tuskulum/
+Caroline Wahl,4.6,5,232,7-8 ur,False,22-dolzin,22 dolžin,https://www.dobreknjige.si/knjige/22-dolzin/
+Elizabeth Strout,4.2,5,157,5-6 ur,False,ime-mi-je-lucy-barton,Ime mi je Lucy Barton,https://www.dobreknjige.si/knjige/ime-mi-je-lucy-barton/
+Christine Arnothy,4.0,1,127,4-5 ur,False,imam-petnajst-let-in-nocem-umreti,Imam petnajst let in nočem umreti,https://www.dobreknjige.si/knjige/imam-petnajst-let-in-nocem-umreti/
+José Saramago,3.0,1,264,8-9 ur,False,zapis-o-samostanu-2,Zapis o samostanu,https://www.dobreknjige.si/knjige/zapis-o-samostanu-2/
+Camila Sosa Villada,4.3,11,196,6-7 ur,False,pokvarjenke,Pokvarjenke,https://www.dobreknjige.si/knjige/pokvarjenke/
+Dan Podjed,4.3,4,207,6-7 ur,False,krizolacija-fantasticna-povest-o-izoliranih-ljudeh-2,Krizolacija : fantastična povest o izoliranih ljudeh,https://www.dobreknjige.si/knjige/krizolacija-fantasticna-povest-o-izoliranih-ljudeh-2/
+Italo Svevo,0.0,0,441,14-15 ur,False,zenova-zavest,Zenova zavest,https://www.dobreknjige.si/knjige/zenova-zavest/
+Cvetka Sokolov,0.0,0,127,4-5 ur,False,pa-ne-ze-spet,Pa ne že spet!,https://www.dobreknjige.si/knjige/pa-ne-ze-spet/
+Vinko Möderndorfer,4.7,3,96,3-4 ur,False,jaz-sem-gaj-o-tem-kdo-sem-kaksen-sem-in-podobno-2,"Jaz sem Gaj : o tem, kdo sem, kakšen sem. In podobno",https://www.dobreknjige.si/knjige/jaz-sem-gaj-o-tem-kdo-sem-kaksen-sem-in-podobno-2/
+Olga Tokarczuk,4.2,5,356,11-12 ur,False,empuzij-naravnozdravilska-srhljivka,Empuzij : naravnozdravilska srhljivka,https://www.dobreknjige.si/knjige/empuzij-naravnozdravilska-srhljivka/
+Stephen King,4.8,4,565,18-19 ur,False,sijanje,Sijanje,https://www.dobreknjige.si/knjige/sijanje/
+Tina Perić,4.8,22,170,5-6 ur,True,crtice,Ćrtice,https://www.dobreknjige.si/knjige/crtice/
+Constance Debré,3.0,3,159,5-6 ur,False,play-boy,Play boy,https://www.dobreknjige.si/knjige/play-boy/
+Jerzy Franczak,4.0,1,173,5-6 ur,False,nn,NN,https://www.dobreknjige.si/knjige/nn/
+Nicolas Mathieu,0.0,0,487,16-17 ur,True,njihovi-otroci-za-njimi,Njihovi otroci za njimi,https://www.dobreknjige.si/knjige/njihovi-otroci-za-njimi/
+Kapka Kassabova,4.8,5,472,15-16 ur,False,meja-potovanje-na-rob-evrope,Meja : potovanje na rob Evrope,https://www.dobreknjige.si/knjige/meja-potovanje-na-rob-evrope/
+Gore Vidal,0.0,0,,,False,myra-breckinridge,Myra Breckinridge,https://www.dobreknjige.si/knjige/myra-breckinridge/
+Nataša Kramberger,4.7,6,133,4-5 ur,True,po-vsej-sili-ziv,Po vsej sili živ,https://www.dobreknjige.si/knjige/po-vsej-sili-ziv/
+Toshikazu Kawaguchi,4.0,11,224,7-8 ur,False,preden-se-kava-ohladi-zgodbe-iz-kavarne,Preden se kava ohladi : zgodbe iz kavarne,https://www.dobreknjige.si/knjige/preden-se-kava-ohladi-zgodbe-iz-kavarne/
+Ula Bratkovič,0.0,0,144,4-5 ur,True,lepo-spi-lepotec-2,"Lepo spi, lepotec",https://www.dobreknjige.si/knjige/lepo-spi-lepotec-2/
+Jennifer Clement,0.0,0,147,4-5 ur,False,vdova-basquiat,Vdova Basquiat,https://www.dobreknjige.si/knjige/vdova-basquiat/
+Isabelle Pralong,4.5,2,149,4-5 ur,True,polly,Polly,https://www.dobreknjige.si/knjige/polly/
+Constance Debré,3.5,4,122,4-5 ur,False,love-me-tender,Love me tender,https://www.dobreknjige.si/knjige/love-me-tender/
+Richard Osman,4.2,6,412,13-14 ur,False,zlu-za-petami,Zlu za petami,https://www.dobreknjige.si/knjige/zlu-za-petami/
+François Emmanuel,0.0,0,182,6-7 ur,True,partija-indijskega-saha,Partija indijskega šaha,https://www.dobreknjige.si/knjige/partija-indijskega-saha/
+Margriet de Moor,0.0,0,120,4-4 ur,False,virtuoz,Virtuoz,https://www.dobreknjige.si/knjige/virtuoz/
+Ane Riel,4.5,8,257,8-9 ur,True,smola,Smola,https://www.dobreknjige.si/knjige/smola/
+Louise Kennedy,4.4,5,327,10-11 ur,True,prestopki,Prestopki,https://www.dobreknjige.si/knjige/prestopki/
+Zoran Ferić,5.0,1,591,19-20 ur,False,potujoce-gledalisce-2,Potujoče gledališče,https://www.dobreknjige.si/knjige/potujoce-gledalisce-2/
+Emelie Schepp,5.0,1,367,12-13 ur,False,zaznamovani-za-vse-zivljenje-kriminalni-roman,Zaznamovani za vse življenje : kriminalni roman,https://www.dobreknjige.si/knjige/zaznamovani-za-vse-zivljenje-kriminalni-roman/
+Olga Tokarczuk,4.8,4,216,7-8 ur,True,popotovanje-ljudi-knjige,Popotovanje ljudi Knjige,https://www.dobreknjige.si/knjige/popotovanje-ljudi-knjige/
+Paul Torday,3.5,2,,,False,muharjenje-v-jemnu,Muharjenje v Jemnu,https://www.dobreknjige.si/knjige/muharjenje-v-jemnu/
+Wim Hof,4.0,1,239,7-8 ur,False,metoda-wima-hofa-odklenite-svoj-polni-cloveski-potencial-2,Metoda Wima Hofa : odklenite svoj polni človeški potencial,https://www.dobreknjige.si/knjige/metoda-wima-hofa-odklenite-svoj-polni-cloveski-potencial-2/
+Sten Nadolny,3.5,2,296,9-10 ur,False,odkritje-pocasnosti-2,Odkritje počasnosti,https://www.dobreknjige.si/knjige/odkritje-pocasnosti-2/
+Emi Yagi,4.1,13,131,4-5 ur,False,briljantna-domislica-gospodicne-sibata-2,Briljantna domislica gospodične Šibata,https://www.dobreknjige.si/knjige/briljantna-domislica-gospodicne-sibata-2/
+Štěpánka Jislová,4.8,4,115,3-4 ur,False,brez-las,Brez las,https://www.dobreknjige.si/knjige/brez-las/
+Tomas Espedal,4.5,4,207,6-7 ur,False,pes-ali-umetnost-divjega-in-poeticnega-zivljenja,Peš (ali Umetnost divjega in poetičnega življenja),https://www.dobreknjige.si/knjige/pes-ali-umetnost-divjega-in-poeticnega-zivljenja/
+Boris Akunin,0.0,0,224,7-8 ur,False,leviatan,Leviatan,https://www.dobreknjige.si/knjige/leviatan/
+Andreï Makine,2.0,1,148,4-5 ur,False,stari-koledar-njune-ljubezni-2,Stari koledar njune ljubezni,https://www.dobreknjige.si/knjige/stari-koledar-njune-ljubezni-2/
+Judith Hermann,4.0,1,112,3-4 ur,False,poletna-hisa-pozneje-zgodbe,"Poletna hiša, pozneje : zgodbe",https://www.dobreknjige.si/knjige/poletna-hisa-pozneje-zgodbe/
+Barbara Cerkovnik,5.0,1,249,8-9 ur,False,vino-pijes-mi-zivljenje-osebna-izpoved-2,"Vino, piješ mi življenje : osebna izpoved",https://www.dobreknjige.si/knjige/vino-pijes-mi-zivljenje-osebna-izpoved-2/
+Boris Akunin,0.0,0,316,10-11 ur,False,ahilova-smrt,Ahilova smrt,https://www.dobreknjige.si/knjige/ahilova-smrt/
+Petar Andonovski,0.0,0,90,3-3 ur,False,poletje-v-katerem-te-ni-2,"Poletje, v katerem te ni",https://www.dobreknjige.si/knjige/poletje-v-katerem-te-ni-2/
+Giuliano Da Empoli,5.0,6,269,8-9 ur,True,kremeljski-mag,Kremeljski mag,https://www.dobreknjige.si/knjige/kremeljski-mag/
+Tone Rode,0.0,0,85,2-3 ur,False,nablus-2,Náblus,https://www.dobreknjige.si/knjige/nablus-2/
+Christy Lefteri,5.0,3,318,10-11 ur,False,zgodba-o-pozaru-2,Zgodba o požaru,https://www.dobreknjige.si/knjige/zgodba-o-pozaru-2/
+Édouard Louis,5.0,2,68,2-3 ur,False,kdo-mi-je-ubil-oceta,Kdo mi je ubil očeta,https://www.dobreknjige.si/knjige/kdo-mi-je-ubil-oceta/
+Alba de Céspedes,4.8,12,249,8-9 ur,False,prepovedani-zvezek,Prepovedani zvezek,https://www.dobreknjige.si/knjige/prepovedani-zvezek/
+Adriana Kuči,3.8,5,243,8-9 ur,False,noc-ko-je-preplavala-reko,"Noč, ko je preplavala reko",https://www.dobreknjige.si/knjige/noc-ko-je-preplavala-reko/
+Ksenija Jovanović,0.0,0,96,3-4 ur,False,ostanki-ljubezni-patologija-partnerskega-razmerja,Ostanki ljubezni : patologija partnerskega razmerja,https://www.dobreknjige.si/knjige/ostanki-ljubezni-patologija-partnerskega-razmerja/
+Coco Mellors,3.5,11,423,14-15 ur,False,kleopatra-in-frankenstein,Kleopatra in Frankenstein,https://www.dobreknjige.si/knjige/kleopatra-in-frankenstein/
+Sylvia Frank,0.0,0,334,11-12 ur,False,leonard-cohen-in-njegova-velika-ljubezen,Leonard Cohen in njegova velika ljubezen,https://www.dobreknjige.si/knjige/leonard-cohen-in-njegova-velika-ljubezen/
+Dragan Petrovec,0.0,0,218,7-8 ur,False,ljubiti-morilca,Ljubiti morilca,https://www.dobreknjige.si/knjige/ljubiti-morilca/
+Lena Eltang,2.0,1,558,18-19 ur,False,cartagena,Cartagena,https://www.dobreknjige.si/knjige/cartagena/
+Moa Herngren,4.2,13,326,10-11 ur,False,tasca,Tašča,https://www.dobreknjige.si/knjige/tasca/
+Manu Larcenet,4.5,2,202,6-7 ur,False,blast-4-upajmo-da-se-budisti-motijo,"Blast. 4, Upajmo, da se budisti motijo",https://www.dobreknjige.si/knjige/blast-4-upajmo-da-se-budisti-motijo/
+Blaž Kutin,4.4,5,265,8-9 ur,False,kenozoik,Kenozoik,https://www.dobreknjige.si/knjige/kenozoik/
+Sophie Adriansen,4.5,6,139,4-5 ur,False,namestnica,Namestnica,https://www.dobreknjige.si/knjige/namestnica/
+Boris Akunin,0.0,0,324,10-11 ur,False,fandorin,Fandorin,https://www.dobreknjige.si/knjige/fandorin/
+Avgust Demšar,4.5,16,448,14-15 ur,True,estonia,Estonia,https://www.dobreknjige.si/knjige/estonia/
+Moa Herngren,5.0,4,365,12-13 ur,False,razveza,Razveza,https://www.dobreknjige.si/knjige/razveza/
+Jerneja Ferlež,0.0,0,58,1-2 ur,False,kako-je-bilo-ko-se-ni-bilo-pralnih-strojev,"Kako je bilo, ko še ni bilo pralnih strojev",https://www.dobreknjige.si/knjige/kako-je-bilo-ko-se-ni-bilo-pralnih-strojev/
+Svetlana Slapšak,5.0,1,189,6-7 ur,False,moje-mackoljubne-zgodbe,Moje mačkoljubne zgodbe,https://www.dobreknjige.si/knjige/moje-mackoljubne-zgodbe/
+Oleg Torsunov,0.0,0,244,8-9 ur,False,zivljenje-v-ljubezni-odnosi-druzina-zenske-in-moski,"Življenje v ljubezni : odnosi, družina, ženske in moški",https://www.dobreknjige.si/knjige/zivljenje-v-ljubezni-odnosi-druzina-zenske-in-moski/
+Christopher Isherwood,3.3,3,156,5-6 ur,False,samec,Samec,https://www.dobreknjige.si/knjige/samec/
+Nino Haratišvili,4.5,6,1095,36-37 ur,False,osmo-zivljenje-za-brilko,Osmo življenje : (za Brilko),https://www.dobreknjige.si/knjige/osmo-zivljenje-za-brilko/
+Herman Melville,3.7,3,767,25-26 ur,False,moby-dick-ali-kit,Moby Dick ali Kit,https://www.dobreknjige.si/knjige/moby-dick-ali-kit/
+Ayn Rand,2.0,1,588,19-20 ur,False,mi-zivi,"Mi, živi",https://www.dobreknjige.si/knjige/mi-zivi/
+Peter Godfrey &#8211; Smith,5.0,1,345,11-12 ur,False,drugacen-um-hobotnice-in-razvoj-inteligentnega-zivljenja-2,Drugačen um : hobotnice in razvoj inteligentnega življenja,https://www.dobreknjige.si/knjige/drugacen-um-hobotnice-in-razvoj-inteligentnega-zivljenja-2/
+Ryszard Kapuściński,5.0,2,323,10-11 ur,False,imperij,Imperij,https://www.dobreknjige.si/knjige/imperij/
+Miha Šalehar,4.0,12,221,7-8 ur,False,notranji-pir-ali-kako-se-prepiti-do-konca-prirocnik-za-rekreativne-pivke-in-pivce-z-dvomi,Notranji pir ali kako se prepiti do konca : priročnik za rek [...],https://www.dobreknjige.si/knjige/notranji-pir-ali-kako-se-prepiti-do-konca-prirocnik-za-rekreativne-pivke-in-pivce-z-dvomi/
+Aleksandar Hemon,5.0,1,179,5-6 ur,False,tole-ni-zate,Tole ni zate,https://www.dobreknjige.si/knjige/tole-ni-zate/
+Eva Baltasar,4.0,1,91,3-4 ur,True,boulder,Boulder,https://www.dobreknjige.si/knjige/boulder/
+Velibor Čolić,4.0,2,164,5-6 ur,False,knjiga-odhodov,Knjiga odhodov,https://www.dobreknjige.si/knjige/knjiga-odhodov/
+Janko Valjavec,3.0,2,223,7-8 ur,False,dobri-ucenci,Dobri učenci,https://www.dobreknjige.si/knjige/dobri-ucenci/
+Annie Ernaux,4.6,5,188,6-7 ur,True,dogodek-in-druga-besedila,Dogodek in druga besedila,https://www.dobreknjige.si/knjige/dogodek-in-druga-besedila/
+Janez Ramoveš,0.0,0,59,1-2 ur,False,amerika,Amerika,https://www.dobreknjige.si/knjige/amerika/
+Richard Adams,0.0,0,448,14-15 ur,False,vodovnikova-vesina-roman,Vodovnikova vesina : roman,https://www.dobreknjige.si/knjige/vodovnikova-vesina-roman/
+Ivana Sajko,5.0,2,95,3-4 ur,False,male-smrti,Male smrti,https://www.dobreknjige.si/knjige/male-smrti/
+Orhan Pamuk,4.0,4,547,18-19 ur,False,cudastvo-v-moji-glavi,Čudaštvo v moji glavi,https://www.dobreknjige.si/knjige/cudastvo-v-moji-glavi/
+Níkos Panagiotópoylos,0.0,0,173,5-6 ur,False,gen-za-dvom,Gen za dvom,https://www.dobreknjige.si/knjige/gen-za-dvom/
+Elena Ferrante,3.0,16,191,6-7 ur,False,nadlezna-ljubezen,Nadležna ljubezen,https://www.dobreknjige.si/knjige/nadlezna-ljubezen/
+Kakuzo Okakura,5.0,2,131,4-5 ur,False,knjiga-o-caju,Knjiga o čaju,https://www.dobreknjige.si/knjige/knjiga-o-caju/
+Barbara Cerar,4.0,5,174,5-6 ur,False,pretezno-jasno,Pretežno jasno,https://www.dobreknjige.si/knjige/pretezno-jasno/
+Boris Pahor,3.5,2,274,9-10 ur,False,nikogarsnji-sin-avtobiografija-brez-meja,Nikogaršnji sin : avtobiografija brez meja,https://www.dobreknjige.si/knjige/nikogarsnji-sin-avtobiografija-brez-meja/
+Stephen King,4.7,9,662,22-23 ur,True,mrtva-straza,Mrtva straža,https://www.dobreknjige.si/knjige/mrtva-straza/
+Ken Follett,4.7,3,553,18-19 ur,False,noc-nad-vodo,Noč nad vodo,https://www.dobreknjige.si/knjige/noc-nad-vodo/
+Kim Stanley Robinson,4.0,2,523,17-18 ur,False,ministrstvo-za-prihodnost,Ministrstvo za prihodnost,https://www.dobreknjige.si/knjige/ministrstvo-za-prihodnost/
+Alison Bechdel,3.5,4,238,7-8 ur,True,dom-za-umret-druzinska-risotragedija,Dom za umret : družinska risotragedija,https://www.dobreknjige.si/knjige/dom-za-umret-druzinska-risotragedija/
+Joanna Bator,3.7,3,525,17-18 ur,True,temno-skoraj-noc,"Temno, skoraj noč",https://www.dobreknjige.si/knjige/temno-skoraj-noc/
+Jon Fosse,3.0,1,258,8-9 ur,True,melanholija-i,Melanholija I,https://www.dobreknjige.si/knjige/melanholija-i/
+Hernan Diaz,4.7,6,347,11-12 ur,True,trust,Trust,https://www.dobreknjige.si/knjige/trust/
+Hanna Bervoets,3.3,4,115,3-4 ur,False,vse-to-smo-videli,Vse to smo videli,https://www.dobreknjige.si/knjige/vse-to-smo-videli/
+Maud Ankaoua,3.8,5,342,11-12 ur,False,srce-himalaje-navkreber-do-srece,Srce Himalaje : navkreber do sreče,https://www.dobreknjige.si/knjige/srce-himalaje-navkreber-do-srece/
+Aleksander Šinigoj,0.0,0,190,6-7 ur,False,ce-bi-imeli-samo-se-sest-mesecev-zivljenja-kaj-bi-naredili,"Če bi imeli samo še šest mesecev življenja, kaj bi naredili?",https://www.dobreknjige.si/knjige/ce-bi-imeli-samo-se-sest-mesecev-zivljenja-kaj-bi-naredili/
+Katarina Grabnar Apostolides,4.7,3,273,9-10 ur,False,zadnja-vijolicasta-bledivka,Zadnja vijoličasta bledivka,https://www.dobreknjige.si/knjige/zadnja-vijolicasta-bledivka/
+Dušan Merc,0.0,0,494,16-17 ur,False,picerist-sporni-eseji-o-zlocinu-roman,Picerist: sporni eseji o zločinu: roman,https://www.dobreknjige.si/knjige/picerist-sporni-eseji-o-zlocinu-roman/
+Patrick Besson,2.5,2,102,3-4 ur,False,dokovic-zavracam,Đoković: Zavračam,https://www.dobreknjige.si/knjige/dokovic-zavracam/
+Mojca Širok,4.0,6,347,11-12 ur,False,praznina,Praznina,https://www.dobreknjige.si/knjige/praznina/
+Orhan Pamuk,4.3,3,367,12-13 ur,True,istanbul-spomini-na-mesto,Istanbul : spomini na mesto,https://www.dobreknjige.si/knjige/istanbul-spomini-na-mesto/
+Jorge Bucay,3.0,2,143,4-5 ur,False,mit-o-sreci-dan-ko-je-dezevala-juha,"Mit o sreči : dan, ko je deževala juha",https://www.dobreknjige.si/knjige/mit-o-sreci-dan-ko-je-dezevala-juha/
+Ana Marwan,4.8,4,159,5-6 ur,False,lipitsch-roman,Lipitsch: roman,https://www.dobreknjige.si/knjige/lipitsch-roman/
+Marco Balzano,4.8,6,204,6-7 ur,True,ostala-bom-tu,Ostala bom tu,https://www.dobreknjige.si/knjige/ostala-bom-tu/
+Vladimir Vladimirovič Nabokov,0.0,0,242,8-9 ur,False,kralj-dama-fant,"Kralj, dama, fant",https://www.dobreknjige.si/knjige/kralj-dama-fant/
+Zdravka Evtimova,3.5,2,270,9-9 ur,True,cetrtek,Četrtek,https://www.dobreknjige.si/knjige/cetrtek/
+Trish Doller,4.4,5,303,10-11 ur,False,nacrt-plovbe,Načrt plovbe,https://www.dobreknjige.si/knjige/nacrt-plovbe/
+Jiří Hájíček,4.7,6,360,12-12 ur,True,ribja-kri,Ribja kri,https://www.dobreknjige.si/knjige/ribja-kri/
+Samanta Hadžić Žavski,5.0,2,146,4-5 ur,False,smrt-v-temo-zavita,"Smrt, v temo zavita",https://www.dobreknjige.si/knjige/smrt-v-temo-zavita/
+Ada Škerl,4.5,2,353,11-12 ur,False,speci-metulji-zbrane-pesmi,Speči metulji : zbrane pesmi,https://www.dobreknjige.si/knjige/speci-metulji-zbrane-pesmi/
+Olga Tokarczuk,5.0,2,423,14-15 ur,True,beguni,Beguni,https://www.dobreknjige.si/knjige/beguni/
+Haruki Murakami,4.0,7,183,6-7 ur,False,v-prvi-osebi-ednine,V prvi osebi ednine,https://www.dobreknjige.si/knjige/v-prvi-osebi-ednine/
+Alexandra Potter,3.3,6,474,15-16 ur,False,ena-sama-dobra-stvar,Ena sama dobra stvar,https://www.dobreknjige.si/knjige/ena-sama-dobra-stvar/
+Tereza Vuk,3.4,9,357,11-12 ur,False,zakaj-ima-moj-hudic-krila,Zakaj ima moj hudič krila,https://www.dobreknjige.si/knjige/zakaj-ima-moj-hudic-krila/
+Vlasta Nussdorfer,4.5,2,178,5-6 ur,False,tanka-crta-spomini-tozilke,Tanka črta : spomini tožilke,https://www.dobreknjige.si/knjige/tanka-crta-spomini-tozilke/
+Maja Sotenšek,0.0,0,93,3-4 ur,False,za-vrati-azila-pogled-prostovoljke,Za vrati azila : pogled prostovoljke,https://www.dobreknjige.si/knjige/za-vrati-azila-pogled-prostovoljke/
+Boris Kobal,3.7,3,373,12-13 ur,False,100-km,100 km,https://www.dobreknjige.si/knjige/100-km/
+Iben Dissing Sandahl,0.0,0,222,7-8 ur,False,igra-po-dansko-prirocnik-za-vzgojo-uravnotezenih-trdozivih-in-zdravih-otrok-skozi-igro,"Igra po dansko : priročnik za vzgojo uravnoteženih, trdoživi [...]",https://www.dobreknjige.si/knjige/igra-po-dansko-prirocnik-za-vzgojo-uravnotezenih-trdozivih-in-zdravih-otrok-skozi-igro/
+Evald Flisar,4.0,1,231,7-8 ur,False,trgovec-z-dusami,Trgovec z dušami,https://www.dobreknjige.si/knjige/trgovec-z-dusami/
+Kim Hye-Jin,4.0,1,160,5-6 ur,False,moja-hci,Moja hči,https://www.dobreknjige.si/knjige/moja-hci/
+C Quinn,4.0,1,462,15-16 ur,False,pozigalec,Požigalec,https://www.dobreknjige.si/knjige/pozigalec/
+C Quinn,0.0,0,85,2-3 ur,False,smrtna-magija,Smrtna magija,https://www.dobreknjige.si/knjige/smrtna-magija/
+Jens Liljestrand,0.0,0,438,14-15 ur,False,tudi-ce-se-vse-konca,Tudi če se vse konča,https://www.dobreknjige.si/knjige/tudi-ce-se-vse-konca/
+Vinko Möderndorfer,4.0,4,281,9-10 ur,False,odstevanje-roman-o-casu-in-poti,Odštevanje : roman o času in poti,https://www.dobreknjige.si/knjige/odstevanje-roman-o-casu-in-poti/
+Daniel Höra,0.0,0,117,3-4 ur,False,tarca,Tarča,https://www.dobreknjige.si/knjige/tarca/
+Aleš Šteger,5.0,1,679,22-23 ur,False,na-kraju-zapisano,Na kraju zapisano,https://www.dobreknjige.si/knjige/na-kraju-zapisano/
+Colleen Hoover,4.8,5,288,9-10 ur,False,tako-popolno,Tako popolno,https://www.dobreknjige.si/knjige/tako-popolno/
+Alena Schröder,4.7,16,325,10-11 ur,False,mladenka-pri-oknu-vecerna-svetloba-modra-obleka,"Mladenka pri oknu, večerna svetloba, modra obleka",https://www.dobreknjige.si/knjige/mladenka-pri-oknu-vecerna-svetloba-modra-obleka/
+Charles Burns,3.8,4,365,12-13 ur,True,crna-luknja,Črna luknja,https://www.dobreknjige.si/knjige/crna-luknja/
+Richard Osman,4.3,6,411,13-14 ur,False,strel-v-prazno,Strel v prazno,https://www.dobreknjige.si/knjige/strel-v-prazno/
+Roman Rozina,5.0,1,175,5-6 ur,False,tujintuj,Tujintuj,https://www.dobreknjige.si/knjige/tujintuj/
+Cristina Morales,0.0,0,113,3-4 ur,False,bojevniki,Bojevniki,https://www.dobreknjige.si/knjige/bojevniki/
+Freida McFadden,4.3,23,329,10-11 ur,False,hisna-pomocnica,Hišna pomočnica,https://www.dobreknjige.si/knjige/hisna-pomocnica/
+Daniel Höra,0.0,0,147,4-5 ur,False,prijateljstvo-pa-kaj-se,Prijateljstvo? Pa kaj še &#8212;,https://www.dobreknjige.si/knjige/prijateljstvo-pa-kaj-se/
+Kelly McDaniel,4.0,1,272,9-10 ur,False,hrepenenje-po-mami-kako-naj-odrasle-hcere-razumejo-in-prebolijo-pomanjkanje-ljubece-nege-varnosti-in-vzgoje,Hrepenenje po mami : kako naj odrasle hčere razumejo in preb [...],https://www.dobreknjige.si/knjige/hrepenenje-po-mami-kako-naj-odrasle-hcere-razumejo-in-prebolijo-pomanjkanje-ljubece-nege-varnosti-in-vzgoje/
+Nathalie Skowronek,4.0,2,119,3-4 ur,True,zemljevid-obzalovanj,Zemljevid obžalovanj,https://www.dobreknjige.si/knjige/zemljevid-obzalovanj/
+Susanne Fülscher,0.0,0,101,3-4 ur,False,potem-si-ga-pa-kupi,Potem si ga pa kupi,https://www.dobreknjige.si/knjige/potem-si-ga-pa-kupi/
+Alma M. Karlin,0.0,0,119,3-4 ur,False,japonske-novele,Japonske novele,https://www.dobreknjige.si/knjige/japonske-novele/
+Damien Boyd,4.0,2,211,7-8 ur,False,vranov-let,Vranov let,https://www.dobreknjige.si/knjige/vranov-let/
+Tina Gorenjak,4.3,3,309,10-11 ur,False,najti-ljubezen,Najti ljubezen,https://www.dobreknjige.si/knjige/najti-ljubezen/
+Susanna Tamaro,4.7,3,246,8-9 ur,False,velika-ljubezenska-zgodba,Velika ljubezenska zgodba,https://www.dobreknjige.si/knjige/velika-ljubezenska-zgodba/
+László Krasznahorkai,2.5,4,333,11-12 ur,True,satanov-tango,Satanov tango,https://www.dobreknjige.si/knjige/satanov-tango/
+Esad Babačić,4.5,2,277,9-10 ur,False,balkonci,Balkonci,https://www.dobreknjige.si/knjige/balkonci/
+Anne Mette Hancock,4.4,5,301,10-11 ur,False,brazgotine,Brazgotine,https://www.dobreknjige.si/knjige/brazgotine/
+Tamara Geratič,3.5,2,190,6-7 ur,False,videz-stvari-roman,Videz stvari : roman,https://www.dobreknjige.si/knjige/videz-stvari-roman/
+Colleen Hoover,3.8,6,304,10-11 ur,False,9-november,9. november,https://www.dobreknjige.si/knjige/9-november/
+Boštjan Videmšek,4.0,1,239,7-8 ur,False,vojni-dnevnik,Vojni dnevnik,https://www.dobreknjige.si/knjige/vojni-dnevnik/
+Mike Gayle,3.5,2,374,12-13 ur,False,vsi-ti-osamljeni-ljudje,Vsi ti osamljeni ljudje,https://www.dobreknjige.si/knjige/vsi-ti-osamljeni-ljudje/
+Andrej E. Skubic,5.0,1,431,14-15 ur,False,pa-ceprav-buldozer,Pa čeprav buldožer,https://www.dobreknjige.si/knjige/pa-ceprav-buldozer/
+Frank Herbert,5.0,1,387,12-13 ur,False,bozanski-imperator-pescenega-planeta,Božanski imperator peščenega planeta,https://www.dobreknjige.si/knjige/bozanski-imperator-pescenega-planeta/
+Eva Baltasar,4.0,3,128,4-5 ur,True,permafrost-2,Permafrost,https://www.dobreknjige.si/knjige/permafrost-2/
+Anja Mugerli,4.2,13,299,9-10 ur,True,pricakovanja,Pričakovanja,https://www.dobreknjige.si/knjige/pricakovanja/
+Stacy Willingham,4.6,5,414,13-14 ur,False,iskra-v-temi,Iskra v temi,https://www.dobreknjige.si/knjige/iskra-v-temi/
+Lenart Zajc,4.3,3,237,7-8 ur,False,odred,Odred,https://www.dobreknjige.si/knjige/odred/
+Feri Lainšček,4.6,9,343,11-12 ur,False,kurji-pastir-knj-2-petelinje-jajce,"Kurji pastir. Knj. 2, Petelinje jajce",https://www.dobreknjige.si/knjige/kurji-pastir-knj-2-petelinje-jajce/
+Katarina Keček,3.8,4,449,14-15 ur,False,umetnost-zavijanja-z-ocmi,Umetnost zavijanja z očmi,https://www.dobreknjige.si/knjige/umetnost-zavijanja-z-ocmi/
+Cvetka Bevc,4.5,2,155,5-6 ur,False,ptici,Ptiči,https://www.dobreknjige.si/knjige/ptici/
+Susan Hill,4.0,1,128,4-5 ur,False,moz-na-sliki,Mož na sliki,https://www.dobreknjige.si/knjige/moz-na-sliki/
+Ericka Waller,5.0,2,356,11-12 ur,False,pasji-dnevi-zgodba-o-ljubezni-izgubi-in-pasjih-prijateljih,"Pasji dnevi : zgodba o ljubezni, izgubi in pasjih prijatelji [...]",https://www.dobreknjige.si/knjige/pasji-dnevi-zgodba-o-ljubezni-izgubi-in-pasjih-prijateljih/
+Donatien Alphonse François de Sade,4.0,2,104,3-4 ur,False,incest,Incest,https://www.dobreknjige.si/knjige/incest/
+Emily St. John Mandel,4.3,4,395,13-14 ur,False,postaja-enajst-2,Postaja Enajst,https://www.dobreknjige.si/knjige/postaja-enajst-2/
+Svetlana Aleksievič,5.0,1,357,11-12 ur,True,zadnje-price-solo-za-otroski-glas,Zadnje priče: (solo za otroški glas),https://www.dobreknjige.si/knjige/zadnje-price-solo-za-otroski-glas/
+Mathieu Bablet,4.5,2,267,8-9 ur,False,ogljik-silicij,Ogljik &#038; Silicij,https://www.dobreknjige.si/knjige/ogljik-silicij/
+Svetlana Aleksievič,4.0,1,446,14-15 ur,False,cas-iz-druge-roke,Čas iz druge roke,https://www.dobreknjige.si/knjige/cas-iz-druge-roke/
+Dragan Radulović,0.0,0,427,14-15 ur,False,auschwitz-cafe-distopija,Auschwitz Café : distopija,https://www.dobreknjige.si/knjige/auschwitz-cafe-distopija/
+Alena Mornštajnová,4.8,11,292,9-10 ur,True,november,November,https://www.dobreknjige.si/knjige/november/
+Fleur Jaeggy,0.0,0,109,3-4 ur,False,proleterka,Proleterka,https://www.dobreknjige.si/knjige/proleterka/
+Lado Kralj,4.1,7,295,9-10 ur,True,ne-bom-se-vec-drsal-na-bajerju,Ne bom se več drsal na bajerju,https://www.dobreknjige.si/knjige/ne-bom-se-vec-drsal-na-bajerju/
+Agata Tomažič,4.3,9,228,7-8 ur,False,cmrljev-zleb,Čmrljev žleb,https://www.dobreknjige.si/knjige/cmrljev-zleb/
+Javier Castillo,4.0,2,413,13-14 ur,False,snezna-deklica,Snežna deklica,https://www.dobreknjige.si/knjige/snezna-deklica/
+Michel Houellebecq,0.0,0,92,3-4 ur,False,lanzarote-pripoved,Lanzarote : pripoved,https://www.dobreknjige.si/knjige/lanzarote-pripoved/
+Julian Barnes,5.0,2,128,4-5 ur,False,lege-zivljenja,Lege življenja,https://www.dobreknjige.si/knjige/lege-zivljenja/
+Igor Štiks,4.0,3,291,9-10 ur,False,w,W,https://www.dobreknjige.si/knjige/w/
+Greer Hendricks,4.0,2,444,14-15 ur,False,zlati-par,Zlati par,https://www.dobreknjige.si/knjige/zlati-par/
+Per Petterson,3.5,2,244,8-9 ur,False,moski-na-mojem-mestu,Moški na mojem mestu,https://www.dobreknjige.si/knjige/moski-na-mojem-mestu/
+Annelies Verbeke,0.0,0,165,5-6 ur,False,aleluja,Aleluja,https://www.dobreknjige.si/knjige/aleluja/
+Luna Al Mousli,0.0,0,124,4-5 ur,False,solza-in-nasmeh-moje-otrostvo-v-damasku,Solza in nasmeh : moje otroštvo v Damasku,https://www.dobreknjige.si/knjige/solza-in-nasmeh-moje-otrostvo-v-damasku/
+Cal Newport,0.0,0,245,8-9 ur,False,digitalni-minimalizem-kako-ziveti-bolje-z-manj-tehnologije,Digitalni minimalizem : kako živeti bolje z manj tehnologije,https://www.dobreknjige.si/knjige/digitalni-minimalizem-kako-ziveti-bolje-z-manj-tehnologije/
+Alexander McCall Smith,4.0,4,218,7-8 ur,False,prva-damska-detektivska-agencija,Prva damska detektivska agencija,https://www.dobreknjige.si/knjige/prva-damska-detektivska-agencija/
+Wayland Drew,0.0,0,191,6-7 ur,False,willow,Willow,https://www.dobreknjige.si/knjige/willow/
+Jasmina Klopčič,0.0,0,232,7-8 ur,False,otip-narave-pletarski-prirocnik,Otip narave : pletarski priročnik,https://www.dobreknjige.si/knjige/otip-narave-pletarski-prirocnik/
+Metod Pevec,4.2,5,357,11-12 ur,False,greh,Greh,https://www.dobreknjige.si/knjige/greh/
+Mario Rigoni Stern,0.0,0,163,5-6 ur,False,divjerasli-arboretum,Divjerasli arboretum,https://www.dobreknjige.si/knjige/divjerasli-arboretum/
+Hilary Mantel,4.6,5,735,24-25 ur,True,wolf-hall,Wolf Hall,https://www.dobreknjige.si/knjige/wolf-hall/
+Carmen de Posadas,3.3,3,264,8-9 ur,True,majhne-podlosti,Majhne podlosti,https://www.dobreknjige.si/knjige/majhne-podlosti/
+Luca Crippa,5.0,1,202,6-7 ur,False,deklica-iz-kijeva,Deklica iz Kijeva,https://www.dobreknjige.si/knjige/deklica-iz-kijeva/
+Chinua Achebe,5.0,1,276,9-10 ur,True,mravljisca-v-savani,Mravljišča v savani,https://www.dobreknjige.si/knjige/mravljisca-v-savani/
+Andraž Rožman,4.5,2,276,9-10 ur,False,titov-sin,Titov sin,https://www.dobreknjige.si/knjige/titov-sin/
+Berta Bojetu,3.5,4,218,7-8 ur,False,filio-ni-doma,Filio ni doma,https://www.dobreknjige.si/knjige/filio-ni-doma/
+Sarival Sosič,0.0,0,182,6-7 ur,False,sin-in-sin,Sin in sin,https://www.dobreknjige.si/knjige/sin-in-sin/
+Marie Ndiaye,3.0,1,193,6-7 ur,False,moje-je-mascevanje,Moje je maščevanje,https://www.dobreknjige.si/knjige/moje-je-mascevanje/
+Peter Handke,0.0,0,145,4-5 ur,False,se-vedno-vihar,Še vedno vihar,https://www.dobreknjige.si/knjige/se-vedno-vihar/
+,4.5,2,133,4-5 ur,False,h2so4-zbirka-slovenske-uporniske-poezije,H2SO4 : zbirka slovenske uporniške poezije,https://www.dobreknjige.si/knjige/h2so4-zbirka-slovenske-uporniske-poezije/
+Thomas Mann,4.0,1,92,3-4 ur,True,smrt-v-benetkah,Smrt v Benetkah,https://www.dobreknjige.si/knjige/smrt-v-benetkah/
+Ian Fleming,5.0,1,229,7-8 ur,False,moonraker,Moonraker,https://www.dobreknjige.si/knjige/moonraker/
+Maria Barbal,5.0,3,155,5-6 ur,False,tandem,Tandem,https://www.dobreknjige.si/knjige/tandem/
+Branko Cestnik,5.0,1,518,17-18 ur,False,sesti-pecat-roman,Šesti pečat : roman,https://www.dobreknjige.si/knjige/sesti-pecat-roman/
+Kari Hotakainen,3.0,1,319,10-11 ur,False,ulica-okopov,Ulica okopov,https://www.dobreknjige.si/knjige/ulica-okopov/
+Cilla Börjlind,5.0,1,492,16-17 ur,False,spi-mala-macica,"Spi, mala mačica",https://www.dobreknjige.si/knjige/spi-mala-macica/
+Deborah Levy,4.8,5,229,7-8 ur,False,lastna-hisa,Lastna hiša,https://www.dobreknjige.si/knjige/lastna-hisa/
+Marko Sosič,5.0,1,79,2-3 ur,False,samotne-ljubezni,Samotne ljubezni,https://www.dobreknjige.si/knjige/samotne-ljubezni/
+Victoria Jamieson,4.0,1,256,8-9 ur,False,ko-so-zvezde-razprsene,Ko so zvezde razpršene,https://www.dobreknjige.si/knjige/ko-so-zvezde-razprsene/
+Ulf Stark,4.3,3,123,4-5 ur,False,mala-knjiga-o-ljubezni,Mala knjiga o ljubezni,https://www.dobreknjige.si/knjige/mala-knjiga-o-ljubezni/
+Petra Postert,5.0,3,169,5-6 ur,False,leto-ko-so-prisle-cebele,"Leto, ko so prišle čebele",https://www.dobreknjige.si/knjige/leto-ko-so-prisle-cebele/
+Jennifer Bohnet,0.0,0,307,10-11 ur,False,vila-sonca-in-skrivnosti,Vila sonca in skrivnosti,https://www.dobreknjige.si/knjige/vila-sonca-in-skrivnosti/
+Venedikt Vasilʹevič Erofeev,0.0,0,155,5-6 ur,False,moskva-petuski-pesnitev,Moskva &#8211; Petuški : pesnitev,https://www.dobreknjige.si/knjige/moskva-petuski-pesnitev/
+Tina Vallès,4.0,1,203,6-7 ur,False,spomin-na-drevo,Spomin na drevo,https://www.dobreknjige.si/knjige/spomin-na-drevo/
+Brina Švigelj-Mérat,4.0,3,172,5-6 ur,False,con-brio,Con brio,https://www.dobreknjige.si/knjige/con-brio/
+Sjoerd Kuyper,0.0,0,272,9-10 ur,True,bizarno,Bizarno,https://www.dobreknjige.si/knjige/bizarno/
+Margaret Eleanor Atwood,3.8,6,155,5-6 ur,False,penelopina-preja-mit-o-penelopi-in-odiseju,Penelopina preja : [mit o Penelopi in Odiseju],https://www.dobreknjige.si/knjige/penelopina-preja-mit-o-penelopi-in-odiseju/
+Anna Höglund,3.0,1,,,False,biti-jaz,Biti jaz,https://www.dobreknjige.si/knjige/biti-jaz/
+Vesna Lemaić,4.0,2,198,6-7 ur,False,trznil-je-odprla-je-oko,"Trznil je, odprla je oko",https://www.dobreknjige.si/knjige/trznil-je-odprla-je-oko/
+Henning Mankell,5.0,1,176,5-6 ur,True,pes-ki-je-potoval-k-zvezdi,"Pes, ki je potoval k zvezdi",https://www.dobreknjige.si/knjige/pes-ki-je-potoval-k-zvezdi/
+Richard Powers,4.0,3,735,24-25 ur,True,razvejenje,Razvejenje,https://www.dobreknjige.si/knjige/razvejenje/
+Lucy Coleman,4.0,1,365,12-13 ur,False,poletje-v-provansi,Poletje v Provansi,https://www.dobreknjige.si/knjige/poletje-v-provansi/
+Brane Mozetič,1.0,1,115,3-4 ur,False,roznate-zgodbe-iz-neheteronormativne-zgodovine-za-mladino,Rožnate zgodbe iz neheteronormativne zgodovine : (za mladino [...],https://www.dobreknjige.si/knjige/roznate-zgodbe-iz-neheteronormativne-zgodovine-za-mladino/
+Anne Mette Hancock,4.7,7,295,9-10 ur,False,smrdljivka,Smrdljivka,https://www.dobreknjige.si/knjige/smrdljivka/
+Klemen Kordež,0.0,0,401,13-14 ur,False,hladna-veriga,Hladna veriga,https://www.dobreknjige.si/knjige/hladna-veriga/
+Anatolij Vasilʹevič Kuznecov,4.0,1,445,14-15 ur,False,babji-jar-roman-dokument,Babji Jar : roman-dokument,https://www.dobreknjige.si/knjige/babji-jar-roman-dokument/
+Mirana Likar,4.6,5,364,12-13 ur,False,babuskin-kovcek,Babuškin kovček,https://www.dobreknjige.si/knjige/babuskin-kovcek/
+Alain de Botton,4.8,4,279,9-10 ur,False,tok-ljubezni,Tok ljubezni,https://www.dobreknjige.si/knjige/tok-ljubezni/
+Miodrag Majić,4.6,13,439,14-15 ur,False,otroci-zla,Otroci zla,https://www.dobreknjige.si/knjige/otroci-zla/
+Rebecca Serle,4.3,4,295,9-10 ur,False,cez-pet-let,Čez pet let,https://www.dobreknjige.si/knjige/cez-pet-let/
+Anthony Burgess,4.8,4,159,5-6 ur,False,peklenska-pomaranca,Peklenska pomaranča,https://www.dobreknjige.si/knjige/peklenska-pomaranca/
+Edith Wharton,4.0,1,325,10-11 ur,True,cas-nedolznosti,Čas nedolžnosti,https://www.dobreknjige.si/knjige/cas-nedolznosti/
+Beth Goobie,5.0,2,175,5-6 ur,True,ranjena-krila,Ranjena krila,https://www.dobreknjige.si/knjige/ranjena-krila/
+Mattias Edvardsson,4.3,3,350,11-12 ur,False,druzinska-tragedija,Družinska tragedija,https://www.dobreknjige.si/knjige/druzinska-tragedija/
+Ryu Murakami,0.0,0,131,4-5 ur,False,skoraj-prosojna-modrina,Skoraj prosojna modrina,https://www.dobreknjige.si/knjige/skoraj-prosojna-modrina/
+Jaco Jacobs,4.8,6,126,4-5 ur,False,dober-dan-za-plezanje-po-drevesih,Dober dan za plezanje po drevesih,https://www.dobreknjige.si/knjige/dober-dan-za-plezanje-po-drevesih/
+Božo Dimnik,0.0,0,412,13-14 ur,False,v-znamenju-ribe,V znamenju ribe,https://www.dobreknjige.si/knjige/v-znamenju-ribe/
+Daniella Carmi,4.0,2,163,5-6 ur,False,samir-in-jonatan,Samir in Jonatan,https://www.dobreknjige.si/knjige/samir-in-jonatan/
+Vladimir Vertlib,0.0,0,294,9-10 ur,False,vmesne-postaje,Vmesne postaje,https://www.dobreknjige.si/knjige/vmesne-postaje/
+Hervé Le Tellier,4.1,16,365,12-13 ur,True,anomalija,Anomalija,https://www.dobreknjige.si/knjige/anomalija/
+Davorin Lenko,4.3,3,295,9-10 ur,False,triger,Triger,https://www.dobreknjige.si/knjige/triger/
+Jackie Kay,4.7,3,219,7-8 ur,True,trobenta,Trobenta,https://www.dobreknjige.si/knjige/trobenta/
+Aleš Šteger,3.7,3,275,9-10 ur,False,bogovi-se-nam-smejijo,Bogovi se nam smejijo,https://www.dobreknjige.si/knjige/bogovi-se-nam-smejijo/
+Ana Schnabl,0.0,0,289,9-10 ur,False,plima,Plima,https://www.dobreknjige.si/knjige/plima/
+Marc Levy,4.0,2,284,9-10 ur,False,zaljubljeni-duh,Zaljubljeni duh,https://www.dobreknjige.si/knjige/zaljubljeni-duh/
+Kristina Sabaliauskaite,4.8,4,410,13-14 ur,False,petrova-imperatorica,Petrova imperatorica,https://www.dobreknjige.si/knjige/petrova-imperatorica/
+Daisy Johnson,4.0,6,182,6-7 ur,False,sestri,Sestri,https://www.dobreknjige.si/knjige/sestri/
+Karsten Dusse,4.7,6,368,12-13 ur,False,moriti-cujece-upocasnjen-kriminalni-roman,Moriti čuječe : upočasnjen kriminalni roman,https://www.dobreknjige.si/knjige/moriti-cujece-upocasnjen-kriminalni-roman/
+Ram Cunta,4.3,3,104,3-4 ur,False,tik-je-sel-v-gozd-po-drva,Tik je šel v gozd po drva,https://www.dobreknjige.si/knjige/tik-je-sel-v-gozd-po-drva/
+Richard Osman,4.5,8,420,14-14 ur,False,moz-ki-je-umrl-dvakrat,"Mož, ki je umrl dvakrat",https://www.dobreknjige.si/knjige/moz-ki-je-umrl-dvakrat/
+Zora Del Buono,4.0,2,344,11-12 ur,False,marsalinja,Maršalinja,https://www.dobreknjige.si/knjige/marsalinja/
+Immanuel Maurice Wallerstein,0.0,0,231,7-8 ur,False,ali-ima-kapitalizem-prihodnost,Ali ima kapitalizem prihodnost?,https://www.dobreknjige.si/knjige/ali-ima-kapitalizem-prihodnost/
+Javier Cercas,3.5,2,467,15-16 ur,False,slepar,Slepar,https://www.dobreknjige.si/knjige/slepar/
+Franc Mikša,0.0,0,279,9-10 ur,False,njegova-ekscelenca-christian-grasset,Njegova Ekscelenca Christian Grasset,https://www.dobreknjige.si/knjige/njegova-ekscelenca-christian-grasset/
+Matt Haig,4.3,12,331,11-12 ur,False,polnocna-knjiznica,Polnočna knjižnica,https://www.dobreknjige.si/knjige/polnocna-knjiznica/
+Arkadij Natanovič Strugackij,3.7,3,219,7-8 ur,False,tezko-je-biti-bog,Težko je biti bog,https://www.dobreknjige.si/knjige/tezko-je-biti-bog/
+Irena Štaudohar,4.7,7,222,7-8 ur,False,fizolozofija,Fižolozofija,https://www.dobreknjige.si/knjige/fizolozofija/
+Tracy Guzeman,3.7,3,372,12-13 ur,False,teznost-ptic,Težnost ptic,https://www.dobreknjige.si/knjige/teznost-ptic/
+Nita Prose,4.1,10,319,10-11 ur,False,sobarica,Sobarica,https://www.dobreknjige.si/knjige/sobarica/
+Nina Majer,5.0,1,243,8-9 ur,False,roza-za-konfliktno-osebo,Roža za konfliktno osebo,https://www.dobreknjige.si/knjige/roza-za-konfliktno-osebo/
+Dora Benčevič,4.3,4,73,2-3 ur,False,dekle-ki-se-ni-balo-medvedov,"Dekle, ki se ni balo medvedov",https://www.dobreknjige.si/knjige/dekle-ki-se-ni-balo-medvedov/
+Andraž Polič,0.0,0,64,2-3 ur,False,kirka-na-jadranu,Kirka na Jadranu,https://www.dobreknjige.si/knjige/kirka-na-jadranu/
+Tom Inglis,0.0,0,194,6-7 ur,False,pasja-ljubezen-zgodba-o-cloveku-psu-in-zivljenju-polnem-ljubezni-in-skrivnosti,"Pasja ljubezen : zgodba o človeku, psu in življenju, polnem [...]",https://www.dobreknjige.si/knjige/pasja-ljubezen-zgodba-o-cloveku-psu-in-zivljenju-polnem-ljubezni-in-skrivnosti/
+Erich Maria Remarque,5.0,1,259,8-9 ur,False,nebesa-ne-poznajo-izbrancev,Nebesa ne poznajo izbrancev,https://www.dobreknjige.si/knjige/nebesa-ne-poznajo-izbrancev/
+Milan Kleč,0.0,0,275,9-10 ur,False,nekaj-centrov,Nekaj centrov,https://www.dobreknjige.si/knjige/nekaj-centrov/
+Lisa Jewell,4.5,17,365,12-13 ur,False,druzina-nad-nami,Družina nad nami,https://www.dobreknjige.si/knjige/druzina-nad-nami/
+Pénélope Bagieu,4.3,3,299,9-10 ur,False,carovnice,Čarovnice,https://www.dobreknjige.si/knjige/carovnice/
+Mia Kankimäki,4.8,10,446,14-15 ur,False,zenske-na-katere-mislim-ponoci,"Ženske, na katere mislim ponoči",https://www.dobreknjige.si/knjige/zenske-na-katere-mislim-ponoci/
+Žiga Valetič,0.0,0,162,5-6 ur,False,strip-vraca-udarec-56-7-celovecernih-stripovskih-zgodb-slovenskih-avtoric-in-avtorjev-2001-2021,Strip vrača udarec : 56 + 7 celovečernih stripovskih zgodb s [...],https://www.dobreknjige.si/knjige/strip-vraca-udarec-56-7-celovecernih-stripovskih-zgodb-slovenskih-avtoric-in-avtorjev-2001-2021/
+Chimamanda Ngozi Adichie,4.7,3,75,2-3 ur,False,zapiski-o-zalovanju,Zapiski o žalovanju,https://www.dobreknjige.si/knjige/zapiski-o-zalovanju/
+Ian McEwan,5.0,3,421,14-15 ur,False,solar,Solar,https://www.dobreknjige.si/knjige/solar/
+Manu Larcenet,5.0,1,204,6-7 ur,False,blast-2-apokalipsa-po-svetem-jackyju,"Blast. 2, Apokalipsa po svetem Jackyju",https://www.dobreknjige.si/knjige/blast-2-apokalipsa-po-svetem-jackyju/
+Banana Yoshimoto,4.3,4,99,3-4 ur,False,kuhinja,Kuhinja,https://www.dobreknjige.si/knjige/kuhinja/
+Albina Ficko,0.0,0,79,2-3 ur,False,od-tu-in-tam-kratke-zgodbe,Od tu in tam : kratke zgodbe,https://www.dobreknjige.si/knjige/od-tu-in-tam-kratke-zgodbe/
+Nona Fernández,0.0,0,196,6-7 ur,False,neznana-dimenzija,Neznana dimenzija,https://www.dobreknjige.si/knjige/neznana-dimenzija/
+Jennifer Saint,4.0,2,334,11-12 ur,False,ariadna,Ariadna,https://www.dobreknjige.si/knjige/ariadna/
+Maya Angelou,4.7,3,181,6-7 ur,False,pismo-hcerki,Pismo hčerki,https://www.dobreknjige.si/knjige/pismo-hcerki/
+Nika Kovač,4.5,4,212,7-8 ur,False,tu-sem-zgodbe-ki-jih-ne-zelimo-slisati,"Tu sem! : zgodbe, ki jih ne želimo slišati",https://www.dobreknjige.si/knjige/tu-sem-zgodbe-ki-jih-ne-zelimo-slisati/
+Lisa Gray,4.0,1,309,10-11 ur,False,izginuli,Izginuli,https://www.dobreknjige.si/knjige/izginuli/
+C Quinn,3.0,1,415,13-14 ur,False,lovec-na-tatove-kljuc-morilec-skrivnost,"Lovec na tatove : ključ, morilec, skrivnost &#8212;",https://www.dobreknjige.si/knjige/lovec-na-tatove-kljuc-morilec-skrivnost/
+Laura Repovš,4.0,1,245,8-9 ur,False,ljubezen-v-casu-covida-literarno-branje-studentk-in-studentov-programa-kreativno-pisanje-poezija-pod-mentorstvom-prof-dr-borisa-a-novaka-ter-pesnic-in-pesnikov-pisateljic-in-pisateljev-milana,Ljubezen v času Covida : literarno branje študentk in študen [...],https://www.dobreknjige.si/knjige/ljubezen-v-casu-covida-literarno-branje-studentk-in-studentov-programa-kreativno-pisanje-poezija-pod-mentorstvom-prof-dr-borisa-a-novaka-ter-pesnic-in-pesnikov-pisateljic-in-pisateljev-milana/
+Fiona Lucas,4.5,2,407,13-14 ur,False,ne-reci-mi-adijo,Ne reci mi adijo,https://www.dobreknjige.si/knjige/ne-reci-mi-adijo/
+Pavel Brycz,0.0,0,494,16-17 ur,False,patriarhata-davno-minula-slava,Patriarhata davno minula slava,https://www.dobreknjige.si/knjige/patriarhata-davno-minula-slava/
+Susanna Clarke,4.4,10,269,8-9 ur,False,piranesi,Piranesi,https://www.dobreknjige.si/knjige/piranesi/
+Paul Finch,4.0,3,456,15-16 ur,False,zrtvovani,Žrtvovani,https://www.dobreknjige.si/knjige/zrtvovani/
+Patrick White,0.0,0,523,17-18 ur,True,voss,Voss,https://www.dobreknjige.si/knjige/voss/
+France Filipič,0.0,0,,,False,slava-klavora,Slava Klavora,https://www.dobreknjige.si/knjige/slava-klavora/
+Laura Dave,4.0,3,320,10-11 ur,False,njegove-zadnje-besede,Njegove zadnje besede,https://www.dobreknjige.si/knjige/njegove-zadnje-besede/
+Svetlana Velmar-Janković,5.0,5,221,7-8 ur,True,lagum,Lagum,https://www.dobreknjige.si/knjige/lagum/
+Christy Lefteri,3.7,6,318,10-11 ur,False,ptice-pevke,Ptice pevke,https://www.dobreknjige.si/knjige/ptice-pevke/
+Ula Vesel,0.0,0,127,4-5 ur,False,dnevnik-namisljene-resnicnosti,Dnevnik namišljene resničnosti,https://www.dobreknjige.si/knjige/dnevnik-namisljene-resnicnosti/
+Selvedin Avdić,5.0,1,184,6-7 ur,False,sedem-strahov,Sedem strahov,https://www.dobreknjige.si/knjige/sedem-strahov/
+Dmitrij Alekseevič Gluhovskij,0.0,0,378,12-13 ur,False,tekst,Tekst,https://www.dobreknjige.si/knjige/tekst/
+Magda Szabó,4.3,3,262,8-9 ur,True,vrata,Vrata,https://www.dobreknjige.si/knjige/vrata/
+Michelle Moran,2.0,1,525,17-18 ur,False,nefretete,Nefretete,https://www.dobreknjige.si/knjige/nefretete/
+Caroline De Maigret,0.0,0,263,8-9 ur,False,starejsa-si-boljsa-si-ampak-starejsa,"Starejša si, boljša si, ampak starejša",https://www.dobreknjige.si/knjige/starejsa-si-boljsa-si-ampak-starejsa/
+Nora Lavrin,0.0,0,126,4-5 ur,False,slovenija-poletje-1928-ilustrirani-dnevnik-s-porocnega-potovanja-nore-in-janka-lavrina,Slovenija : poletje 1928 : ilustrirani dnevnik s poročnega p [...],https://www.dobreknjige.si/knjige/slovenija-poletje-1928-ilustrirani-dnevnik-s-porocnega-potovanja-nore-in-janka-lavrina/
+Michelle Marly,3.5,2,318,10-11 ur,False,edith-piaf-in-pesem-ljubezni,Édith Piaf in pesem ljubezni,https://www.dobreknjige.si/knjige/edith-piaf-in-pesem-ljubezni/
+Najib Mahfuz,0.0,0,338,11-12 ur,True,cukrarska-ulica-3-del-kairske-trilogije,Cukrarska ulica : 3. del Kairske trilogije,https://www.dobreknjige.si/knjige/cukrarska-ulica-3-del-kairske-trilogije/
+,5.0,3,295,9-10 ur,False,draga-kristina-zgodba-urednice-in-pisateljice-kristine-brenkove,Draga Kristina : zgodba urednice in pisateljice Kristine Bre [...],https://www.dobreknjige.si/knjige/draga-kristina-zgodba-urednice-in-pisateljice-kristine-brenkove/
+Nika Kovač,4.7,3,148,4-5 ur,False,pisma-tebi,Pisma tebi,https://www.dobreknjige.si/knjige/pisma-tebi/
+Rick Riordan,5.0,2,512,17-18 ur,False,junaki-olimpa-5-kri-olimpa,"Junaki Olimpa. [5], Kri Olimpa",https://www.dobreknjige.si/knjige/junaki-olimpa-5-kri-olimpa/
+Barbara Volčič,4.5,2,90,3-3 ur,False,poceni-okvirji-male-eroticne-prigode,Počeni okvirji : male erotične prigode,https://www.dobreknjige.si/knjige/poceni-okvirji-male-eroticne-prigode/
+Daniel Cole,4.0,2,408,13-14 ur,False,posnemovalec,Posnemovalec,https://www.dobreknjige.si/knjige/posnemovalec/
+Vandana Shiva,0.0,0,173,5-6 ur,False,ena-zemlja-eno-clovestvo-proti-1-razbijanje-iluzij-sejanje-svobode,"Ena Zemlja, eno človeštvo proti 1 % : razbijanje iluzij, sej [...]",https://www.dobreknjige.si/knjige/ena-zemlja-eno-clovestvo-proti-1-razbijanje-iluzij-sejanje-svobode/
+Miha Stopar,0.0,0,287,9-10 ur,False,herman-viteznik,Herman Vitežnik,https://www.dobreknjige.si/knjige/herman-viteznik/
+Tomo Podstenšek,4.0,4,325,10-11 ur,False,sodba-v-imenu-ljudstva-roman,Sodba v imenu ljudstva : roman,https://www.dobreknjige.si/knjige/sodba-v-imenu-ljudstva-roman/
+Manu Larcenet,5.0,3,204,6-7 ur,False,blast-1-masa-sala,"Blast. 1, Masa sala",https://www.dobreknjige.si/knjige/blast-1-masa-sala/
+Daniel Höra,4.0,1,120,4-4 ur,False,igra,Igra,https://www.dobreknjige.si/knjige/igra/
+Ta-Nehisi Coates,5.0,1,125,4-5 ur,False,med-svetom-in-mano,Med svetom in mano,https://www.dobreknjige.si/knjige/med-svetom-in-mano/
+Mór Jókai,4.3,3,413,13-14 ur,False,ubogi-bogatasi,Ubogi bogataši,https://www.dobreknjige.si/knjige/ubogi-bogatasi/
+Teja Močnik,5.0,1,106,3-4 ur,False,kamni-z-marsa,Kamni z Marsa,https://www.dobreknjige.si/knjige/kamni-z-marsa/
+Slavo Šerc,5.0,3,207,6-7 ur,False,zgodbe-iz-nemcije-antologija-sodobne-nemske-kratke-proze-po-letu-2000,Zgodbe iz Nemčije : antologija sodobne nemške kratke proze p [...],https://www.dobreknjige.si/knjige/zgodbe-iz-nemcije-antologija-sodobne-nemske-kratke-proze-po-letu-2000/
+Sabina Štrubelj,3.8,6,269,8-9 ur,False,hotel-lavanda,Hotel Lavanda,https://www.dobreknjige.si/knjige/hotel-lavanda/
+Martin Walser,5.0,1,245,8-9 ur,False,ljubeci-moski-roman,Ljubeči moški : roman,https://www.dobreknjige.si/knjige/ljubeci-moski-roman/
+Roman Rozina,4.5,6,539,17-18 ur,True,sto-let-slepote,Sto let slepote,https://www.dobreknjige.si/knjige/sto-let-slepote/
+Morgan Housel,5.0,2,321,10-11 ur,False,psihologija-denarja-brezcasni-nauki-o-premozenju-pohlepu-in-sreci,"Psihologija denarja : brezčasni nauki o premoženju, pohlepu [...]",https://www.dobreknjige.si/knjige/psihologija-denarja-brezcasni-nauki-o-premozenju-pohlepu-in-sreci/
+Raymond Chandler,4.7,3,220,7-8 ur,False,veliki-spanec,Veliki spanec,https://www.dobreknjige.si/knjige/veliki-spanec/
+Holly Ringland,4.3,4,383,12-13 ur,False,njeno-izgubljeno-cvetje,Njeno izgubljeno cvetje,https://www.dobreknjige.si/knjige/njeno-izgubljeno-cvetje/
+Tone Partljič,3.7,3,122,4-5 ur,True,hotel-sem-prijeti-sonce,Hotel sem prijeti sonce,https://www.dobreknjige.si/knjige/hotel-sem-prijeti-sonce/
+Hervé Guibert,3.0,1,67,2-3 ur,False,nor-na-vincenta,Nor na Vincenta,https://www.dobreknjige.si/knjige/nor-na-vincenta/
+Peter Handke,0.0,0,651,21-22 ur,False,moje-leto-v-nikogarsnjem-zalivu-pravljica-iz-sodobnih-casov,Moje leto v nikogaršnjem zalivu : pravljica iz sodobnih časo [...],https://www.dobreknjige.si/knjige/moje-leto-v-nikogarsnjem-zalivu-pravljica-iz-sodobnih-casov/
+Elizabeth Strout,4.3,7,300,10-10 ur,True,olive-kitteridge,Olive Kitteridge,https://www.dobreknjige.si/knjige/olive-kitteridge/
+Sebastian Fitzek,4.5,4,,,False,pot-domov,Pot domov,https://www.dobreknjige.si/knjige/pot-domov/
+Heather Morris,4.5,2,447,14-15 ur,False,tri-sestre,Tri sestre,https://www.dobreknjige.si/knjige/tri-sestre/
+Betty Ren Wright,5.0,2,176,5-6 ur,False,dvojni-umor-v-hisi-lutk,Dvojni umor v hiši lutk,https://www.dobreknjige.si/knjige/dvojni-umor-v-hisi-lutk/
+Kate Elizabeth Russell,3.8,4,430,14-15 ur,False,moja-temna-vanessa,Moja temna Vanessa,https://www.dobreknjige.si/knjige/moja-temna-vanessa/
+Luigi Ballerini,4.7,3,276,9-10 ur,False,mira-ve-vse,Mira ve vse,https://www.dobreknjige.si/knjige/mira-ve-vse/
+Barry Jonsberg,4.8,4,261,8-9 ur,False,ujemi-me-ce-padem,"Ujemi me, če padem",https://www.dobreknjige.si/knjige/ujemi-me-ce-padem/
+Aleksandra Jelušič,4.0,1,123,4-5 ur,False,brezobrazne-zgodbe-z-notranje-strani-koze-v-proznem-zapisu-in-fotografijah,"Brezobrazne : zgodbe z notranje strani kože, v proznem zapis [...]",https://www.dobreknjige.si/knjige/brezobrazne-zgodbe-z-notranje-strani-koze-v-proznem-zapisu-in-fotografijah/
+Zlatka Rakovec-Felser,0.0,0,296,9-10 ur,False,mati-kraljev-elizabeta-vnukinja-barbare-celjske,"Mati kraljev : Elizabeta, vnukinja Barbare Celjske",https://www.dobreknjige.si/knjige/mati-kraljev-elizabeta-vnukinja-barbare-celjske/
+Andrej E. Skubic,0.0,0,437,14-15 ur,False,krasni-dnevi,Krasni dnevi,https://www.dobreknjige.si/knjige/krasni-dnevi/
+Rick Riordan,5.0,3,599,19-20 ur,False,junaki-olimpa-4-hadova-hisa,"Junaki Olimpa. [4], Hadova hiša",https://www.dobreknjige.si/knjige/junaki-olimpa-4-hadova-hisa/
+Aksinja Kermauner,0.0,0,14,1 ur,False,v-vrtincu-crk-o-deklici-s-skotopicnim-sindromom-ali-sindrom-helen-irlen,V vrtincu črk: o deklici s skotopičnim sindromom ali sindrom [...],https://www.dobreknjige.si/knjige/v-vrtincu-crk-o-deklici-s-skotopicnim-sindromom-ali-sindrom-helen-irlen/
+Izar Lunaček,3.0,1,,,False,sveto-smesno-stripovski-esej-o-hecni-plati-religije,Sveto &#038; smešno : stripovski esej o hecni plati religije,https://www.dobreknjige.si/knjige/sveto-smesno-stripovski-esej-o-hecni-plati-religije/
+Max Seeck,4.0,3,379,12-13 ur,False,lov-na-carovnice,Lov na čarovnice,https://www.dobreknjige.si/knjige/lov-na-carovnice/
+Laura Baldini,4.3,3,302,10-11 ur,False,maria-montessori-uciteljica-ki-je-zivljenje-posvetila-otrokom,"Maria Montessori : učiteljica, ki je življenje posvetila otr [...]",https://www.dobreknjige.si/knjige/maria-montessori-uciteljica-ki-je-zivljenje-posvetila-otrokom/
+Miklavž Komelj,0.0,0,230,7-8 ur,False,skrij-me-sneg,"Skrij me, sneg",https://www.dobreknjige.si/knjige/skrij-me-sneg/
+Alex Michaelides,3.6,5,367,12-13 ur,False,mladenke,Mladenke,https://www.dobreknjige.si/knjige/mladenke/
+Tina Arnuš Pupis,5.0,1,36,1-2 ur,False,zebra-v-ogledalu,Zebra v ogledalu,https://www.dobreknjige.si/knjige/zebra-v-ogledalu/
+Marjolijn Hof,0.0,0,,,False,majhna-moznost,Majhna možnost,https://www.dobreknjige.si/knjige/majhna-moznost/
+Nicolai Houm,0.0,0,158,5-6 ur,False,vsi-otroci-so-iz-ognja,Vsi otroci so iz ognja,https://www.dobreknjige.si/knjige/vsi-otroci-so-iz-ognja/
+Karmen Jenič,5.0,1,222,7-8 ur,False,rabi-rabuni-ali-zgodba-o-bogu-ki-je-hodil-v-osnovno-solo,"Rabi Rabuni ali Zgodba o Bogu, ki je hodil v osnovno šolo",https://www.dobreknjige.si/knjige/rabi-rabuni-ali-zgodba-o-bogu-ki-je-hodil-v-osnovno-solo/
+Robert Pfaller,0.0,0,281,9-10 ur,False,za-kaj-se-splaca-ziveti-elementi-materialisticne-filozofije,Za kaj se splača živeti : elementi materialistične filozofij [...],https://www.dobreknjige.si/knjige/za-kaj-se-splaca-ziveti-elementi-materialisticne-filozofije/
+Manuel Vilas,0.0,0,369,12-13 ur,False,ordesa,Ordesa,https://www.dobreknjige.si/knjige/ordesa/
+Piia Leino,4.4,5,271,9-10 ur,True,nebesa,Nebesa,https://www.dobreknjige.si/knjige/nebesa/
+Sylvain Neuvel,4.1,7,91,3-4 ur,False,preizkus,Preizkus,https://www.dobreknjige.si/knjige/preizkus/
+Alain Ayroles,4.0,1,159,5-6 ur,False,prevarantska-indija,Prevarantska Indija,https://www.dobreknjige.si/knjige/prevarantska-indija/
+Gašper Krajnc,4.5,6,65,2-3 ur,False,mestne-ptice,Mestne ptice,https://www.dobreknjige.si/knjige/mestne-ptice/
+Bezinović &#8211; Haydon Iva,0.0,0,,,False,mala-mara-in-veliko-drevo,Mala Mara in veliko drevo,https://www.dobreknjige.si/knjige/mala-mara-in-veliko-drevo/
+Tove Alsterdal,3.5,2,271,9-10 ur,False,slepi-rov,Slepi rov,https://www.dobreknjige.si/knjige/slepi-rov/
+Olga Tokarczuk,4.7,3,243,8-9 ur,False,pravek-in-drugi-casi,Pravek in drugi časi,https://www.dobreknjige.si/knjige/pravek-in-drugi-casi/
+Milan Kleč,0.0,0,221,7-8 ur,False,moji-spomini-na-morje,Moji spomini na morje,https://www.dobreknjige.si/knjige/moji-spomini-na-morje/
+Taylor Jenkins Reid,4.4,13,503,16-17 ur,False,vseh-sedem-moz-evelyn-hugo,Vseh sedem mož Evelyn Hugo,https://www.dobreknjige.si/knjige/vseh-sedem-moz-evelyn-hugo/
+Rick Riordan,5.0,3,584,19-20 ur,False,junaki-olimpa-3-atenino-znamenje,"Junaki Olimpa. [3], Atenino znamenje",https://www.dobreknjige.si/knjige/junaki-olimpa-3-atenino-znamenje/
+Deborah Levy,4.5,4,143,4-5 ur,False,cena-zivljenja,Cena življenja,https://www.dobreknjige.si/knjige/cena-zivljenja/
+Ivana Šojat,5.0,2,395,13-14 ur,False,ezan,Ezan,https://www.dobreknjige.si/knjige/ezan/
+Anamarija Lukovac,0.0,0,257,8-9 ur,False,cvetenje-premisljevanja-o-zivljenju,Cvetenje : premišljevanja o življenju,https://www.dobreknjige.si/knjige/cvetenje-premisljevanja-o-zivljenju/
+Diane Chamberlain,5.0,6,456,15-16 ur,False,hci-iz-prihodnosti,Hči iz prihodnosti,https://www.dobreknjige.si/knjige/hci-iz-prihodnosti/
+Manka Kremenšek Križman,5.0,1,184,6-7 ur,False,tujci,Tujci,https://www.dobreknjige.si/knjige/tujci/
+Neli Kodrič Filipić,5.0,2,289,9-10 ur,False,fronta,Fronta,https://www.dobreknjige.si/knjige/fronta/
+Edward St. Aubyn,4.5,2,474,15-16 ur,False,patrick-melrose-1-3,Patrick Melrose : 1-3,https://www.dobreknjige.si/knjige/patrick-melrose-1-3/
+Rick Riordan,5.0,2,512,17-18 ur,False,junaki-olimpa-neptunov-sin,Junaki Olimpa. Neptunov sin,https://www.dobreknjige.si/knjige/junaki-olimpa-neptunov-sin/
+Jedrt Lapuh Maležič,4.5,6,233,7-8 ur,False,napol-morilke,Napol morilke,https://www.dobreknjige.si/knjige/napol-morilke/
+Christelle Dabos,4.7,3,367,12-13 ur,False,zrcalka-knj-3-spomin-babilona,"Zrcalka. Knj. 3, Spomin Babilona",https://www.dobreknjige.si/knjige/zrcalka-knj-3-spomin-babilona/
+Barbara O&#8217;Neal,4.6,5,361,12-13 ur,False,ko-smo-verjeli-v-morske-deklice,Ko smo verjeli v morske deklice,https://www.dobreknjige.si/knjige/ko-smo-verjeli-v-morske-deklice/
+Colson Whitehead,4.7,9,213,7-8 ur,True,fantje-iz-nickla,Fantje iz Nickla,https://www.dobreknjige.si/knjige/fantje-iz-nickla/
+Alexander McCall Smith,4.0,9,231,7-8 ur,False,oddelek-za-obcutljive-zlocine,Oddelek za občutljive zločine,https://www.dobreknjige.si/knjige/oddelek-za-obcutljive-zlocine/
+Candice Carty-Williams,3.9,7,405,13-14 ur,False,queenie,Queenie,https://www.dobreknjige.si/knjige/queenie/
+Suzanne Collins,4.5,2,428,14-15 ur,False,balada-o-pticah-pevkah-in-kacah,Balada o pticah pevkah in kačah,https://www.dobreknjige.si/knjige/balada-o-pticah-pevkah-in-kacah/
+Milan Petek Levokov,0.0,0,343,11-12 ur,False,ljudje-na-burji,Ljudje na burji,https://www.dobreknjige.si/knjige/ljudje-na-burji/
+Javier Castillo,4.0,2,340,11-12 ur,False,vse-kar-se-je-zgodilo-z-mirando-huff,"Vse, kar se je zgodilo z Mirando Huff",https://www.dobreknjige.si/knjige/vse-kar-se-je-zgodilo-z-mirando-huff/
+J. K. Rowling,5.0,3,903,30-31 ur,False,nemirna-kri,Nemirna kri,https://www.dobreknjige.si/knjige/nemirna-kri/
+Amma Darko,0.0,0,222,7-8 ur,False,brez-obraza,Brez obraza,https://www.dobreknjige.si/knjige/brez-obraza/
+Rick Riordan,5.0,2,548,18-19 ur,False,junaki-olimpa-izgubljeni-junak,Junaki Olimpa. Izgubljeni junak,https://www.dobreknjige.si/knjige/junaki-olimpa-izgubljeni-junak/
+Miha Mazzini,4.0,1,97,3-4 ur,False,sprava-domacijski-roman-s-poanto,Sprava : domačijski roman s poanto,https://www.dobreknjige.si/knjige/sprava-domacijski-roman-s-poanto/
+Tomo Podstenšek,4.8,4,255,8-9 ur,False,zgodbe-za-lazji-konec-sveta,Zgodbe za lažji konec sveta,https://www.dobreknjige.si/knjige/zgodbe-za-lazji-konec-sveta/
+John Fowles,4.8,5,2,1 ur,False,mag,Mag,https://www.dobreknjige.si/knjige/mag/
+Chad Harbach,3.0,1,667,22-23 ur,False,umetnost-obrambe-in-napada,Umetnost obrambe in napada,https://www.dobreknjige.si/knjige/umetnost-obrambe-in-napada/
+Muanis Sinanović,3.6,5,113,3-4 ur,True,krhke-karavane,Krhke karavane,https://www.dobreknjige.si/knjige/krhke-karavane/
+Janko Valjavec,5.0,2,163,5-6 ur,False,grobar,Grobar,https://www.dobreknjige.si/knjige/grobar/
+Annie Robertson,4.0,1,299,9-10 ur,False,mamma-mia-moje-grsko-poletje,Mamma mia! Moje grško poletje,https://www.dobreknjige.si/knjige/mamma-mia-moje-grsko-poletje/
+Jorge Icaza,0.0,0,246,8-9 ur,False,huairapamuske-sinovi-vetra-roman,Huairapamuške : sinovi vetra : roman,https://www.dobreknjige.si/knjige/huairapamuske-sinovi-vetra-roman/
+Cvetka Lipuš,4.5,2,87,2-3 ur,False,odhajanje-za-zacetnike,Odhajanje za začetnike,https://www.dobreknjige.si/knjige/odhajanje-za-zacetnike/
+Irena Svetek,4.8,31,397,13-14 ur,False,rdeca-kapica,Rdeča kapica,https://www.dobreknjige.si/knjige/rdeca-kapica/
+Michel Houellebecq,3.0,1,276,9-10 ur,False,platforma,Platforma,https://www.dobreknjige.si/knjige/platforma/
+Sarah Penner,4.3,9,318,10-11 ur,False,izginula-lekarna,Izginula lekarna,https://www.dobreknjige.si/knjige/izginula-lekarna/
+Jenny Jägerfeld,5.0,2,223,7-8 ur,False,kraljica-smeha,Kraljica smeha,https://www.dobreknjige.si/knjige/kraljica-smeha/
+Saša Stanišić,0.0,0,325,10-11 ur,True,cigav-si,Čigav si,https://www.dobreknjige.si/knjige/cigav-si/
+Uwe Timm,3.0,2,272,9-10 ur,False,rdece,Rdeče,https://www.dobreknjige.si/knjige/rdece/
+Peter Terrin,3.5,2,206,6-7 ur,True,cuvaj,Čuvaj,https://www.dobreknjige.si/knjige/cuvaj/
+Sally Hepworth,4.3,3,344,11-12 ur,False,moja-tasca,Moja tašča,https://www.dobreknjige.si/knjige/moja-tasca/
+Benjamin Okorn,4.0,3,155,5-6 ur,False,ona-je-ana,Ona je Ana,https://www.dobreknjige.si/knjige/ona-je-ana/
+Esad Babačić,4.5,4,92,3-4 ur,False,vcasih,Včasih,https://www.dobreknjige.si/knjige/vcasih/
+Astrid Lindgren,0.0,0,183,6-7 ur,False,vojni-dnevniki-1939-1945,Vojni dnevniki 1939-1945,https://www.dobreknjige.si/knjige/vojni-dnevniki-1939-1945/
+Boštjan Gorenc,4.9,7,76,2-3 ur,False,reformatorji-v-stripu-ali-kako-smo-slovenci-dobili-prvo-res-dooooolgo-knjigo-in-eno-krajso-ki-je-opisala-kako-pisemo,Reformatorji v stripu ali kako smo Slovenci dobili prvo res [...],https://www.dobreknjige.si/knjige/reformatorji-v-stripu-ali-kako-smo-slovenci-dobili-prvo-res-dooooolgo-knjigo-in-eno-krajso-ki-je-opisala-kako-pisemo/
+Gašper Kralj,0.0,0,249,8-9 ur,True,skrbine,Škrbine,https://www.dobreknjige.si/knjige/skrbine/
+Jerneja Ferlež,4.5,2,58,1-2 ur,False,kako-je-bilo-ko-se-ni-bilo-stedilnikov,"Kako je bilo, ko še ni bilo štedilnikov",https://www.dobreknjige.si/knjige/kako-je-bilo-ko-se-ni-bilo-stedilnikov/
+Irena Štaudohar,4.4,9,316,10-11 ur,False,kaj-hoce-zenska,Kaj hoče ženska?,https://www.dobreknjige.si/knjige/kaj-hoce-zenska/
+Elton John,4.5,2,344,11-12 ur,False,jaz,Jaz,https://www.dobreknjige.si/knjige/jaz/
+Holly Black,3.5,2,377,12-13 ur,False,okrutni-princ,Okrutni princ,https://www.dobreknjige.si/knjige/okrutni-princ/
+Greer Hendricks,3.5,6,444,14-15 ur,False,anonimno-dekle,Anonimno dekle,https://www.dobreknjige.si/knjige/anonimno-dekle/
+Michel Bussi,5.0,2,,,False,crni-lokvanji,Črni lokvanji,https://www.dobreknjige.si/knjige/crni-lokvanji/
+Frank Herbert,5.0,2,397,13-14 ur,False,otroka-pescenega-planeta,Otroka peščenega planeta,https://www.dobreknjige.si/knjige/otroka-pescenega-planeta/
+Enis Maci,4.0,1,207,6-7 ur,False,sladoledarna-evropa-eseji,Sladoledarna Evropa : eseji,https://www.dobreknjige.si/knjige/sladoledarna-evropa-eseji/
+J. M. Coetzee,4.0,1,170,5-6 ur,True,v-srcu-dezele,V srcu dežele,https://www.dobreknjige.si/knjige/v-srcu-dezele/
+Sonja Pungertnik,4.5,6,174,5-6 ur,False,mislis-resno-ljubezen-v-odtenku-drugacnosti-roman,Misliš resno? : ljubezen v odtenku drugačnosti : roman,https://www.dobreknjige.si/knjige/mislis-resno-ljubezen-v-odtenku-drugacnosti-roman/
+Slavko Pregl,2.5,2,180,6-6 ur,False,prodajalci-megle,Prodajalci megle,https://www.dobreknjige.si/knjige/prodajalci-megle/
+Vladimir Nabokov,5.0,1,541,18-19 ur,False,ada-ali-strast,Ada ali strast,https://www.dobreknjige.si/knjige/ada-ali-strast/
+Lori Gottlieb,4.5,4,522,17-18 ur,False,morda-pa-se-moras-z-nekom-pogovoriti-razkrijejo-se-terapevtka-njen-terapevt-in-nasa-zivljenja,Morda pa se moraš z nekom pogovoriti: razkrijejo se terapevt [...],https://www.dobreknjige.si/knjige/morda-pa-se-moras-z-nekom-pogovoriti-razkrijejo-se-terapevtka-njen-terapevt-in-nasa-zivljenja/
+Lana Bastašić,4.2,16,187,6-7 ur,True,ujemi-zajca,Ujemi zajca,https://www.dobreknjige.si/knjige/ujemi-zajca/
+Feri Lainšček,0.0,0,303,10-11 ur,False,peronarji,Peronarji,https://www.dobreknjige.si/knjige/peronarji/
+Maryanne Wolf,4.0,3,237,7-8 ur,False,bralec-vrni-se-domov-beroci-mozgani-v-digitalnem-svetu,"Bralec, vrni se domov : beroči možgani v digitalnem svetu",https://www.dobreknjige.si/knjige/bralec-vrni-se-domov-beroci-mozgani-v-digitalnem-svetu/
+Črt Kanoni,4.8,4,237,7-8 ur,False,tam-dola-za-zidom,"Tam dola, za zidom",https://www.dobreknjige.si/knjige/tam-dola-za-zidom/
+George Saunders,4.5,4,276,9-10 ur,True,lincoln-v-bardu,Lincoln v bardu,https://www.dobreknjige.si/knjige/lincoln-v-bardu/
+Lane Smith,0.0,0,,,False,to-je-knjiga,To je knjiga,https://www.dobreknjige.si/knjige/to-je-knjiga/
+Barbro Lindgren,0.0,0,,,False,zgodba-o-malem-starem-mozu,Zgodba o malem starem možu,https://www.dobreknjige.si/knjige/zgodba-o-malem-starem-mozu/
+Toshikazu Kawaguchi,4.3,28,274,9-10 ur,False,preden-se-kava-ohladi,Preden se kava ohladi,https://www.dobreknjige.si/knjige/preden-se-kava-ohladi/
+Pirkko Vainio,0.0,0,23,1 ur,False,za-tiste-ki-hocejo-leteti,"Za tiste, ki hočejo leteti",https://www.dobreknjige.si/knjige/za-tiste-ki-hocejo-leteti/
+Andrej Rozman,5.0,1,,,False,urska,Urška,https://www.dobreknjige.si/knjige/urska/
+Andrew Sean Greer,4.0,1,293,9-10 ur,True,manj-roman,Manj : roman,https://www.dobreknjige.si/knjige/manj-roman/
+Arnon Yasha Yves Grunberg,4.0,3,416,13-14 ur,False,dobri-mozje,Dobri možje,https://www.dobreknjige.si/knjige/dobri-mozje/
+Viktor Olegovič Pelevin,5.0,1,194,6-7 ur,False,rumena-puscica,Rumena puščica,https://www.dobreknjige.si/knjige/rumena-puscica/
+Gary Paulsen,5.0,2,141,4-5 ur,False,sekira-resitve,Sekira rešitve,https://www.dobreknjige.si/knjige/sekira-resitve/
+Miri Yu,0.0,0,373,12-13 ur,False,zlata-mrzlica,Zlata mrzlica,https://www.dobreknjige.si/knjige/zlata-mrzlica/
+Kobi Yamada,0.0,0,34,1-2 ur,False,kaj-storis-z-idejo,Kaj storiš z idejo?,https://www.dobreknjige.si/knjige/kaj-storis-z-idejo/
+Jernej Županič,0.0,0,207,6-7 ur,True,mamuti,Mamuti,https://www.dobreknjige.si/knjige/mamuti/
+Samanta Schweblin,4.2,5,102,3-4 ur,False,varna-razdalja,Varna razdalja,https://www.dobreknjige.si/knjige/varna-razdalja/
+Klaus Rifbjerg,0.0,0,122,4-5 ur,False,slika,Slika,https://www.dobreknjige.si/knjige/slika/
+Vinko Möderndorfer,4.5,2,274,9-10 ur,False,pokrajina-st-2,Pokrajina št. 2,https://www.dobreknjige.si/knjige/pokrajina-st-2/
+Irina Denežkina,0.0,0,,,False,daj-mi-song-for-lovers,Daj mi! : (song for lovers),https://www.dobreknjige.si/knjige/daj-mi-song-for-lovers/
+Jack Kerouac,3.8,5,289,9-10 ur,False,na-cesti-izvirni-zvitek,Na cesti : izvirni zvitek,https://www.dobreknjige.si/knjige/na-cesti-izvirni-zvitek/
+Yoko Ogawa,4.2,5,200,6-7 ur,False,hotel-iris,Hotel Iris,https://www.dobreknjige.si/knjige/hotel-iris/
+Bettina Wilpert,4.0,6,149,4-5 ur,True,kar-se-nam-ne-dogaja,Kar se nam ne dogaja,https://www.dobreknjige.si/knjige/kar-se-nam-ne-dogaja/
+A Homes,2.0,1,356,11-12 ur,False,knjiga-ki-vam-bo-spremenila-zivljenje,"Knjiga, ki vam bo spremenila življenje",https://www.dobreknjige.si/knjige/knjiga-ki-vam-bo-spremenila-zivljenje/
+Pavao Pavličić,5.0,2,227,7-8 ur,False,donava,Donava,https://www.dobreknjige.si/knjige/donava/
+Olga Tokarczuk,4.5,8,159,5-6 ur,False,bizarne-zgodbe,Bizarne zgodbe,https://www.dobreknjige.si/knjige/bizarne-zgodbe/
+Graham Swift,0.0,0,416,13-14 ur,False,povodje,Povodje,https://www.dobreknjige.si/knjige/povodje/
+Lukas Bärfuss,5.0,1,143,4-5 ur,True,hagard,Hagard,https://www.dobreknjige.si/knjige/hagard/
+Oscar Wilde,4.0,4,83,2-3 ur,False,cantervilski-duh,Cantervilski duh,https://www.dobreknjige.si/knjige/cantervilski-duh/
+Olga Tokarczuk,1.0,1,379,12-13 ur,True,dnevna-hisa-nocna-hisa,"Dnevna hiša, nočna hiša",https://www.dobreknjige.si/knjige/dnevna-hisa-nocna-hisa/
+Linn Skåber,5.0,7,254,8-9 ur,False,cez-potok-ne-cez-most,"Čez potok, ne čez most",https://www.dobreknjige.si/knjige/cez-potok-ne-cez-most/
+Clare Azzopardi,5.0,4,111,3-4 ur,False,imena-ki-so-jih-pustile-za-seboj,"Imena, ki so jih pustile za seboj",https://www.dobreknjige.si/knjige/imena-ki-so-jih-pustile-za-seboj/
+Bianca Bellová,5.0,6,159,5-6 ur,True,jezero,Jezero,https://www.dobreknjige.si/knjige/jezero/
+Adam Foulds,4.8,4,197,6-7 ur,True,blodnjak-prebujenja,Blodnjak prebujenja,https://www.dobreknjige.si/knjige/blodnjak-prebujenja/
+Sara Stridsberg,4.8,6,341,11-12 ur,True,beckomberga-oda-moji-druzini,Beckomberga : oda moji družini,https://www.dobreknjige.si/knjige/beckomberga-oda-moji-druzini/
+Avgust Demšar,4.9,12,,,False,cerkev,Cerkev,https://www.dobreknjige.si/knjige/cerkev/
+Jana Vagner,4.3,3,331,11-12 ur,False,pandemija-elektronski-vir-kako-v-skrajnih-razmerah-ostati-clovek,Pandemija [Elektronski vir] : [kako v skrajnih razmerah osta [...],https://www.dobreknjige.si/knjige/pandemija-elektronski-vir-kako-v-skrajnih-razmerah-ostati-clovek/
+Ivan Cankar,0.0,0,129,4-5 ur,False,gospa-judit-elektronski-vir,Gospa Judit [Elektronski vir],https://www.dobreknjige.si/knjige/gospa-judit-elektronski-vir/
+Roald Dahl,5.0,1,32,1-2 ur,False,odvratne-rime,Odvratne rime,https://www.dobreknjige.si/knjige/odvratne-rime/
+Dušan Mitana,0.0,0,226,7-8 ur,False,pasji-dnevi,Pasji dnevi,https://www.dobreknjige.si/knjige/pasji-dnevi/
+Colson Whitehead,4.4,12,382,12-13 ur,True,podzemna-zeleznica,Podzemna železnica,https://www.dobreknjige.si/knjige/podzemna-zeleznica/
+Michael Crichton,4.0,2,391,13-14 ur,False,vzhajajoce-sonce,Vzhajajoče sonce,https://www.dobreknjige.si/knjige/vzhajajoce-sonce/
+Isabella Hatkoff,0.0,0,,,False,owen-mzee-resnicna-zgodba-o-nenavadnem-prijateljstvu,Owen &amp; Mzee : resnična zgodba o nenavadnem prijateljstvu,https://www.dobreknjige.si/knjige/owen-mzee-resnicna-zgodba-o-nenavadnem-prijateljstvu/
+Marc Elsberg,3.9,8,414,13-14 ur,False,blackout-jutri-bo-prepozno,Blackout : jutri bo prepozno,https://www.dobreknjige.si/knjige/blackout-jutri-bo-prepozno/
+Tone Hočevar,5.0,1,372,12-13 ur,False,skusnjave,Skušnjave,https://www.dobreknjige.si/knjige/skusnjave/
+Mary Jennifer Payne,4.0,1,131,4-5 ur,False,dovolj,Dovolj,https://www.dobreknjige.si/knjige/dovolj/
+Dezső Kosztolányi,4.0,3,247,8-9 ur,False,neron-krvavi-pesnik,"Neron, krvavi pesnik",https://www.dobreknjige.si/knjige/neron-krvavi-pesnik/
+Jo Nesbø,4.6,9,509,16-17 ur,False,noz,Nož,https://www.dobreknjige.si/knjige/noz/
+Vinko Vasle,5.0,2,221,7-8 ur,False,darovalec,Darovalec,https://www.dobreknjige.si/knjige/darovalec/
+Elena Ferrante,4.6,24,437,14-15 ur,False,o-izgubljeni-deklici,O izgubljeni deklici,https://www.dobreknjige.si/knjige/o-izgubljeni-deklici/
+Feri Lainšček,4.5,2,121,4-5 ur,True,prvotnost-poema-o-ljubezni,Prvotnost : poema o ljubezni,https://www.dobreknjige.si/knjige/prvotnost-poema-o-ljubezni/
+Josephine Tey,3.0,2,248,8-9 ur,False,gospodicna-pym,Gospodična Pym,https://www.dobreknjige.si/knjige/gospodicna-pym/
+Ingo Schulze,3.0,1,303,10-11 ur,False,33-trenutkov-srece-iz-zapisov-pustolovscin-nemcev-v-pitru,33 trenutkov sreče : iz zapisov pustolovščin Nemcev v Pitru,https://www.dobreknjige.si/knjige/33-trenutkov-srece-iz-zapisov-pustolovscin-nemcev-v-pitru/
+Slavko Pregl,5.0,3,396,13-14 ur,False,srajca-srecnega-cloveka-moje-popotovanje-skozi-sedem-desetletij-in-se-malo,Srajca srečnega človeka : (moje popotovanje skozi sedem dese [...],https://www.dobreknjige.si/knjige/srajca-srecnega-cloveka-moje-popotovanje-skozi-sedem-desetletij-in-se-malo/
+Renate Greinert,5.0,2,252,8-9 ur,False,rdeca-zanka-sporni-primer-darovanja-organov-materin-boj,Rdeča zanka : sporni primer darovanja organov &#8211; materi [...],https://www.dobreknjige.si/knjige/rdeca-zanka-sporni-primer-darovanja-organov-materin-boj/
+Feri Lainšček,5.0,1,142,4-5 ur,False,poema-o-ljubezni-prvotnost,Poema o ljubezni &#8211; prvotnost,https://www.dobreknjige.si/knjige/poema-o-ljubezni-prvotnost/
+Jason Lutes,2.0,1,616,20-21 ur,False,berlin-2,Berlin,https://www.dobreknjige.si/knjige/berlin-2/
+Andrea Schwarz,4.0,1,123,4-5 ur,False,divji-bozic-drugacna-knjiga-za-adventni-in-bozicni-cas,Divji božič : drugačna knjiga za adventni in božični čas,https://www.dobreknjige.si/knjige/divji-bozic-drugacna-knjiga-za-adventni-in-bozicni-cas/
+Josip Jurčič,0.0,0,111,3-4 ur,False,spomini-starega-slovenca,Spomini starega Slovenca,https://www.dobreknjige.si/knjige/spomini-starega-slovenca/
+Gabriele D&#8217;Annunzio,4.0,2,276,9-10 ur,False,pescarske-zgodbe,Pescarske zgodbe,https://www.dobreknjige.si/knjige/pescarske-zgodbe/
+Feri Lainšček,3.7,3,256,8-9 ur,True,ki-jo-je-megla-prinesla,Ki jo je megla prinesla,https://www.dobreknjige.si/knjige/ki-jo-je-megla-prinesla/
+James Graham Ballard,3.0,1,210,7-7 ur,False,potopljeni-svet,Potopljeni svet,https://www.dobreknjige.si/knjige/potopljeni-svet/
+Mary Basson,4.6,9,349,11-12 ur,False,slikarka,Slikarka,https://www.dobreknjige.si/knjige/slikarka/
+Oyinkan Braithwaite,3.8,11,234,7-8 ur,False,moja-sestra-serijska-morilka,"Moja sestra, serijska morilka",https://www.dobreknjige.si/knjige/moja-sestra-serijska-morilka/
+Laurent Seksik,5.0,3,176,5-6 ur,False,poslusni-sin-roman,Poslušni sin : roman,https://www.dobreknjige.si/knjige/poslusni-sin-roman/
+Jenny Downham,4.5,4,324,10-11 ur,False,preden-umrem,Preden umrem,https://www.dobreknjige.si/knjige/preden-umrem/
+Emilie Pine,4.3,8,216,7-8 ur,False,pisem-sebi-eseji,Pišem sebi : eseji,https://www.dobreknjige.si/knjige/pisem-sebi-eseji/
+Sally Rooney,4.2,20,301,10-11 ur,False,pogovori-s-prijatelji,Pogovori s prijatelji,https://www.dobreknjige.si/knjige/pogovori-s-prijatelji/
+Yasmina Reza,4.1,10,223,7-8 ur,False,babilon,Babilon,https://www.dobreknjige.si/knjige/babilon/
+Damjana Bakarič,4.8,5,181,6-7 ur,False,razmerja-kratke-zgodbe,Razmerja : kratke zgodbe,https://www.dobreknjige.si/knjige/razmerja-kratke-zgodbe/
+Feri Lainšček,4.5,2,174,5-6 ur,False,zadoscenje-kriminalni-roman,Zadoščenje : kriminalni roman,https://www.dobreknjige.si/knjige/zadoscenje-kriminalni-roman/
+Ghada Karmi,4.0,1,333,11-12 ur,False,vrnitev-spomini-palestinke,Vrnitev : spomini Palestinke,https://www.dobreknjige.si/knjige/vrnitev-spomini-palestinke/
+Maite Carranza,5.0,5,273,9-10 ur,False,poti-svobode,Poti svobode,https://www.dobreknjige.si/knjige/poti-svobode/
+Ani Župančič,5.0,4,128,4-5 ur,False,spomini-na-otona,Spomini na Otona,https://www.dobreknjige.si/knjige/spomini-na-otona/
+Eva Woods,4.5,17,406,13-14 ur,False,sto-srecnih-dni,Sto srečnih dni,https://www.dobreknjige.si/knjige/sto-srecnih-dni/
+Anne Bondoux,3.5,2,144,4-5 ur,False,morilceve-solze,Morilčeve solze,https://www.dobreknjige.si/knjige/morilceve-solze/
+Rosella Postorino,4.4,16,346,11-12 ur,False,hitlerjeve-pokusevalke-v-volcjem-brlogu,Hitlerjeve pokuševalke : v volčjem brlogu,https://www.dobreknjige.si/knjige/hitlerjeve-pokusevalke-v-volcjem-brlogu/
+Juan José Millás,5.0,2,96,3-4 ur,False,moja-resnicna-zgodba,Moja resnična zgodba,https://www.dobreknjige.si/knjige/moja-resnicna-zgodba/
+Sharon Creech,4.6,8,255,8-9 ur,True,za-dve-luni-hoda,Za dve luni hoda,https://www.dobreknjige.si/knjige/za-dve-luni-hoda/
+Johann Wolfgang von Goethe,5.0,2,233,7-8 ur,False,izbirne-sorodnosti,Izbirne sorodnosti,https://www.dobreknjige.si/knjige/izbirne-sorodnosti/
+Helena Henschen,4.0,1,305,10-11 ur,False,v-senci-zlocina,V senci zločina,https://www.dobreknjige.si/knjige/v-senci-zlocina/
+Petja Rijavec,4.6,16,213,7-8 ur,False,najini-valovi,Najini valovi,https://www.dobreknjige.si/knjige/najini-valovi/
+Jesús Carrasco,5.0,5,224,7-8 ur,True,zemlja-po-kateri-stopamo,"Zemlja, po kateri stopamo",https://www.dobreknjige.si/knjige/zemlja-po-kateri-stopamo/
+Vinko Möderndorfer,0.0,0,352,11-12 ur,False,izdelovalec-zvonov,Izdelovalec zvonov,https://www.dobreknjige.si/knjige/izdelovalec-zvonov/
+Marguerite Duras,5.0,6,171,5-6 ur,False,zamaknjenost-lol-v-stein,Zamaknjenost Lol V. Stein,https://www.dobreknjige.si/knjige/zamaknjenost-lol-v-stein/
+Carl Sandburg,0.0,0,88,2-3 ur,True,izbrane-pesmi,Izbrane pesmi,https://www.dobreknjige.si/knjige/izbrane-pesmi/
+Care Santos,4.7,12,208,6-7 ur,False,laz,Laž,https://www.dobreknjige.si/knjige/laz/
+Mattias Edvardsson,4.3,12,447,14-15 ur,False,cisto-obicajna-druzina,Čisto običajna družina,https://www.dobreknjige.si/knjige/cisto-obicajna-druzina/
+Peter Čeferin,4.5,12,231,7-8 ur,False,sodni-dnevi,Sodni dnevi,https://www.dobreknjige.si/knjige/sodni-dnevi/
+John Grisham,4.3,3,376,12-13 ur,False,velika-prevara,Velika prevara,https://www.dobreknjige.si/knjige/velika-prevara/
+Andrej Nikolaidis,0.0,0,93,3-4 ur,True,madzarski-stavek-zaloigra,Madžarski stavek : žaloigra,https://www.dobreknjige.si/knjige/madzarski-stavek-zaloigra/
+Franjo Frančič,0.0,0,,,False,ujemite-paza,Ujemite paža,https://www.dobreknjige.si/knjige/ujemite-paza/
+Dolores Redondo,3.5,2,503,16-17 ur,False,vse-to-ti-bom-dal,Vse to ti bom dal,https://www.dobreknjige.si/knjige/vse-to-ti-bom-dal/
+Dragan Petrovec,4.6,7,122,4-5 ur,False,pismo-nigerijske-vdove,Pismo nigerijske vdove,https://www.dobreknjige.si/knjige/pismo-nigerijske-vdove/
+T. M. Logan,4.6,9,437,14-15 ur,False,lazi,Laži,https://www.dobreknjige.si/knjige/lazi/
+Dušan Jovanović,4.6,13,285,9-10 ur,False,na-stara-leta-sem-vzljubil-svojo-mamo,Na stara leta sem vzljubil svojo mamo,https://www.dobreknjige.si/knjige/na-stara-leta-sem-vzljubil-svojo-mamo/
+E. L. Doctorow,5.0,5,148,4-5 ur,False,zivljenja-pesnikov,Življenja pesnikov,https://www.dobreknjige.si/knjige/zivljenja-pesnikov/
+Blaž Vurnik,4.7,10,124,4-5 ur,False,ivan-cankar-podobe-iz-zivljenja,Ivan Cankar : podobe iz življenja,https://www.dobreknjige.si/knjige/ivan-cankar-podobe-iz-zivljenja/
+Vilmos Kondor,4.7,9,248,8-9 ur,False,budimpesta-noir,Budimpešta noir,https://www.dobreknjige.si/knjige/budimpesta-noir/
+Hiner Saleem,3.7,3,129,4-5 ur,False,ocetova-puska,Očetova puška,https://www.dobreknjige.si/knjige/ocetova-puska/
+Gabriele Clima,4.8,11,166,5-6 ur,True,sonce-med-prsti,Sonce med prsti,https://www.dobreknjige.si/knjige/sonce-med-prsti/
+Antonio Tabucchi,3.5,2,135,4-5 ur,True,indijski-nokturno,Indijski nokturno,https://www.dobreknjige.si/knjige/indijski-nokturno/
+Tatjana Kokalj,3.0,1,109,3-4 ur,False,packa-na-asfaltu,Packa na asfaltu,https://www.dobreknjige.si/knjige/packa-na-asfaltu/
+Mireille Geus,4.7,7,190,6-7 ur,False,plesi,Pleši!,https://www.dobreknjige.si/knjige/plesi/
+Saša Pergar,0.0,0,,,False,knjiga-piskrc-in-marela-primozeva-knjiga-pravljica-o-knjigi,"Knjiga, Piskrc in Marela : Primoževa knjiga : pravljica o kn [...]",https://www.dobreknjige.si/knjige/knjiga-piskrc-in-marela-primozeva-knjiga-pravljica-o-knjigi/
+Jani Virk,4.6,14,195,6-7 ur,False,brez-imena,Brez imena,https://www.dobreknjige.si/knjige/brez-imena/
+Janko Valjavec,0.0,0,222,7-8 ur,False,obracunska-obdobja-kratke-zgodbe,Obračunska obdobja : (kratke zgodbe),https://www.dobreknjige.si/knjige/obracunska-obdobja-kratke-zgodbe/
+Michel Serres,0.0,0,91,3-4 ur,False,palcica,Palčica,https://www.dobreknjige.si/knjige/palcica/
+Jan Weiler,3.0,1,108,3-4 ur,False,puberzver,Puberzver,https://www.dobreknjige.si/knjige/puberzver/
+Nadia Murad,4.3,4,319,10-11 ur,False,zadnje-dekle-moja-zgodba-o-ujetnistvu-in-boju-proti-islamski-drzavi,Zadnje dekle : moja zgodba o ujetništvu in boju proti islams [...],https://www.dobreknjige.si/knjige/zadnje-dekle-moja-zgodba-o-ujetnistvu-in-boju-proti-islamski-drzavi/
+Tommy Wieringa,4.5,10,294,9-10 ur,False,to-so-imena,To so imena,https://www.dobreknjige.si/knjige/to-so-imena/
+Hiromi Kawakami,4.4,21,214,7-8 ur,True,aktovka,Aktovka,https://www.dobreknjige.si/knjige/aktovka/
+Arsen Dedić,4.7,7,124,4-5 ur,False,arsenizmi-arsen-dedic-o-sebi-in-drugih-ter-drugi-o-njemu,Arsenizmi : [Arsen Dedić o sebi in drugih ter drugi o njemu],https://www.dobreknjige.si/knjige/arsenizmi-arsen-dedic-o-sebi-in-drugih-ter-drugi-o-njemu/
+K Tucker,5.0,1,203,6-7 ur,False,ujet-ob-njej,Ujet ob njej,https://www.dobreknjige.si/knjige/ujet-ob-njej/
+Stian Hole,0.0,0,,,False,garmannovo-poletje,Garmannovo poletje,https://www.dobreknjige.si/knjige/garmannovo-poletje/
+Roald Dahl,4.7,14,234,7-8 ur,False,poba-zgodbe-iz-otrostva,Poba : zgodbe iz otroštva,https://www.dobreknjige.si/knjige/poba-zgodbe-iz-otrostva/
+Dunja Jogan,5.0,1,,,False,sreckov-kovcek,Srečkov kovček,https://www.dobreknjige.si/knjige/sreckov-kovcek/
+Ines Hrain,4.7,7,319,10-11 ur,False,najdebelejsa,Najdebelejša,https://www.dobreknjige.si/knjige/najdebelejsa/
+Goran Stojičić,5.0,1,245,8-9 ur,False,nespecni,Nespečni,https://www.dobreknjige.si/knjige/nespecni/
+Nuša Januš,3.0,2,168,5-6 ur,False,nedokoncana,Nedokončana,https://www.dobreknjige.si/knjige/nedokoncana/
+Janko Valjavec,0.0,0,323,10-11 ur,False,v-vodi-mrtve-savke,V vodi mrtve Savke,https://www.dobreknjige.si/knjige/v-vodi-mrtve-savke/
+Alexandra Reinwarth,3.0,2,201,6-7 ur,False,umetnost-posiljanja-v-r-kako-zivljenje-postane-lepse-ko-se-koncno-malo-sprostis,"Umetnost pošiljanja v r** : kako življenje postane lepše, ko [...]",https://www.dobreknjige.si/knjige/umetnost-posiljanja-v-r-kako-zivljenje-postane-lepse-ko-se-koncno-malo-sprostis/
+J. K. Rowling,4.9,7,69,2-3 ur,False,zelo-dobra-zivljenja,Zelo dobra življenja,https://www.dobreknjige.si/knjige/zelo-dobra-zivljenja/
+Amos Oz,5.0,2,326,10-11 ur,False,juda,Juda,https://www.dobreknjige.si/knjige/juda/
+Vladislav Otrošenko,5.0,2,117,3-4 ur,False,gogoliana,Gogoliana,https://www.dobreknjige.si/knjige/gogoliana/
+Eva Markun,4.0,1,231,7-8 ur,True,menazerija,Menažerija,https://www.dobreknjige.si/knjige/menazerija/
+John Green,4.5,19,280,9-10 ur,False,neskoncen-stolp-zelv,Neskončen stolp želv,https://www.dobreknjige.si/knjige/neskoncen-stolp-zelv/
+Metod Pevec,0.0,0,269,8-9 ur,False,teza-neba,Teža neba,https://www.dobreknjige.si/knjige/teza-neba/
+Harriet Jacobs,4.8,9,251,8-9 ur,False,spomini-mlade-suznje-avtobiografija,Spomini mlade sužnje : [avtobiografija],https://www.dobreknjige.si/knjige/spomini-mlade-suznje-avtobiografija/
+Roman Rozina,5.0,1,78,2-3 ur,False,kolo-srece,Kolo sreče,https://www.dobreknjige.si/knjige/kolo-srece/
+Karen M McManus,4.7,18,327,10-11 ur,False,eden-od-nas-laze,Eden od nas laže,https://www.dobreknjige.si/knjige/eden-od-nas-laze/
+Anja Cimerman,5.0,2,66,2-3 ur,False,fatamorgana,Fatamorgana,https://www.dobreknjige.si/knjige/fatamorgana/
+Jean Del Amo,5.0,1,304,10-11 ur,False,zivalsko-kraljestvo,Živalsko kraljestvo,https://www.dobreknjige.si/knjige/zivalsko-kraljestvo/
+Jennifer Laam,4.7,7,397,13-14 ur,False,izgubljeni-cas-ljubezni-in-snega,Izgubljeni čas ljubezni in snega,https://www.dobreknjige.si/knjige/izgubljeni-cas-ljubezni-in-snega/
+Slavenka Drakulić,4.1,25,208,6-7 ur,False,mileva-einstein-teorija-zalosti,"Mileva Einstein, teorija žalosti",https://www.dobreknjige.si/knjige/mileva-einstein-teorija-zalosti/
+Vinko Möderndorfer,4.7,10,824,27-28 ur,False,druga-preteklost,Druga preteklost,https://www.dobreknjige.si/knjige/druga-preteklost/
+Tomo Podstenšek,5.0,2,151,5-6 ur,False,ribji-krik,Ribji krik,https://www.dobreknjige.si/knjige/ribji-krik/
+Guadalupe Nettel,4.5,2,141,4-5 ur,False,bodljikave-zgodbe,Bodljikave zgodbe,https://www.dobreknjige.si/knjige/bodljikave-zgodbe/
+Connie Palmen,4.8,13,260,8-9 ur,False,ti-si-rekel,Ti si rekel,https://www.dobreknjige.si/knjige/ti-si-rekel/
+Miles Franklin,4.7,11,309,10-11 ur,False,moja-sijajna-kariera,Moja sijajna kariera,https://www.dobreknjige.si/knjige/moja-sijajna-kariera/
+Lesley Choyce,4.9,7,93,3-4 ur,False,konec-skrivalnic,Konec skrivalnic,https://www.dobreknjige.si/knjige/konec-skrivalnic/
+Ilija Trojanow,0.0,0,90,3-3 ur,False,odvecni-clovek,Odvečni človek,https://www.dobreknjige.si/knjige/odvecni-clovek/
+Lars Gustafsson,4.0,1,168,5-6 ur,False,cebelarjeva-smrt,Čebelarjeva smrt,https://www.dobreknjige.si/knjige/cebelarjeva-smrt/
+Teresa Cremisi,4.7,9,173,5-6 ur,False,zmagovalka,Zmagovalka,https://www.dobreknjige.si/knjige/zmagovalka/
+Stephen King,4.8,10,509,16-17 ur,False,gospod-mercedes,Gospod Mercedes,https://www.dobreknjige.si/knjige/gospod-mercedes/
+Jean Bannalec,4.9,11,293,9-10 ur,False,zivljenje-v-roznatem-komisar-dupin-razresi-sesti-primer,Življenje v rožnatem : komisar Dupin razreši šesti primer,https://www.dobreknjige.si/knjige/zivljenje-v-roznatem-komisar-dupin-razresi-sesti-primer/
+Laura Schroff,4.5,6,326,10-11 ur,False,angeli-na-zemlji-navdihujoce-zgodbe-o-usodi-prijateljstvu-in-moci-povezanosti,"Angeli na zemlji : navdihujoče zgodbe o usodi, prijateljstvu [...]",https://www.dobreknjige.si/knjige/angeli-na-zemlji-navdihujoce-zgodbe-o-usodi-prijateljstvu-in-moci-povezanosti/
+Lee Child,4.3,3,400,13-14 ur,False,materino-zatocisce,Materino zatočišče,https://www.dobreknjige.si/knjige/materino-zatocisce/
+Peter Stamm,4.2,19,259,8-9 ur,False,sedem-let,Sedem let,https://www.dobreknjige.si/knjige/sedem-let/
+Marco Erba,4.5,11,319,10-11 ur,False,med-nama,Med nama,https://www.dobreknjige.si/knjige/med-nama/
+Émile Zola,5.0,9,56,1-2 ur,False,umetnina,Umetnina,https://www.dobreknjige.si/knjige/umetnina/
+George Saunders,4.0,2,254,8-9 ur,False,deseti-december,Deseti december,https://www.dobreknjige.si/knjige/deseti-december/
+Jennifer Clement,4.8,10,215,7-8 ur,False,molitve-za-ugrabljene,Molitve za ugrabljene,https://www.dobreknjige.si/knjige/molitve-za-ugrabljene/
+Polona Kovač,3.0,1,120,4-4 ur,False,loverboy-mladinski-roman,Loverboy : mladinski roman,https://www.dobreknjige.si/knjige/loverboy-mladinski-roman/
+Kazuo Ishiguro,4.5,11,254,8-9 ur,False,ostanki-dneva,Ostanki dneva,https://www.dobreknjige.si/knjige/ostanki-dneva/
+Krzysztof Olaf Charamsa,3.9,7,302,10-11 ur,False,prvi-kamen,Prvi kamen,https://www.dobreknjige.si/knjige/prvi-kamen/
+Lao She,4.7,3,316,10-11 ur,False,riksa,Rikša,https://www.dobreknjige.si/knjige/riksa/
+Matej Krajnc,4.7,7,148,4-5 ur,False,lado-ena-sama-ljubezen-zivljenje-in-delo-lada-leskovarja-avtorizirana-biografija,Lado : ena sama ljubezen : življenje in delo Lada Leskovarja [...],https://www.dobreknjige.si/knjige/lado-ena-sama-ljubezen-zivljenje-in-delo-lada-leskovarja-avtorizirana-biografija/
+Vladimir Pištalo,3.5,2,79,2-3 ur,False,aleksandrida,Aleksandrida,https://www.dobreknjige.si/knjige/aleksandrida/
+Tamara Bach,4.8,9,110,3-4 ur,False,ostanki-poletja,Ostanki poletja,https://www.dobreknjige.si/knjige/ostanki-poletja/
+Yasunari Kawabata,3.7,7,156,5-6 ur,False,snezna-dezela,Snežna dežela,https://www.dobreknjige.si/knjige/snezna-dezela/
+Oriana Fallaci,4.3,4,93,3-4 ur,False,pismo-nikoli-rojenemu-otroku,Pismo nikoli rojenemu otroku,https://www.dobreknjige.si/knjige/pismo-nikoli-rojenemu-otroku/
+Malba Tahan,4.0,2,199,6-7 ur,False,moz-ki-je-racunal,"Mož, ki je računal",https://www.dobreknjige.si/knjige/moz-ki-je-racunal/
+Petra Soukupová,4.7,23,361,12-13 ur,False,pod-snegom,Pod snegom,https://www.dobreknjige.si/knjige/pod-snegom/
+Edith Wharton,4.8,8,193,6-7 ur,False,poletje,Poletje,https://www.dobreknjige.si/knjige/poletje/
+Bernardo Atxaga,4.0,2,467,15-16 ur,True,dnevi-nevade,Dnevi Nevade,https://www.dobreknjige.si/knjige/dnevi-nevade/
+Tatjana Kokalj,0.0,0,230,7-8 ur,False,luza-v-cevlju,Luža v čevlju,https://www.dobreknjige.si/knjige/luza-v-cevlju/
+Marko Pristov,0.0,0,156,5-6 ur,False,gozdic,Gózdič,https://www.dobreknjige.si/knjige/gozdic/
+Manuel Baixauli,4.0,1,226,7-8 ur,False,peto-nadstropje,Peto nadstropje,https://www.dobreknjige.si/knjige/peto-nadstropje/
+John Fante,0.0,0,211,7-8 ur,False,vprasaj-prah,Vprašaj prah,https://www.dobreknjige.si/knjige/vprasaj-prah/
+J. L. Carr,3.9,7,144,4-5 ur,False,mesec-dni-na-podezelju,Mesec dni na podeželju,https://www.dobreknjige.si/knjige/mesec-dni-na-podezelju/
+Emílios Solomú,4.5,4,226,7-8 ur,True,dnevnik-nezvestobe,Dnevnik nezvestobe,https://www.dobreknjige.si/knjige/dnevnik-nezvestobe/
+William Gibson,3.0,1,309,10-11 ur,True,nevromant,Nevromant,https://www.dobreknjige.si/knjige/nevromant/
+Sherman Alexie,4.6,23,255,8-9 ur,False,absolutno-resnicni-dnevnik-indijanca-s-polovicnim-delovnim-casom,Absolutno resnični dnevnik Indijanca s polovičnim delovnim č [...],https://www.dobreknjige.si/knjige/absolutno-resnicni-dnevnik-indijanca-s-polovicnim-delovnim-casom/
+Marcus Hammerschmitt,0.0,0,168,5-6 ur,False,projekt-herkules,Projekt Herkules,https://www.dobreknjige.si/knjige/projekt-herkules/
+Javier Cercas,4.3,4,86,2-3 ur,False,motiv,Motiv,https://www.dobreknjige.si/knjige/motiv/
+Chris Carter,3.8,8,427,14-15 ur,False,klicatelj-tvoje-zivljenje-je-na-kocki-triler,Klicatelj : [tvoje življenje je na kocki : triler],https://www.dobreknjige.si/knjige/klicatelj-tvoje-zivljenje-je-na-kocki-triler/
+Cees Nooteboom,0.0,0,101,3-4 ur,False,naslednja-zgodba,Naslednja zgodba,https://www.dobreknjige.si/knjige/naslednja-zgodba/
+Oliver Sacks,5.0,2,59,1-2 ur,False,hvaleznost-2,Hvaležnost,https://www.dobreknjige.si/knjige/hvaleznost-2/
+Ognjen Spahić,4.5,2,311,10-11 ur,True,polna-glava-radosti,Polna glava radosti,https://www.dobreknjige.si/knjige/polna-glava-radosti/
+Chimamanda Ngozi Adichie,5.0,3,46,1-2 ur,False,vsi-moramo-biti-feministi,Vsi moramo biti feministi,https://www.dobreknjige.si/knjige/vsi-moramo-biti-feministi/
+F. Scott Fitzgerald,4.0,3,87,2-3 ur,False,mladi-bogatas,Mladi bogataš,https://www.dobreknjige.si/knjige/mladi-bogatas/
+Sebastijan Pregelj,4.7,3,291,9-10 ur,False,vdih-izdih,Vdih. Izdih.,https://www.dobreknjige.si/knjige/vdih-izdih/
+Per J Andersson,4.3,14,299,9-10 ur,False,o-indijcu-ki-se-je-s-kolesom-peljal-vse-do-svedske-da-bi-tam-znova-nasel-svojo-veliko-ljubezen-resnicna-zgodba,"O Indijcu, ki se je s kolesom peljal vse do Švedske, da bi t [...]",https://www.dobreknjige.si/knjige/o-indijcu-ki-se-je-s-kolesom-peljal-vse-do-svedske-da-bi-tam-znova-nasel-svojo-veliko-ljubezen-resnicna-zgodba/
+Cees Nooteboom,0.0,0,385,12-13 ur,False,vsi-sveti,Vsi sveti,https://www.dobreknjige.si/knjige/vsi-sveti/
+,0.0,0,127,4-5 ur,False,tri-prste-pod-popkom-slovenske-ljudske-eroticne-nagajive-in-kvantarske-pesmi,"Tri prste pod popkom : slovenske ljudske erotične, nagajive [...]",https://www.dobreknjige.si/knjige/tri-prste-pod-popkom-slovenske-ljudske-eroticne-nagajive-in-kvantarske-pesmi/
+Ignacy Karpowicz,5.0,1,629,20-21 ur,False,baladine-in-romance,Baladine in romance,https://www.dobreknjige.si/knjige/baladine-in-romance/
+Stefan Zweig,3.8,4,96,3-4 ur,False,neznankino-pismo,Neznankino pismo,https://www.dobreknjige.si/knjige/neznankino-pismo/
+Damjana Kenda Hussu,4.5,2,176,5-6 ur,False,adijo-hotel-mama,"Adijo, hotel mama",https://www.dobreknjige.si/knjige/adijo-hotel-mama/
+Robert N Munsch,5.0,2,,,False,princesa-v-papirnati-vrecki,Princesa v papirnati vrečki,https://www.dobreknjige.si/knjige/princesa-v-papirnati-vrecki/
+Maxine Hong Kingston,4.7,3,241,8-9 ur,False,bojevnica,Bojevnica,https://www.dobreknjige.si/knjige/bojevnica/
+Ali Smith,0.0,0,344,11-12 ur,False,nakljucnost,Naključnost,https://www.dobreknjige.si/knjige/nakljucnost/
+Gašper Kralj,5.0,1,213,7-8 ur,False,rok-trajanja,Rok trajanja,https://www.dobreknjige.si/knjige/rok-trajanja/
+Igor Karlovšek,2.5,2,271,9-10 ur,False,bahamski-dokument,Bahamski dokument,https://www.dobreknjige.si/knjige/bahamski-dokument/
+Julian Barnes,4.8,9,229,7-8 ur,False,hrumenje-casa,Hrumenje časa,https://www.dobreknjige.si/knjige/hrumenje-casa/
+,4.6,8,396,13-14 ur,False,vitomil-zupan-vazno-je-priti-na-gric-zivljenje-in-delo-vitomila-zupana-1914-1987-biografija-dokumenti-novele-pricevanja,Vitomil Zupan : važno je priti na grič : življenje in delo V [...],https://www.dobreknjige.si/knjige/vitomil-zupan-vazno-je-priti-na-gric-zivljenje-in-delo-vitomila-zupana-1914-1987-biografija-dokumenti-novele-pricevanja/
+Paul Auster,4.4,5,247,8-9 ur,False,brooklynske-norosti,Brooklynske norosti,https://www.dobreknjige.si/knjige/brooklynske-norosti/
+Will Ferguson,4.0,1,302,10-11 ur,False,sreca,Sreča,https://www.dobreknjige.si/knjige/sreca/
+Sten Nadolny,4.0,1,226,7-8 ur,False,bog-predrznosti,Bog predrznosti,https://www.dobreknjige.si/knjige/bog-predrznosti/
+Drago Jančar,4.5,37,351,11-12 ur,True,in-ljubezen-tudi,In ljubezen tudi,https://www.dobreknjige.si/knjige/in-ljubezen-tudi/
+Ljuba Prenner,4.9,7,155,5-6 ur,False,neznani-storilec-malomescanska-kriminalna-povest,Neznani storilec : malomeščanska kriminalna povest,https://www.dobreknjige.si/knjige/neznani-storilec-malomescanska-kriminalna-povest/
+Aglaja Veteranyi,4.4,23,190,6-7 ur,False,zakaj-se-otrok-v-polenti-kuha,Zakaj se otrok v polenti kuha,https://www.dobreknjige.si/knjige/zakaj-se-otrok-v-polenti-kuha/
+Pierre Boileau,3.5,2,131,4-5 ur,False,hudicevki,Hudičevki,https://www.dobreknjige.si/knjige/hudicevki/
+Margaret Mazzantini,4.3,26,389,12-13 ur,False,sijaj,Sijaj,https://www.dobreknjige.si/knjige/sijaj/
+Želimir Periš,5.0,1,239,7-8 ur,False,mucenice,Mučenice,https://www.dobreknjige.si/knjige/mucenice/
+Valeria Luiselli,5.0,2,175,5-6 ur,False,breztezni,Breztežni,https://www.dobreknjige.si/knjige/breztezni/
+Manca G. Renko,4.4,10,64,2-3 ur,False,lastno-zivljenje-srecanje-z-zofko-kveder,Lastno življenje : srečanje z Zofko Kveder,https://www.dobreknjige.si/knjige/lastno-zivljenje-srecanje-z-zofko-kveder/
+Jurga Ivanauskaite,4.0,2,306,10-11 ur,False,carovnica-in-dez,Čarovnica in dež,https://www.dobreknjige.si/knjige/carovnica-in-dez/
+Charlaine Harris,0.0,0,271,9-10 ur,False,truplo-v-spalnici,Truplo v spalnici,https://www.dobreknjige.si/knjige/truplo-v-spalnici/
+Alexandre Seurat,4.8,13,117,3-4 ur,False,neroda,Neroda,https://www.dobreknjige.si/knjige/neroda/
+Toni Morrison,4.2,14,197,6-7 ur,True,bog-pomagaj-otroku,Bog pomagaj otroku,https://www.dobreknjige.si/knjige/bog-pomagaj-otroku/
+Sophie Hannah,0.0,0,340,11-12 ur,False,zaprta-krsta-novi-primer-hercula-poirota,Zaprta krsta : novi primer Hercula Poirota,https://www.dobreknjige.si/knjige/zaprta-krsta-novi-primer-hercula-poirota/
+Robin Hobb,4.3,4,484,16-17 ur,False,morilcev-vajenec-i-knjiga-trilogije-dinastije-videc,Morilčev vajenec : I. knjiga trilogije Dinastije Videc,https://www.dobreknjige.si/knjige/morilcev-vajenec-i-knjiga-trilogije-dinastije-videc/
+Vinko Möderndorfer,5.0,1,153,5-6 ur,False,konec-zgodbe,Konec zgodbe,https://www.dobreknjige.si/knjige/konec-zgodbe/
+Evie Wyld,4.7,9,236,7-8 ur,True,vseh-ptic-petje,Vseh ptic petje,https://www.dobreknjige.si/knjige/vseh-ptic-petje/
+Dragan Petrovec,3.9,14,94,3-4 ur,False,fanci-s-psihiatrije-in-se-hujse-zgodbe,Fanči s psihiatrije in še hujše zgodbe,https://www.dobreknjige.si/knjige/fanci-s-psihiatrije-in-se-hujse-zgodbe/
+Hanne Ørstavik,4.6,7,221,7-8 ur,False,v-bordeauxu-je-odprt-prostor,V Bordeauxu je odprt prostor,https://www.dobreknjige.si/knjige/v-bordeauxu-je-odprt-prostor/
+Michael Morpurgo,0.0,0,,,False,nezni-velikan,Nežni velikan,https://www.dobreknjige.si/knjige/nezni-velikan/
+Arnold Stadler,0.0,0,212,7-8 ur,False,smrt-in-jaz-midva,"Smrt in jaz, midva",https://www.dobreknjige.si/knjige/smrt-in-jaz-midva/
+Mojca Kumerdej,5.0,1,268,8-9 ur,False,fragma,Fragma,https://www.dobreknjige.si/knjige/fragma/
+Lucy Hughes &#8211; Hallett,5.0,2,685,22-23 ur,True,scuka-gabriele-dannunzio-pesnik-zapeljivec-in-vojni-pridigar,"Ščuka : Gabriele d&#8217;Annunzio : pesnik, zapeljivec in vo [...]",https://www.dobreknjige.si/knjige/scuka-gabriele-dannunzio-pesnik-zapeljivec-in-vojni-pridigar/
+Hendrik Groen,4.3,25,393,13-14 ur,False,skrivni-dnevnik-hendrika-groena-starega-83-let-in-1-4,"Skrivni dnevnik Hendrika Groena, starega 83 let in 1/4",https://www.dobreknjige.si/knjige/skrivni-dnevnik-hendrika-groena-starega-83-let-in-1-4/
+Gabriele D&#8217;Annunzio,0.0,0,343,11-12 ur,False,zmagoslavje-smrti,Zmagoslavje smrti,https://www.dobreknjige.si/knjige/zmagoslavje-smrti/
+Els Beerten,4.8,11,486,16-17 ur,False,vsi-si-zelimo-nebes,Vsi si želimo nebes,https://www.dobreknjige.si/knjige/vsi-si-zelimo-nebes/
+Tone Peršak,4.7,7,255,8-9 ur,False,stanja,Stanja,https://www.dobreknjige.si/knjige/stanja/
+Robert Markuš,4.9,7,360,12-12 ur,False,legija-anekdote-in-tradicija,Legija : anekdote in tradicija,https://www.dobreknjige.si/knjige/legija-anekdote-in-tradicija/
+Beverley Naidoo,0.0,0,242,8-9 ur,False,druga-stran-resnice,Druga stran resnice,https://www.dobreknjige.si/knjige/druga-stran-resnice/
+David Hill,5.0,1,147,4-5 ur,False,korak-pred-plameni,Korak pred plameni,https://www.dobreknjige.si/knjige/korak-pred-plameni/
+Aleksandra Kocmut,1.0,1,95,3-4 ur,False,jedci-rzi,Jedci rži,https://www.dobreknjige.si/knjige/jedci-rzi/
+Damir Zlatar Frey,4.0,3,501,16-17 ur,False,kristalni-kardinal,Kristalni kardinal,https://www.dobreknjige.si/knjige/kristalni-kardinal/
+Miljenko Jergović,4.3,4,182,6-7 ur,False,psi-na-jezeru,Psi na jezeru,https://www.dobreknjige.si/knjige/psi-na-jezeru/
+Leo F Buscaglia,0.0,0,,,False,jesen-listka-timija-zgodba-o-zivljenju-za-vse-starosti,Jesen listka Timija : zgodba o življenju za vse starosti,https://www.dobreknjige.si/knjige/jesen-listka-timija-zgodba-o-zivljenju-za-vse-starosti/
+Elif Shafak,4.6,37,428,14-15 ur,False,cast,Čast,https://www.dobreknjige.si/knjige/cast/
+Manuel Manzano,2.7,3,153,5-6 ur,False,zajec-in-pol,Zajec in pol,https://www.dobreknjige.si/knjige/zajec-in-pol/
+Juan Eslava Galán,4.0,2,236,7-8 ur,False,mula,Mula,https://www.dobreknjige.si/knjige/mula/
+M Beaton,4.0,4,151,5-6 ur,False,agatha-raisin-in-pohodniki-dembleya,Agatha Raisin in Pohodniki Dembleya,https://www.dobreknjige.si/knjige/agatha-raisin-in-pohodniki-dembleya/
+Johan Unenge,4.0,1,253,8-9 ur,True,moje-vzporedno-zivljenje-roman-s-stripom,Moje vzporedno življenje : [roman s stripom],https://www.dobreknjige.si/knjige/moje-vzporedno-zivljenje-roman-s-stripom/
+Carlos Fuentes,3.7,3,235,7-8 ur,False,diana-ali-samotna-boginja-lova,Diana ali Samotna boginja lova,https://www.dobreknjige.si/knjige/diana-ali-samotna-boginja-lova/
+Rómulo Gallegos,0.0,0,252,8-9 ur,False,canaima,Canaima,https://www.dobreknjige.si/knjige/canaima/
+Aleksandar Hemon,0.0,0,299,9-10 ur,False,projekt-lazar,Projekt Lazar,https://www.dobreknjige.si/knjige/projekt-lazar/
+Roman Rozina,0.0,0,191,6-7 ur,False,zlocin-in-ljubezen,Zločin in ljubezen,https://www.dobreknjige.si/knjige/zlocin-in-ljubezen/
+Aleš Šteger,5.0,1,331,11-12 ur,False,odpusti,Odpusti,https://www.dobreknjige.si/knjige/odpusti/
+Antonio Scurati,4.2,12,213,7-8 ur,False,nezvesti-oce,Nezvesti oče,https://www.dobreknjige.si/knjige/nezvesti-oce/
+Cees Nooteboom,4.0,2,189,6-7 ur,False,rituali,Rituali,https://www.dobreknjige.si/knjige/rituali/
+Lev Nikolaevič Tolstoj,0.0,0,486,16-17 ur,False,vstajenje,Vstajenje,https://www.dobreknjige.si/knjige/vstajenje/
+James M. Cain,4.7,7,306,10-11 ur,False,koktejlarca,Koktejlar&#8217;ca,https://www.dobreknjige.si/knjige/koktejlarca/
+Jo Nesbø,4.1,19,357,11-12 ur,False,netopir,Netopir,https://www.dobreknjige.si/knjige/netopir/
+Matjaž Lunaček,4.7,7,274,9-10 ur,False,telovadci-nad-prepadom-kratki-eseji,Telovadci nad prepadom : kratki eseji,https://www.dobreknjige.si/knjige/telovadci-nad-prepadom-kratki-eseji/
+Linda Green,4.5,12,311,10-11 ur,False,ko-sem-zaprla-oci,Ko sem zaprla oči,https://www.dobreknjige.si/knjige/ko-sem-zaprla-oci/
+Elena Ferrante,4.6,51,311,10-11 ur,False,genialna-prijateljica-otrostvo-odrascanje-2,"Genialna prijateljica : otroštvo, odraščanje",https://www.dobreknjige.si/knjige/genialna-prijateljica-otrostvo-odrascanje-2/
+Tessa Afshar,4.3,8,304,10-11 ur,False,na-polju-milosti,Na polju milosti,https://www.dobreknjige.si/knjige/na-polju-milosti/
+Christiaan Weijts,0.0,0,296,9-10 ur,False,cl-285b,Čl. 285b,https://www.dobreknjige.si/knjige/cl-285b/
+Hanif Kureishi,4.4,9,291,9-10 ur,False,zadnja-beseda,Zadnja beseda,https://www.dobreknjige.si/knjige/zadnja-beseda/
+Kamel Daoud,4.9,7,183,6-7 ur,False,primer-meursault,Primer Meursault,https://www.dobreknjige.si/knjige/primer-meursault/
+Colin Barrett,4.6,9,246,8-9 ur,False,mladi-volkovi,Mladi volkovi,https://www.dobreknjige.si/knjige/mladi-volkovi/
+Josip Osti,4.9,7,425,14-15 ur,False,duhovi-hise-heinricha-bolla-kalejdoskopski-roman-zgrajen-iz-zgodb-predvsem-o-pisateljih,"Duhovi hiše Heinricha Bölla : (kalejdoskopski roman, zgrajen [...]",https://www.dobreknjige.si/knjige/duhovi-hise-heinricha-bolla-kalejdoskopski-roman-zgrajen-iz-zgodb-predvsem-o-pisateljih/
+Stefanie Lazai,0.0,0,,,False,benjamin-moja-mama-je-posebna,Benjamin : moja mama je posebna,https://www.dobreknjige.si/knjige/benjamin-moja-mama-je-posebna/
+Quentin Blake,5.0,1,,,False,benjamin,Benjamin,https://www.dobreknjige.si/knjige/benjamin/
+Agatha Christie,4.8,14,260,8-9 ur,False,bilo-jih-je-deset,Bilo jih je deset&#8230;,https://www.dobreknjige.si/knjige/bilo-jih-je-deset/
+Pete Johnson,2.5,2,199,6-7 ur,False,potegavscina,Potegavščina,https://www.dobreknjige.si/knjige/potegavscina/
+Irena Svetek,4.8,13,171,5-6 ur,False,zaspi-mala-moja-zaspi,"Zaspi, mala moja, zaspi",https://www.dobreknjige.si/knjige/zaspi-mala-moja-zaspi/
+Robin Hjordis Stevenson,5.0,1,118,3-4 ur,False,ne-brez-boja,Ne brez boja,https://www.dobreknjige.si/knjige/ne-brez-boja/
+Yasunari Kawabata,5.0,2,127,4-5 ur,True,jezero-3,Jezero,https://www.dobreknjige.si/knjige/jezero-3/
+Jiři Bezlaj,3.6,14,111,3-4 ur,False,evangelij-za-pitbule,Evangelij za pitbule,https://www.dobreknjige.si/knjige/evangelij-za-pitbule/
+Donna Tartt,4.6,44,571,19-20 ur,False,skrivna-zgodovina,Skrivna zgodovina,https://www.dobreknjige.si/knjige/skrivna-zgodovina/
+Igor Karlovšek,4.5,6,247,8-9 ur,False,teci,Teci!,https://www.dobreknjige.si/knjige/teci/
+Philip Roth,4.5,4,374,12-13 ur,True,cloveski-madez,Človeški madež,https://www.dobreknjige.si/knjige/cloveski-madez/
+Miguel Barnet,4.3,3,203,6-7 ur,False,zivljenje-ubeznega-suznja,Življenje ubežnega sužnja,https://www.dobreknjige.si/knjige/zivljenje-ubeznega-suznja/
+Knut Hamsun,4.4,12,224,7-8 ur,True,glad,Glad,https://www.dobreknjige.si/knjige/glad/
+Laurent Gaudé,3.0,2,253,8-9 ur,True,sonce-scortovih-roman,Sonce Scortovih : roman,https://www.dobreknjige.si/knjige/sonce-scortovih-roman/
+Amin Maalouf,3.7,3,253,8-9 ur,True,taniosova-pecina-roman,Taniosova pečina : roman,https://www.dobreknjige.si/knjige/taniosova-pecina-roman/
+Helen Zahavi,0.0,0,206,6-7 ur,False,umazani-vikend,Umazani vikend,https://www.dobreknjige.si/knjige/umazani-vikend/
+Julie B. Bonnie,4.0,2,175,5-6 ur,False,soba-2,Soba 2,https://www.dobreknjige.si/knjige/soba-2/
+Ljuba Krušič,0.0,0,93,3-4 ur,False,ujeta-v-pajcevini,Ujeta v pajčevini,https://www.dobreknjige.si/knjige/ujeta-v-pajcevini/
+Sophie Kasiki,4.1,12,185,6-7 ur,False,v-pekel-in-nazaj,V pekel in nazaj,https://www.dobreknjige.si/knjige/v-pekel-in-nazaj/
+Leah Remini,4.5,11,314,10-11 ur,False,zgaga-kako-sem-prezivela-hollywood-in-scientologijo,Zgaga : kako sem preživela Hollywood in scientologijo,https://www.dobreknjige.si/knjige/zgaga-kako-sem-prezivela-hollywood-in-scientologijo/
+Edith Wharton,4.0,8,107,3-4 ur,False,zatocisce-pasti-materine-ljubezni,Zatočišče : pasti materine ljubezni,https://www.dobreknjige.si/knjige/zatocisce-pasti-materine-ljubezni/
+Gilles Leroy,2.5,2,205,6-7 ur,True,alabama-song,Alabama song,https://www.dobreknjige.si/knjige/alabama-song/
+Irena Velikonja,4.0,2,156,5-6 ur,False,tasa,Taša,https://www.dobreknjige.si/knjige/tasa/
+Lin Fabiani,4.0,2,253,8-9 ur,False,ona-in-leon,Ona in Leon,https://www.dobreknjige.si/knjige/ona-in-leon/
+Emmanuel Carrère,3.8,4,300,10-10 ur,False,ruski-roman,Ruski roman,https://www.dobreknjige.si/knjige/ruski-roman/
+Barbara Pešut,4.6,12,144,4-5 ur,False,prvi-polcas-slastne-cetrtine,Prvi polčas : slastne četrtine,https://www.dobreknjige.si/knjige/prvi-polcas-slastne-cetrtine/
+Virginia Woolf,4.6,9,201,6-7 ur,False,med-dejanji,Med dejanji,https://www.dobreknjige.si/knjige/med-dejanji/
+Charles Bukowski,4.7,3,189,6-7 ur,False,posta,Pošta,https://www.dobreknjige.si/knjige/posta/
+Alja Furlan,3.5,2,80,2-3 ur,False,mama-moji-punci-je-ime-depra,"Mama, moji punci je ime Depra",https://www.dobreknjige.si/knjige/mama-moji-punci-je-ime-depra/
+Pierre Louis Boileau,0.0,0,135,4-5 ur,False,gostisce-hibiscus,Gostišče Hibiscus,https://www.dobreknjige.si/knjige/gostisce-hibiscus/
+Maja Gal Štromar,0.0,0,151,5-6 ur,False,boginja-z-zamudo,Boginja z zamudo,https://www.dobreknjige.si/knjige/boginja-z-zamudo/
+Hugo Claus,4.8,9,853,28-29 ur,False,zalost-belgije,Žalost Belgije,https://www.dobreknjige.si/knjige/zalost-belgije/
+Faruk Šehić,4.2,6,199,6-7 ur,True,knjiga-o-uni,Knjiga o Uni,https://www.dobreknjige.si/knjige/knjiga-o-uni/
+Jenny Valentine,3.3,4,155,5-6 ur,True,kako-sem-spoznal-violet-park,Kako sem spoznal Violet Park,https://www.dobreknjige.si/knjige/kako-sem-spoznal-violet-park/
+Gérard Depardieu,4.6,14,170,5-6 ur,False,tako-se-je-zgodilo,Tako se je zgodilo,https://www.dobreknjige.si/knjige/tako-se-je-zgodilo/
+Jure Jakob,5.0,2,119,3-4 ur,True,hise-in-drugi-prosti-spisi,Hiše in drugi prosti spisi,https://www.dobreknjige.si/knjige/hise-in-drugi-prosti-spisi/
+Allison Pataki,4.6,12,446,14-15 ur,False,sisi-samosvoja-cesarica,Sisi : samosvoja cesarica,https://www.dobreknjige.si/knjige/sisi-samosvoja-cesarica/
+Thomas Bernhard,4.7,3,351,11-12 ur,False,mraz,Mraz,https://www.dobreknjige.si/knjige/mraz/
+Lawrence Schimel,5.0,1,31,1-2 ur,False,sosedje-in-prijatelji,Sosedje in prijatelji,https://www.dobreknjige.si/knjige/sosedje-in-prijatelji/
+Babette Cole,4.5,2,,,False,vsega-po-dvoje,Vsega po dvoje,https://www.dobreknjige.si/knjige/vsega-po-dvoje/
+Evald Flisar,5.0,1,310,10-11 ur,False,noro-zivljenje,Noro življenje,https://www.dobreknjige.si/knjige/noro-zivljenje/
+Stephen Greenblatt,4.5,8,381,12-13 ur,False,will-in-svet-kako-je-shakespeare-postal-shakespeare,Will in svet: kako je Shakespeare postal Shakespeare,https://www.dobreknjige.si/knjige/will-in-svet-kako-je-shakespeare-postal-shakespeare/
+Pearl S. Buck,0.0,0,77,2-3 ur,False,moja-puncka-ne-bo-nikoli-odrasla,Moja punčka ne bo nikoli odrasla,https://www.dobreknjige.si/knjige/moja-puncka-ne-bo-nikoli-odrasla/
+Veronika Simoniti,4.7,3,234,7-8 ur,False,kameno-seme,Kameno seme,https://www.dobreknjige.si/knjige/kameno-seme/
+Andrzej Szczypiorski,5.0,2,136,4-5 ur,False,masa-za-mesto-arras,Maša za mesto Arras,https://www.dobreknjige.si/knjige/masa-za-mesto-arras/
+Irena Velikonja,5.0,1,271,9-10 ur,False,naj-pociva-v-miru,Naj počiva v miru,https://www.dobreknjige.si/knjige/naj-pociva-v-miru/
+Barbara Majcenovič Kline,5.0,1,,,False,most-materinske-ljubezni,Most materinske ljubezni,https://www.dobreknjige.si/knjige/most-materinske-ljubezni/
+Fabrizio Silei,5.0,2,,,False,avtobus-rose-parks,Avtobus Rose Parks,https://www.dobreknjige.si/knjige/avtobus-rose-parks/
+Mariama Bâ,5.0,4,137,4-5 ur,False,dolgo-dolgo-pismo,Dolgo dolgo pismo,https://www.dobreknjige.si/knjige/dolgo-dolgo-pismo/
+Vanessa Diffenbaugh,4.7,13,349,11-12 ur,False,nikoli-nismo-prosili-za-krila,Nikoli nismo prosili za krila,https://www.dobreknjige.si/knjige/nikoli-nismo-prosili-za-krila/
+Fridrik Erlingsson,4.0,2,134,4-5 ur,False,benjamin-dove,Benjamin Dove,https://www.dobreknjige.si/knjige/benjamin-dove/
+Annet Huizing,4.4,16,143,4-5 ur,False,kako-sem-po-nesreci-napisala-knjigo,Kako sem po nesreči napisala knjigo,https://www.dobreknjige.si/knjige/kako-sem-po-nesreci-napisala-knjigo/
+George Orwell,4.6,11,377,12-13 ur,False,burmanski-dnevi,Burmanski dnevi,https://www.dobreknjige.si/knjige/burmanski-dnevi/
+Sophie Hannah,4.8,10,441,14-15 ur,False,tocka-resitve,Točka rešitve,https://www.dobreknjige.si/knjige/tocka-resitve/
+Irena Velikonja,4.5,2,148,4-5 ur,False,zivljenje-brez-psa,Življenje brez psa,https://www.dobreknjige.si/knjige/zivljenje-brez-psa/
+Alfred Döblin,4.3,3,469,15-16 ur,False,berlin-alexanderplatz,"Berlin, Alexanderplatz",https://www.dobreknjige.si/knjige/berlin-alexanderplatz/
+Janice Galloway,4.8,5,314,10-11 ur,False,dihati-moras-to-je-vsa-skrivnost,"Dihati moraš, to je vsa skrivnost",https://www.dobreknjige.si/knjige/dihati-moras-to-je-vsa-skrivnost/
+Karl Ove Knausgård,4.6,16,,,False,moj-boj,Moj boj,https://www.dobreknjige.si/knjige/moj-boj/
+Yasmina Khadra,4.3,3,312,10-11 ur,False,bagdadske-sirene,Bagdadske sirene,https://www.dobreknjige.si/knjige/bagdadske-sirene/
+Sharon E. Mckay,5.0,1,264,8-9 ur,False,nevihta-nad-kandaharjem,Nevihta nad Kandaharjem,https://www.dobreknjige.si/knjige/nevihta-nad-kandaharjem/
+Frédéric Beigbeder,5.0,3,251,8-9 ur,False,oona-salinger,Oona &#038; Salinger,https://www.dobreknjige.si/knjige/oona-salinger/
+Evald Flisar,4.4,5,359,11-12 ur,False,besede-nad-oblaki,Besede nad oblaki,https://www.dobreknjige.si/knjige/besede-nad-oblaki/
+Samuel Beckett,5.0,3,155,5-6 ur,True,mercier-in-camier,Mercier in Camier,https://www.dobreknjige.si/knjige/mercier-in-camier/
+Michael Katz Krefeld,4.5,11,362,12-13 ur,False,beli-angeli,Beli angeli,https://www.dobreknjige.si/knjige/beli-angeli/
+Bernard Malamud,0.0,0,395,13-14 ur,False,novo-zivljenje-2,Novo življenje,https://www.dobreknjige.si/knjige/novo-zivljenje-2/
+William Styron,4.5,4,729,24-25 ur,True,sophiejina-odlocitev,Sophiejina odločitev,https://www.dobreknjige.si/knjige/sophiejina-odlocitev/
+Marko Sosič,5.0,1,83,2-3 ur,False,ovsene-besede-parole-davena,Ovsene besede (Parole d`avena),https://www.dobreknjige.si/knjige/ovsene-besede-parole-davena/
+Robotham Michael,4.5,2,447,14-15 ur,False,nocni-trajekt,Nočni trajekt,https://www.dobreknjige.si/knjige/nocni-trajekt/
+John Edward Williams,4.7,34,334,11-12 ur,False,stoner,Stoner,https://www.dobreknjige.si/knjige/stoner/
+Jill Alexander Essbaum,4.4,19,299,9-10 ur,False,dobra-zena,Dobra žena,https://www.dobreknjige.si/knjige/dobra-zena/
+Irène Némirovsky,4.4,10,76,2-3 ur,False,ples,Ples,https://www.dobreknjige.si/knjige/ples/
+Jojo Moyes,4.4,26,550,18-19 ur,False,zadnje-ljubezensko-pismo,Zadnje ljubezensko pismo,https://www.dobreknjige.si/knjige/zadnje-ljubezensko-pismo/
+Jure Černič,5.0,1,157,5-6 ur,False,bebo-o-fantu-ki-je-bil-malo-tako,"Bebo : o fantu, ki je bil malo tako",https://www.dobreknjige.si/knjige/bebo-o-fantu-ki-je-bil-malo-tako/
+Štefan Kardoš,4.5,2,189,6-7 ur,True,rizling-polka,Rizling polka,https://www.dobreknjige.si/knjige/rizling-polka/
+Pavel Valer´evič Basinskij,4.4,9,649,21-22 ur,False,lev-tolstoj-pobeg-iz-raja,Lev Tolstoj : pobeg iz raja,https://www.dobreknjige.si/knjige/lev-tolstoj-pobeg-iz-raja/
+Paula Hawkins,4.2,66,413,13-14 ur,False,dekle-na-vlaku,Dekle na vlaku,https://www.dobreknjige.si/knjige/dekle-na-vlaku/
+Susanna Tamaro,4.6,15,262,8-9 ur,False,vsak-angel-je-strasen,Vsak angel je strašen,https://www.dobreknjige.si/knjige/vsak-angel-je-strasen/
+Peter Zupanc,4.0,3,233,7-8 ur,False,tri,Tri,https://www.dobreknjige.si/knjige/tri/
+Etgar Keret,4.3,3,148,4-5 ur,False,se-zadnja-zgodba-in-konec,Še zadnja zgodba in konec,https://www.dobreknjige.si/knjige/se-zadnja-zgodba-in-konec/
+Anne Cassidy,4.3,3,215,7-8 ur,False,iskanje-j-j,Iskanje J. J.,https://www.dobreknjige.si/knjige/iskanje-j-j/
+Nick Hornby,3.0,2,246,8-9 ur,False,dolga-pot-navzdol,Dolga pot navzdol,https://www.dobreknjige.si/knjige/dolga-pot-navzdol/
+Jana Šrámková,4.5,13,147,4-5 ur,True,hruskadottir,Hruškadóttir,https://www.dobreknjige.si/knjige/hruskadottir/
+Erica Johnson Debeljak,4.0,1,272,9-10 ur,False,tovarna-koles,Tovarna koles,https://www.dobreknjige.si/knjige/tovarna-koles/
+Tereza Boučková,4.3,3,459,15-16 ur,False,leto-petelina,Leto petelina,https://www.dobreknjige.si/knjige/leto-petelina/
+Camilla Läckberg,4.8,27,404,13-14 ur,False,krotilec-levov,Krotilec levov,https://www.dobreknjige.si/knjige/krotilec-levov/
+Alice Munro,4.8,16,319,10-11 ur,True,ubeznica,Ubežnica,https://www.dobreknjige.si/knjige/ubeznica/
+Aline Ohanesian,4.5,15,297,9-10 ur,False,orhanova-dediscina,Orhanova dediščina,https://www.dobreknjige.si/knjige/orhanova-dediscina/
+Lev Nikolaevič Tolstoj,5.0,2,523,17-18 ur,False,o-umetnosti-in-druzbi,O umetnosti in družbi,https://www.dobreknjige.si/knjige/o-umetnosti-in-druzbi/
+Orhan Pamuk,4.3,4,301,10-11 ur,True,tiha-hisa,Tiha hiša,https://www.dobreknjige.si/knjige/tiha-hisa/
+Maja Gal Štromar,3.3,3,223,7-8 ur,False,potaknjenci,Potaknjenci,https://www.dobreknjige.si/knjige/potaknjenci/
+Evald Flisar,5.0,1,207,6-7 ur,False,velika-zival-samote,Velika žival samote,https://www.dobreknjige.si/knjige/velika-zival-samote/
+Roman Rozina,5.0,2,142,4-5 ur,False,galerija-na-izviru-soncne-ulice,Galerija na izviru Sončne ulice,https://www.dobreknjige.si/knjige/galerija-na-izviru-soncne-ulice/
+Francis Scott Fitzgerald,4.2,18,223,7-8 ur,False,veliki-gatsby,Veliki Gatsby,https://www.dobreknjige.si/knjige/veliki-gatsby/
+Patrick Ness,4.3,7,440,14-15 ur,False,vec-kot-to,Več kot to,https://www.dobreknjige.si/knjige/vec-kot-to/
+Hanif Kureishi,5.0,3,151,5-6 ur,False,polnoc-ves-dan,Polnoč ves dan,https://www.dobreknjige.si/knjige/polnoc-ves-dan/
+Khalid Khamisi,4.2,11,201,6-7 ur,False,taksi,Taksi,https://www.dobreknjige.si/knjige/taksi/
+Vesna Milek,3.7,6,237,7-8 ur,False,ce-2,Če,https://www.dobreknjige.si/knjige/ce-2/
+Irena Štaudohar,4.6,16,229,7-8 ur,False,magija-za-realiste,Magija za realiste,https://www.dobreknjige.si/knjige/magija-za-realiste/
+Robert Sheckley,5.0,3,177,5-6 ur,False,menjava-duha,Menjava duha,https://www.dobreknjige.si/knjige/menjava-duha/
+Dominique Loreau,4.7,3,211,7-8 ur,False,umetnost-preprostosti,Umetnost preprostosti,https://www.dobreknjige.si/knjige/umetnost-preprostosti/
+Marija Ahačič Pollak,4.8,12,261,8-9 ur,False,tecejo-tecejo-nitke,"Tečejo, tečejo nitke",https://www.dobreknjige.si/knjige/tecejo-tecejo-nitke/
+Marko Sosič,4.1,17,119,3-4 ur,True,balerina-balerina,"Balerina, balerina",https://www.dobreknjige.si/knjige/balerina-balerina/
+Sebastijan Pregelj,5.0,2,111,3-4 ur,False,prebujanja,Prebujanja,https://www.dobreknjige.si/knjige/prebujanja/
+Silva Ponikvar,4.7,17,210,7-7 ur,False,ljubimca-z-vosnjakove-ulice,Ljubimca z Vošnjakove ulice,https://www.dobreknjige.si/knjige/ljubimca-z-vosnjakove-ulice/
+John Banville,4.0,3,216,7-8 ur,True,morje,Morje,https://www.dobreknjige.si/knjige/morje/
+Sue Monk Kidd,4.7,18,373,12-13 ur,False,skrivno-zivljenje-cebel,Skrivno življenje čebel,https://www.dobreknjige.si/knjige/skrivno-zivljenje-cebel/
+J. M. Coetzee,4.0,2,343,11-12 ur,False,jezusovo-otrostvo,Jezusovo otroštvo,https://www.dobreknjige.si/knjige/jezusovo-otrostvo/
+Tomaž Kosmač,4.7,3,161,5-6 ur,False,sabina,Sabina,https://www.dobreknjige.si/knjige/sabina/
+Amy Chua,4.0,17,248,8-9 ur,False,bojna-pesem-mame-tigrice,Bojna pesem mame tigrice,https://www.dobreknjige.si/knjige/bojna-pesem-mame-tigrice/
+Andrej E. Skubic,3.9,7,268,8-9 ur,True,samo-pridi-domov,Samo pridi domov,https://www.dobreknjige.si/knjige/samo-pridi-domov/
+Evald Flisar,4.5,2,460,15-16 ur,False,opazovalec,Opazovalec,https://www.dobreknjige.si/knjige/opazovalec/
+Manca Košir,4.6,17,408,13-14 ur,False,darovi-minevanja,Darovi minevanja,https://www.dobreknjige.si/knjige/darovi-minevanja/
+Janice Galloway,4.5,16,547,18-19 ur,False,clara,Clara,https://www.dobreknjige.si/knjige/clara/
+Evald Flisar,4.6,7,300,10-10 ur,False,tam-me-bos-nasel,Tam me boš našel,https://www.dobreknjige.si/knjige/tam-me-bos-nasel/
+Morten Ramsland,4.5,10,494,16-17 ur,False,pasjeglavec,Pasjeglavec,https://www.dobreknjige.si/knjige/pasjeglavec/
+Toni Morrison,4.3,10,320,10-11 ur,True,ljubljena,Ljubljena,https://www.dobreknjige.si/knjige/ljubljena/
+Graham Swift,3.7,3,272,9-10 ur,True,zadnja-zelja-2,Zadnja želja,https://www.dobreknjige.si/knjige/zadnja-zelja-2/
+Simone de Beauvoir,5.0,2,119,3-4 ur,False,nesporazum-v-moskvi,Nesporazum v Moskvi,https://www.dobreknjige.si/knjige/nesporazum-v-moskvi/
+Anna Woltz,4.0,2,170,5-6 ur,False,dekle-z-marsa,Dekle z Marsa,https://www.dobreknjige.si/knjige/dekle-z-marsa/
+Julia Franck,4.7,3,227,7-8 ur,False,ljubeznivec,Ljubeznivec,https://www.dobreknjige.si/knjige/ljubeznivec/
+David Lodge,4.5,4,317,10-11 ur,True,na-drugem-mestu-zgodba-o-dveh-kampusih,Na drugem mestu : zgodba o dveh kampusih,https://www.dobreknjige.si/knjige/na-drugem-mestu-zgodba-o-dveh-kampusih/
+Mateja Črv Sužnik,4.0,3,144,4-5 ur,False,zlocin,Zločin,https://www.dobreknjige.si/knjige/zlocin/
+Anton Komat,5.0,2,195,6-7 ur,False,varuhi-vrbovega-loga,Varuhi Vrbovega Loga,https://www.dobreknjige.si/knjige/varuhi-vrbovega-loga/
+Janko Kos,4.8,12,203,6-7 ur,False,umetniki-in-mescani,Umetniki in meščani,https://www.dobreknjige.si/knjige/umetniki-in-mescani/
+Daria Bignardi,4.7,32,231,7-8 ur,False,popolna-akustika,Popolna akustika,https://www.dobreknjige.si/knjige/popolna-akustika/
+Carl-Johan Vallgren,4.7,18,352,11-12 ur,False,moz-v-senci,Mož v senci,https://www.dobreknjige.si/knjige/moz-v-senci/
+Milica Šturm,4.8,13,224,7-8 ur,False,iskanje-itake,Iskanje Itake,https://www.dobreknjige.si/knjige/iskanje-itake/
+Andrés Neuman,4.7,19,172,5-6 ur,False,samogovori,Samogovori,https://www.dobreknjige.si/knjige/samogovori/
+Evald Flisar,5.0,2,274,9-10 ur,False,zacarani-odisej,Začarani Odisej,https://www.dobreknjige.si/knjige/zacarani-odisej/
+Arni Thorarinsson,4.7,16,328,10-11 ur,False,cas-carovnic,Čas čarovnic,https://www.dobreknjige.si/knjige/cas-carovnic/
+María Teresa Andruetto,4.0,3,85,2-3 ur,True,juanova-dezela,Juanova dežela,https://www.dobreknjige.si/knjige/juanova-dezela/
+Mariša Ogris,5.0,1,679,22-23 ur,False,sence-niverona,Sence Niverona,https://www.dobreknjige.si/knjige/sence-niverona/
+Lois Lowry,4.5,2,220,7-8 ur,False,varuh-spominov,Varuh spominov,https://www.dobreknjige.si/knjige/varuh-spominov/
+Marie-Aude Murail,4.2,5,191,6-7 ur,True,simpl,Simpl,https://www.dobreknjige.si/knjige/simpl/
+Salla Simukka,4.0,5,260,8-9 ur,True,rdeca-kot-kri-prva-knjiga-trilogije-sneguljcica,Rdeča kot kri : prva knjiga trilogije Sneguljčica,https://www.dobreknjige.si/knjige/rdeca-kot-kri-prva-knjiga-trilogije-sneguljcica/
+Žarko Petan,4.7,15,197,6-7 ur,False,hotel-dubrovnik,Hotel Dubrovnik,https://www.dobreknjige.si/knjige/hotel-dubrovnik/
+Aminatta Forna,4.5,10,352,11-12 ur,False,najemnik,Najemnik,https://www.dobreknjige.si/knjige/najemnik/
+Yasmina Khadra,4.5,4,249,8-9 ur,False,napad,Napad,https://www.dobreknjige.si/knjige/napad/
+Pavol Rankov,5.0,2,462,15-16 ur,True,zgodilo-se-je-prvega-septembra-ali-pa-kdaj-drugic-zgodovinski-roman-iz-let-1938-1968,Zgodilo se je prvega septembra (ali pa kdaj drugič) : zgodov [...],https://www.dobreknjige.si/knjige/zgodilo-se-je-prvega-septembra-ali-pa-kdaj-drugic-zgodovinski-roman-iz-let-1938-1968/
+Feri Lainšček,5.0,1,197,6-7 ur,False,sprehajalisca-za-vracanje,Sprehajališča za vračanje,https://www.dobreknjige.si/knjige/sprehajalisca-za-vracanje/
+Dragan Velikić,5.0,3,345,11-12 ur,False,rusko-okno,Rusko okno,https://www.dobreknjige.si/knjige/rusko-okno/
+Chimamanda Ngozi Adichie,4.8,13,494,16-17 ur,False,amerikanka,Amerikanka,https://www.dobreknjige.si/knjige/amerikanka/
+Ryunosuke Akutagawa,5.0,3,78,2-3 ur,False,rasomon-in-druge-zgodbe,Rašomon in druge zgodbe,https://www.dobreknjige.si/knjige/rasomon-in-druge-zgodbe/
+Amin Maalouf,4.7,7,345,11-12 ur,False,samarkand,Samarkand,https://www.dobreknjige.si/knjige/samarkand/
+Lionel Shriver,4.6,31,480,16-16 ur,True,pogovoriti-se-morava-o-kevinu,Pogovoriti se morava o Kevinu,https://www.dobreknjige.si/knjige/pogovoriti-se-morava-o-kevinu/
+Tomás Eloy Martínez,4.0,5,270,9-9 ur,False,pevec-tanga,Pevec tanga,https://www.dobreknjige.si/knjige/pevec-tanga/
+Vladimir Vertlib,5.0,2,396,13-14 ur,False,nenavadni-spomin-roze-mazur,Nenavadni spomin Roze Mazur,https://www.dobreknjige.si/knjige/nenavadni-spomin-roze-mazur/
+Marko Pavliha,5.0,1,199,6-7 ur,False,dvanajst-pred-dvanajsto-ali-za-norost-je-zdravilo-le-modrost,Dvanajst pred dvanajsto ali Za norost je zdravilo le modrost,https://www.dobreknjige.si/knjige/dvanajst-pred-dvanajsto-ali-za-norost-je-zdravilo-le-modrost/
+Maurice Béjart,5.0,1,293,9-10 ur,False,trenutek-v-zivljenju-drugega,Trenutek v življenju drugega,https://www.dobreknjige.si/knjige/trenutek-v-zivljenju-drugega/
+Sebastijan Pregelj,4.7,6,184,6-7 ur,False,kronika-pozabljanja,Kronika pozabljanja,https://www.dobreknjige.si/knjige/kronika-pozabljanja/
+Tiziano Terzani,4.8,11,495,16-17 ur,False,vedezevalec-mi-je-rekel,Vedeževalec mi je rekel,https://www.dobreknjige.si/knjige/vedezevalec-mi-je-rekel/
+Brina Švigelj-Mérat,4.7,14,147,4-5 ur,False,slovenski-obraz,Slovenski obraz,https://www.dobreknjige.si/knjige/slovenski-obraz/
+Zoran Knežević,4.7,13,156,5-6 ur,True,dvozivke-umirajo-dvakrat,Dvoživke umirajo dvakrat,https://www.dobreknjige.si/knjige/dvozivke-umirajo-dvakrat/
+Jesús Ferrero,4.3,4,257,8-9 ur,False,amador-ali-pripoved-srecnega-cloveka,Amador ali pripoved srečnega človeka,https://www.dobreknjige.si/knjige/amador-ali-pripoved-srecnega-cloveka/
+Siri Hustvedt,4.6,18,202,6-7 ur,False,poletje-brez-moskih,Poletje brez moških,https://www.dobreknjige.si/knjige/poletje-brez-moskih/
+Michal Viewegh,4.6,7,83,2-3 ur,False,ucna-ura-ustvarjalnega-pisanja,Učna ura ustvarjalnega pisanja,https://www.dobreknjige.si/knjige/ucna-ura-ustvarjalnega-pisanja/
+Camilla Läckberg,4.7,31,524,17-18 ur,False,neznanka,Neznanka,https://www.dobreknjige.si/knjige/neznanka/
+Albert Camus,4.6,38,106,3-4 ur,False,tujec-2,Tujec,https://www.dobreknjige.si/knjige/tujec-2/
+Virginia Woolf,4.8,13,319,10-11 ur,False,trenutki-videnja,Trenutki videnja,https://www.dobreknjige.si/knjige/trenutki-videnja/
+Pavol Rankov,4.3,3,322,10-11 ur,False,matere,Matere,https://www.dobreknjige.si/knjige/matere/
+Sebastijan Pregelj,5.0,1,156,5-6 ur,False,cirilina-roza,Cirilina roža,https://www.dobreknjige.si/knjige/cirilina-roza/
+Brina Svit,4.0,4,98,3-4 ur,False,hvalnica-locitvi,Hvalnica ločitvi,https://www.dobreknjige.si/knjige/hvalnica-locitvi/
+Marko Pavliha,5.0,2,224,7-8 ur,False,pavlihizmi-in-slicna-civkanja-brez-twiterja,Pavlihizmi in slična čivkanja brez twiterja,https://www.dobreknjige.si/knjige/pavlihizmi-in-slicna-civkanja-brez-twiterja/
+Magdalena Cundrič,4.5,2,199,6-7 ur,False,caj-v-parku,Čaj v parku,https://www.dobreknjige.si/knjige/caj-v-parku/
+Nora Ephron,3.9,7,146,4-5 ur,False,moj-vrat-mi-gre-na-zivce-in-druge-misli-o-tem-kako-je-biti-zenska,"Moj vrat mi gre na živce in druge misli o tem, kako je biti [...]",https://www.dobreknjige.si/knjige/moj-vrat-mi-gre-na-zivce-in-druge-misli-o-tem-kako-je-biti-zenska/
+Kirsten Boie,4.2,6,413,13-14 ur,False,alhambra,Alhambra,https://www.dobreknjige.si/knjige/alhambra/
+Renata Picej,2.3,4,290,9-10 ur,False,cas-ladij,Čas ladij,https://www.dobreknjige.si/knjige/cas-ladij/
+Jenny-Mai Nuyen,4.0,1,416,13-14 ur,False,nijura-dediscina-vilinske-krone,Nijura : dediščina vilinske krone,https://www.dobreknjige.si/knjige/nijura-dediscina-vilinske-krone/
+Rudi Podržaj,5.0,6,390,13-13 ur,False,simonove-price,Simonove priče,https://www.dobreknjige.si/knjige/simonove-price/
+Alessandro D&#8217;Avenia,4.0,3,319,10-11 ur,False,stvari-ki-jih-nihce-ne-ve,"Stvari, ki jih nihče ne ve",https://www.dobreknjige.si/knjige/stvari-ki-jih-nihce-ne-ve/
+Haruki Murakami,4.3,26,236,7-8 ur,False,juzno-od-meje-zahodno-od-sonca,"Južno od meje, zahodno od sonca",https://www.dobreknjige.si/knjige/juzno-od-meje-zahodno-od-sonca/
+Roman Rozina,5.0,2,207,6-7 ur,False,stirje-v-vrsti,Štirje v vrsti,https://www.dobreknjige.si/knjige/stirje-v-vrsti/
+Eve Ensler,4.3,3,,,False,custveno-bitje-sem-skrivno-zivljenje-deklet-po-vsem-svetu,Čustveno bitje sem: skrivno življenje deklet po vsem svetu,https://www.dobreknjige.si/knjige/custveno-bitje-sem-skrivno-zivljenje-deklet-po-vsem-svetu/
+Danilo Kiš,4.0,2,318,10-11 ur,False,pescena-ura,Peščena ura,https://www.dobreknjige.si/knjige/pescena-ura/
+David Valdes Greenwood,4.3,3,175,5-6 ur,False,homo-domesticus-zapisi-iz-istospolnega-zakona,Homo domesticus : zapisi iz istospolnega zakona,https://www.dobreknjige.si/knjige/homo-domesticus-zapisi-iz-istospolnega-zakona/
+Sebastijan Pregelj,4.0,3,239,7-8 ur,False,na-terasi-babilonskega-stolpa,Na terasi babilonskega stolpa,https://www.dobreknjige.si/knjige/na-terasi-babilonskega-stolpa/
+Tone Kregar,4.3,3,117,3-4 ur,False,kravatni-gen,Kravatni gen,https://www.dobreknjige.si/knjige/kravatni-gen/
+Alek Popov,4.3,4,223,7-8 ur,False,misija-london,Misija London,https://www.dobreknjige.si/knjige/misija-london/
+Neil Gaiman,4.0,15,573,19-20 ur,True,ameriski-bogovi,Ameriški bogovi,https://www.dobreknjige.si/knjige/ameriski-bogovi/
+Patrick Ness,4.5,12,214,7-8 ur,True,sedem-minut-cez-polnoc-napisano-po-zamisli-siobhan-dowd,Sedem minut čez polnoč : napisano po zamisli Siobhan Dowd,https://www.dobreknjige.si/knjige/sedem-minut-cez-polnoc-napisano-po-zamisli-siobhan-dowd/
+Timothée de Fombelle,5.0,1,353,11-12 ur,False,med-nebom-in-zemljo-1-vango,"Med nebom in zemljo. 1, Vango",https://www.dobreknjige.si/knjige/med-nebom-in-zemljo-1-vango/
+Živa Šorn,4.7,3,216,7-8 ur,False,mamamorfoza-ali-sarina-popolna-preobrazba,Mamamorfoza ali Sarina popolna preobrazba,https://www.dobreknjige.si/knjige/mamamorfoza-ali-sarina-popolna-preobrazba/
+Fabio Geda,3.9,14,175,5-6 ur,False,v-morju-so-krokodili-resnicna-zgodba-enajatolaha-akbarija,V morju so krokodili : resnična zgodba Enajatolaha Akbarija,https://www.dobreknjige.si/knjige/v-morju-so-krokodili-resnicna-zgodba-enajatolaha-akbarija/
+Kevin Brooks,4.4,9,345,11-12 ur,False,iboy,iBoy,https://www.dobreknjige.si/knjige/iboy/
+Suzana Tratnik,3.6,7,153,5-6 ur,False,ime-mi-je-damjan,Ime mi je Damjan,https://www.dobreknjige.si/knjige/ime-mi-je-damjan/
+Cvetka Sokolov,4.8,12,245,8-9 ur,False,kar-ne-ubije,Kar ne ubije,https://www.dobreknjige.si/knjige/kar-ne-ubije/
+Nada Polajžer,0.0,0,223,7-8 ur,False,najtisje-ure,Najtišje ure,https://www.dobreknjige.si/knjige/najtisje-ure/
+Sebastijan Pregelj,4.0,3,117,3-4 ur,False,burkaci-skrunilci-in-krivoprisezniki,"Burkači, skrunilci in krivoprisežniki",https://www.dobreknjige.si/knjige/burkaci-skrunilci-in-krivoprisezniki/
+Sebastijan Pregelj,4.8,4,219,7-8 ur,False,moz-ki-je-jahal-tigra,"Mož, ki je jahal tigra",https://www.dobreknjige.si/knjige/moz-ki-je-jahal-tigra/
+Viktor Olegovič Pelevin,4.0,5,381,12-13 ur,False,sveta-knjiga-volkodlaka,Sveta knjiga volkodlaka,https://www.dobreknjige.si/knjige/sveta-knjiga-volkodlaka/
+Feri Lainšček,4.3,3,232,7-8 ur,False,orkester-za-poljube,Orkester za poljube,https://www.dobreknjige.si/knjige/orkester-za-poljube/
+Mihail Afanas´evič Bulgakov,4.5,30,416,13-14 ur,False,mojster-in-margareta,Mojster in Margareta,https://www.dobreknjige.si/knjige/mojster-in-margareta/
+Roman Rozina,4.5,4,232,7-8 ur,True,zupanski-kandidat-gams,Županski kandidat Gams,https://www.dobreknjige.si/knjige/zupanski-kandidat-gams/
+Sebastijan Pregelj,5.0,2,231,7-8 ur,False,leta-milosti,Leta milosti,https://www.dobreknjige.si/knjige/leta-milosti/
+Patrick Modiano,5.0,4,189,6-7 ur,True,ulica-boutiques-obscures,Ulica Boutiques obscures,https://www.dobreknjige.si/knjige/ulica-boutiques-obscures/
+Cathy Marie Buchanan,4.1,9,419,13-14 ur,False,mala-plesalka,Mala plesalka,https://www.dobreknjige.si/knjige/mala-plesalka/
+Ifigenija Simonović,4.2,5,278,9-10 ur,True,konci-in-kraji,Konci in kraji,https://www.dobreknjige.si/knjige/konci-in-kraji/
+Oya Baydar,5.0,4,495,16-17 ur,False,izgubljena-beseda,Izgubljena beseda,https://www.dobreknjige.si/knjige/izgubljena-beseda/
+Andrej Nikolaidis,4.4,5,165,5-6 ur,False,mimesis,Mimesis,https://www.dobreknjige.si/knjige/mimesis/
+Tone Peršak,5.0,2,379,12-13 ur,False,usedline,Usedline,https://www.dobreknjige.si/knjige/usedline/
+Stéphane Audeguy,4.0,1,200,6-7 ur,False,edini-sin,Edini sin,https://www.dobreknjige.si/knjige/edini-sin/
+Siobhan Dowd,4.6,14,327,10-11 ur,True,barjanski-otrok,Barjanski otrok,https://www.dobreknjige.si/knjige/barjanski-otrok/
+Ismail Kadaré,4.0,9,183,6-7 ur,False,palaca-sanj,Palača sanj,https://www.dobreknjige.si/knjige/palaca-sanj/
+Catalin Dorian Florescu,4.3,3,279,9-10 ur,False,slepi-maser,Slepi maser,https://www.dobreknjige.si/knjige/slepi-maser/
+Neil Jordan,4.4,5,372,12-13 ur,False,v-kozi-drugega,V koži drugega,https://www.dobreknjige.si/knjige/v-kozi-drugega/
+Lidija Dimkovska,4.3,6,429,14-15 ur,True,rezervno-zivljenje,Rezervno življenje,https://www.dobreknjige.si/knjige/rezervno-zivljenje/
+Goran Vojnović,4.3,4,221,7-8 ur,False,prvic,Prvič,https://www.dobreknjige.si/knjige/prvic/
+Neil Gaiman,4.3,7,149,4-5 ur,False,kaj-pa-mleko,Kaj pa mleko?,https://www.dobreknjige.si/knjige/kaj-pa-mleko/
