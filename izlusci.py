@@ -2,14 +2,6 @@ import re
 import os
 import json
 
-# --- OPOMBA ---
-# Ker gre za regex-parsanje surove HTML kode, so spodnji vzorci narejeni na
-# podlagi opazovane strukture strani. Za naslov/url knjige (<h2><a href=...>)
-# je vzorec zanesljiv, saj WordPress naslove knjig dosledno ovija v <h2>.
-# Za avtorja in oznako nagrad/ocene je vzorec prilagojen dejanski strukturi strani. 
-# Če katero od teh polj po zagonu ostane prazno, je treba pregledati HTML v 
-# podatki/html_knjig/ in vzorec ustrezno posodobiti."
-
 vzorec_knjige = re.compile(
     r'<h2[^>]*>\s*<a[^>]*href="(?P<url>https://www\.dobreknjige\.si/knjige/[^"]+)"[^>]*>'
     r'(?P<naslov>.*?)</a>\s*</h2>',
@@ -29,6 +21,8 @@ def pocisti(besedilo):
 
 
 def odstrani_duplikate(seznam, kljuc):
+    """Odstrani podvojene elemente iz seznama slovarjev glede na dani ključ,
+    pri čemer obdrži prvo pojavitev vsakega unikatnega vnosa."""
     videni = set()
     unikatni = []
     for element in seznam:
@@ -85,8 +79,17 @@ def podrobnosti_knjig(podatki_in_htmlji):
 
 
 def izlusci_podrobnosti_o_knjigi(vsebina):
-    """Iz HTML vsebine PODSTRANI POSAMEZNE KNJIGE izlušči avtorja, oceno,
-    število strani in čas branja."""
+    """Iz HTML vsebine podstrani posamezne knjige izlušči avtorja, oceno,
+    število ocen, število strani, čas branja in podatek o nagradah.
+
+    Ocena ni zapisana kot golo besedilo (npr. "4,3"), ampak kot odstotek
+    širine vrstice zvezdic (style="width:86%", kar ustreza 86 % od 5
+    zvezdic oz. oceni 4,3), zato jo iz odstotka izračunamo nazaj.
+
+    Število nagrad iščemo posebej po strukturi
+    <span class="label-bold">Nagrade</span> ... <p class="feature__subtitle ...">2</p>,
+    saj se beseda "Nagrade" na strani pojavi tudi drugje (navigacija, zavihki),
+    kjer ne pomeni dejanskega števila nagrad."""
 
     avtor_re = re.search(
         r'<a[^>]*href="https://www\.dobreknjige\.si/avtorji/[^"]+"[^>]*>(?P<avtor>.*?)</a>',
@@ -94,37 +97,26 @@ def izlusci_podrobnosti_o_knjigi(vsebina):
         re.DOTALL,
     )
 
-    # "Število strani" je sledeno (morda čez nekaj HTML oznak) s samim
-    # številom
     stevilo_strani_re = re.search(
         r'Število strani\s*(?:</[^>]+>\s*<[^>]+>\s*)*?(?P<st_strani>\d+)',
         vsebina,
         re.DOTALL,
     )
 
-    # Za "Čas branja" je med napisom in dejansko vrednostjo (npr. "16-17 ur")
-    # vrinjeno pojasnilo, zato iščemo prvo naslednjo vrednost oblike
-    # "ŠTEVILKA ur" ali "ŠTEVILKA min" (lahko tudi razpon "16-17 ur")
     cas_branja_re = re.search(
         r'Čas branja.*?(?P<cas_branja>\d+(?:-\d+)?\s*(?:ur|min))',
         vsebina,
         re.DOTALL,
     )
 
-    # Ocena ni zapisana kot golo besedilo "4,3", ampak kot odstotek širine
-    # vrstice zvezdic: style="width:86%" (86 % od 5 zvezdic = 4,3)
     sirina_re = re.search(
         r'rating-calculated"\s+style="width:\s*(?P<sirina>[\d.]+)%"',
         vsebina,
     )
     ocena = round(float(sirina_re["sirina"]) / 100 * 5, 1) if sirina_re else None
 
-    # "Število ocen:" je ločena statistika bolj proti dnu strani
     stevilo_ocen_re = re.search(r'Število ocen:[^0-9]{0,50}(?P<st_ocen>\d+)', vsebina)
 
-    # Beseda "Nagrade" se na strani pojavi večkrat (navigacija, zavihki ...),
-    # zato iščemo POSEBEJ blok z isto strukturo kot pri "Število strani":
-    # <span class="label-bold">Nagrade</span> ... <p class="feature__subtitle ...">2</p>
     nagrade_re = re.search(
         r'label-bold">Nagrade</span>.*?feature__subtitle[^>]*>\s*(?P<st_nagrad>\d+)\s*</p>',
         vsebina,

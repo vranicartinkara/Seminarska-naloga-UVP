@@ -42,6 +42,7 @@ def pridobi_htmlje(stevilo_strani, mapa="podatki/html_strani"):
     organizacije Mestna knjižnica Ljubljana."""
     os.makedirs(mapa, exist_ok=True)
     for i in range(1, stevilo_strani + 1):
+        print(f"[pridobi] Seznamska stran {i}/{stevilo_strani} ...")
         pot_datoteke = os.path.join(mapa, f"stran{i}.html")
         url = sestavi_url_strani(i)
         pridobi_ali_preberi_html(url, pot_datoteke)
@@ -54,8 +55,12 @@ def pridobi_htmlje_knjig(osnovni_podatki, mapa="podatki/html_knjig"):
     """
     os.makedirs(mapa, exist_ok=True)
     podatki_in_htmlji = []
+    skupaj = len(osnovni_podatki)
 
-    for podatek in osnovni_podatki:
+    for i, podatek in enumerate(osnovni_podatki, start=1):
+        if i % 10 == 0 or i == skupaj:
+            print(f"[pridobi] Podstran knjige {i}/{skupaj} ...")
+
         ime_datoteke = f"{podatek['id']}.html"
         pot_datoteke = os.path.join(mapa, ime_datoteke)
 
