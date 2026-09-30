@@ -6,11 +6,9 @@ import json
 # Ker gre za regex-parsanje surove HTML kode, so spodnji vzorci narejeni na
 # podlagi opazovane strukture strani. Za naslov/url knjige (<h2><a href=...>)
 # je vzorec zanesljiv, saj WordPress naslove knjig dosledno ovija v <h2>.
-# Za avtorja in oznako (nagrajena/ocena) pa je vzorec "najboljša ocena" -
-# če po prvem zagonu pridobi.py + izlusci.py katero od teh polj ostane
-# prazno, odpri eno od datotek v podatki/html_strani/, poišči (Ctrl+F) en
-# naslov knjige in mi prilepi ~30 vrstic kode okoli njega, da vzorec
-# prilagodim.
+# Za avtorja in oznako nagrad/ocene je vzorec prilagojen dejanski strukturi strani. 
+# Če katero od teh polj po zagonu ostane prazno, je treba pregledati HTML v 
+# podatki/html_knjig/ in vzorec ustrezno posodobiti."
 
 vzorec_knjige = re.compile(
     r'<h2[^>]*>\s*<a[^>]*href="(?P<url>https://www\.dobreknjige\.si/knjige/[^"]+)"[^>]*>'
